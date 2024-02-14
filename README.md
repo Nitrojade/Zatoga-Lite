@@ -1,5 +1,5 @@
 # Zatoga
-An offline PWA to easily get distracted with by:
+A PWA to easily get distracted with by:
 * Playing Games such as: 
   * Doodle Jump
   * Chrome Dino
@@ -9,14 +9,8 @@ An offline PWA to easily get distracted with by:
 
 
 ### Hosting:
-* **Fast (recommended): https://zato.ga** (temporarily down)
-* Fast: https://zatoga.irom.ga/
-* Fast: https://zatoga.netlify.app/
-* Stable: https://zatoga.pages.dev/
-* Testing: https://zatoga-beta.irom1.repl.co/
-* Stable: https://zatoga.vercel.app/
-* Stable: https://zatoga-irom1.vercel.app/
-* Stable: https://zatoga-git-master-irom1.vercel.app/
+* **Fast (recommended): https://lite.zatoga.net
+* Host yourself
 
 ### Credits
 The Progressive Web App is made by me but the games were not made by me. Game credits are below:
@@ -24,8 +18,11 @@ The Progressive Web App is made by me but the games were not made by me. Game cr
 * https://github.com/zhouchangxun/superMario
 * https://codepen.io/camsong/pen/wcKrg
 * https://codepen.io/v120/pen/eGdOLq <-- Sourced from Chromium
+* 3kh0
+* And Much, Much More
 ## Game Sources
 * https://html5-games.io/
+* Thanks to 3kh0
 * https://holyubofficial.com/
 * https://gamemontize.com/
 * More
