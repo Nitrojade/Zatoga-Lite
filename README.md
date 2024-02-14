@@ -1,5 +1,6 @@
-# Zatoga
-A PWA to easily get distracted with by:
+# Zatoga Lite Edition
+Zatoga Lite features a snapshot of the Zatoga website as it was at the end of 2021.
+A PWA to easily get distracted by:
 * Playing Games such as: 
   * Doodle Jump
   * Chrome Dino
