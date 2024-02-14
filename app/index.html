@@ -649,62 +649,124 @@ for (i = 0; i < coll.length; i++) {
       document.getElementById("Game-Not-Found").style.display = "none";
       document.getElementById("searchBox").onkeyup = sortGames;
     </script> -->
-     <script> 
-      async function popular(){
-        // Game Curation (from games.json)
-        let games = await fetch("popular.json");
-        games = await games.json();
-        gameArray = [];
-        for(var key in games) {
-          gameArray.push(key);
-        }
+    <script>
+      async function popular() {
+        let response = await fetch("popular.json");
+        let games = await response.json();
+    
         let gameElems = "";
         let onMobile = /Mobi|Android|webOS|iPhone|iPad|iPod|BlackBerry|BB|PlayBook|IEMobile|Windows Phone|Kindle|Silk|Opera Mini/i.test(navigator.userAgent);
+    
+        let latestGameCount = 0; // Declare latestGameCount here
+    
         function addGame(game) {
           // Clean up variables
-          if(!game["url"])game["url"]=""
-          if(!game["width"]) {
-            game["width"]=""
+          if (!game["url"]) game["url"] = "";
+          if (!game["width"]) {
+            game["width"] = "";
           } else {
-            game["width"] = "&width=" + game["width"]
+            game["width"] = "&width=" + game["width"];
           }
-          if(!game["height"]) {
-            game["height"]=""
+          if (!game["height"]) {
+            game["height"] = "";
           } else {
-            game["height"] = "&height=" + game["height"]
+            game["height"] = "&height=" + game["height"];
           }
           let gameString = game["title"].toLowerCase().replace(/ /g, "-");
+    
           // Add html for link to variable
-          if(game["service"] == "offline") {
-            gameElems += "<span class='game'><a href='/app/games/archive/" + gameString + "/'><span class='playbutton'>▶️ </span>" + game["title"] + "</a></span>"; 
-          } else if(game["premium"]) {
+          if (game["service"] == "custom") {
+            if (game["mobile"]) {
+              gameElems += "<span class='game'><a href='" + game["url"] + "'><span class='playbutton'>▶️ </span>" + game["title"] + "</a></span>";
+            } else {
+              gameElems += "<span class='game'><a class='internet disabled game' href='" + game["url"] + "'><span class='playbutton'>▶️ </span>" + game["title"] + "</a></span>";
+            }
+          } else if (game["service"] == "premium") {
             latestGameCount++;
-            gameElems += "<span class='game' title='This game requires premium' style='display:block;color:green;'><a class='premium disabled' onclick='if(window.loggedOut){window.loggedOut()} else if(!this.classList.contains(`disabled`)){location.href=`/app/games/online.html?game=" + game["title"] + "&url=" + game["url"] + game["width"] + game["height"] + game["height"] + "`}else{location.href=`/app/premium/`}'><span class='playbutton'>▶️<span class='online basic hide'></span> </span>" + game["name"] + "</a></span>";
-          } else {
-            gameElems += "<span class='game' title='This game requires internet' style='display:block;color:green;'><a class='internet disabled game' href='/app/games/online.html?game=" + game["title"] + "&url=" + game["url"] + game["width"] + game["height"] + "'><span class='playbutton'>▶️ </span>" + game["name"] + "</a></span>";
+            gameElems += "<span class='game' title='This game requires premium' style='display:block;color:green;'><a class='premium disabled' onclick='if(window.loggedOut){window.loggedOut()} else if(!this.classList.contains(`disabled`)){location.href=`/app/games/online.html?game=" + game["title"] + "&url=" + game["url"] + game["width"] + game["height"] + game["height"] + "`}else{location.href=`/app/premium/`}'><span class='playbutton'>▶️<span class='online basic hide'></span> </span>" + game["title"] + "</a></span>";
           }
         }
-        latestGameCount = 0;
-        for(var count=gameArray.length-1;count>=0;count--) {
-          let game = games[gameArray[count]];
-          if(!onMobile || game["mobile"]) {
-            if(latestGameCount < 0 ) {
+    
+        for (let game of games) {
+          if (!onMobile || game["mobile"]) {
+            if (latestGameCount < 0) {
               game["premium"] = true;
             }
             addGame(game);
           }
         }
-        // latestgamecount above- used to be 2, not 0.
+    
         document.getElementById("popular").innerHTML = gameElems;
-        if(navigator.onLine) {
-          x = document.getElementsByClassName("internet");
-          for(var i=0;i<x.length;i++) {
+    
+        if (navigator.onLine) {
+          let x = document.getElementsByClassName("internet");
+          for (let i = 0; i < x.length; i++) {
             x[i].classList.remove("disabled");
           }
         }
       }
+    
       popular();
     </script>
+    
+    <!--<script>
+      async function popular() {
+        let response = await fetch("popular.json");
+        let games = await response.json();
+
+        let gameElems = "";
+        let onMobile = /Mobi|Android|webOS|iPhone|iPad|iPod|BlackBerry|BB|PlayBook|IEMobile|Windows Phone|Kindle|Silk|Opera Mini/i.test(navigator.userAgent);
+
+        function addGame(game) {
+          // Clean up variables
+          if (!game["url"]) game["url"] = "";
+          if (!game["width"]) {
+            game["width"] = "";
+          } else {
+            game["width"] = "&width=" + game["width"];
+          }
+          if (!game["height"]) {
+            game["height"] = "";
+          } else {
+            game["height"] = "&height=" + game["height"];
+          }
+          let gameString = game["title"].toLowerCase().replace(/ /g, "-");
+
+          // Add html for link to variable
+          if (game["service"] == "custom") {
+            if (game["mobile"]) {
+              gameElems += "<span class='game'><a href='" + game["url"] + "'><span class='playbutton'>▶️ </span>" + game["title"] + "</a></span>";
+            } else {
+              gameElems += "<span class='game'><a class='internet disabled game' href='" + game["url"] + "'><span class='playbutton'>▶️ </span>" + game["title"] + "</a></span>";
+            }
+          } else if (game["service"] == "premium") {
+            latestGameCount++;
+            gameElems += "<span class='game' title='This game requires premium' style='display:block;color:green;'><a class='premium disabled' onclick='if(window.loggedOut){window.loggedOut()} else if(!this.classList.contains(`disabled`)){location.href=`/app/games/online.html?game=" + game["title"] + "&url=" + game["url"] + game["width"] + game["height"] + game["height"] + "`}else{location.href=`/app/premium/`}'><span class='playbutton'>▶️<span class='online basic hide'></span> </span>" + game["title"] + "</a></span>";
+          }
+        }
+
+        let latestGameCount = 0;
+        for (let game of games) {
+          if (!onMobile || game["mobile"]) {
+            if (latestGameCount < 0) {
+              game["premium"] = true;
+            }
+            addGame(game);
+          }
+        }
+
+        document.getElementById("popular").innerHTML = gameElems;
+
+        if (navigator.onLine) {
+          let x = document.getElementsByClassName("internet");
+          for (let i = 0; i < x.length; i++) {
+            x[i].classList.remove("disabled");
+          }
+        }
+      }
+
+      popular();
+    </script> -->
   
     <script>
       resize(900, 700);
