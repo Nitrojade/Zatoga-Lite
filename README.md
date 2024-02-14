@@ -11,7 +11,8 @@ A PWA to easily get distracted by:
 
 ### Hosting:
 * **Fast (recommended): https://lite.zatoga.net
-* Host yourself
+* https://zatoga-lite.pages.dev
+* Fork and host yourself
 
 ### Credits
 The Progressive Web App is made by me but the games were not made by me. Game credits are below:
