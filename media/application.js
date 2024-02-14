@@ -153,9 +153,9 @@ if(navigator.share) {
     x[i].style.visibility = "visible";
     x[i].addEventListener('click', event => {
       navigator.share({
-        title: 'Zatoga',
-        text: 'Zatoga - Play all the latest games unblocked- it is the easiest way to have fun!',
-        url: 'https://zato.ga/'
+        title: 'Zatoga Lite',
+        text: 'Zatoga Lite - Unblocked Games & More!',
+        url: 'https://lite.zatoga.net'
       }).then(() => {
         //console.log('Thanks for sharing!');
       }).catch(alert);

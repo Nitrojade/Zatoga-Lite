@@ -1,790 +1,4475 @@
-{
-   "Rob The Bank": {
-    "name": "Rob The Bank",
+[
+  {
+    "title": "Subway Surfers",
     "service": "custom",
-    "url": "https://money-game-jam--caialexander2914.repl.co/",
-    "premium": false,
-    "mobile": false
-  },
-    "Basketball Ultimate Swish Game": {
-    "name": "Basketball Ultimate Swish Game",
-    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly93d3cuYmFza2V0YmFsbGxlZ2VuZHMuZnVu_/gamedata/ultimate-swish-game",
-    "service": "custom",
-    "width": 900,
-    "height": 900,
-    "mobile": false,
-    "premium": false
-  },
-    "Hockey Shootout": {
-    "name": "Hockey Shootout",
-    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly93d3cuYmFza2V0YmFsbGxlZ2VuZHMuZnVu_/gamedata/hockey-shootout",
-    "service": "custom",
-    "width": 900,
-    "height": 900,
-    "mobile": false,
-    "premium": false
-  },
-
-    "Arrow Challenge": {
-    "name": "Arrow Challenge",
-    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9odG1sNS5nYW1lZGlzdHJpYnV0aW9uLmNvbQ==_/dec66ec8038040158eb34b3e459b263e/?gd_sdk_referrer_url=https%3A%2F%2Fwww.y8.com%2Fgames%2Farrow_challenge_&key=y8&value=default",
-    "service": "custom",
-    "width": 800,
-    "height": 600,
-    "mobile": false,
-    "premium": false
-  },
-    "Bubble Pop": {
-    "name": "Bubble Pop",
-    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9odG1sNS5nYW1lZGlzdHJpYnV0aW9uLmNvbQ==_/4083ecb5efb64504a7904361c7def2ab/?gd_sdk_referrer_url=https%3A%2F%2Fwww.y8.com%2Fgames%2Fbubble_shooter_pro_2&key=y8&value=default",
-    "service": "custom",
-    "width": 800,
-    "height": 600,
-    "mobile": false,
-    "premium": false
-  },
-     "Getaway Shootout": {
-    "name": "Getaway Shootout",
-    "service": "custom",
-    "url": "http://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly93OC5zbm9raWRvLmNvbQ==_/games/unity-webgl/getaway-shootout/index.html",
-    "premium": false,
-    "mobile": false
-  },
-    "Merge Candy": {
-    "name": "Merge Candy",
-    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly93d3cuc29saXRhaXJlLm9yZw==_/merge-the-gems/game.php",
-    "service": "custom",
-    "width": 900,
-    "height": 900,
-    "mobile": false,
-    "premium": false
-  },
-
-    "Knife Hit": {
-    "name": "Knife Hit",
-    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9zdG9yYWdlLnk4LmNvbQ==_/y8-studio/html5/akeemywka/knife_hit_y8/?key=y8&value=default",
-    "service": "custom",
-    "width": 450,
-    "height": 750,
-    "mobile": false,
-    "premium": false
-  },
-     "Lone Wolf Strike": {
-    "name": "Lone Wolf Strike",
-    "service": "custom",
-    "url": "https://g.eduninja.repl.co/unblocker/https:/html5.gamemonetize.com/xlv6xmnkfwj27yes8ly9t73icin4dmda/",
-    "premium": false,
-    "mobile": false
-  },
-    "Color Spinner": {
-    "name": "Color Spinner",
-    "service": "custom",
-    "premium": false,
-    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9zdG9yYWdlLnk4LmNvbQ==_/y8-studio/html5/akeemywka/color_spin_v2/index.html?key=y8&ratio_tolerant=true&value=default",
-    "width": 360,
-    "height": 630,
-    "mobile": false
-  },
-   "Mr Bullet": {
-    "name": "Mr Bullet",
-    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9odG1sNS5nYW1lbW9uZXRpemUuY28=_/2xiv169991w8f8ky01my2ilq0i843t46/",
-    "service": "custom",
-    "width": 960,
-    "height": 630,
-    "mobile": false,
-    "premium": false
-  },
-     "Ambulance Simulator": {
-    "name": "Ambulance Simulator",
-    "service": "custom",
-    "url": "https://g.eduninja.repl.co/unblocker/https:/html5.gamemonetize.com/ratf4yoenbbez953rz49xcb4mdwpukqm/",
-    "premium": false,
-    "mobile": false
-  },
-     "Color Flow": {
-    "name": "Color Flow",
-    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9odG1sNS5nYW1lZGlzdHJpYnV0aW9uLmNvbQ==_/6559b7dfea9d490baca528959cc2890e/?gd_sdk_referrer_url=https%3A%2F%2Fwww.y8.com%2Fgames%2Fcolor_flow_&key=y8&value=default",
-    "service": "custom",
-    "width": 450,
-    "height": 800,
-    "mobile": false,
-    "premium": false
-  },
-   "Rooftop Snipers": {
-    "name": "Rooftop Snipers",
-    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9zdG9yYWdlLnk4LmNvbQ==_/y8-studio/unity/akeemywka/rooftop_snipers/?key=y8&value=default",
-    "service": "custom",
-    "width": 900,
-    "height": 900,
-    "mobile": false,
-    "premium": false
-  },
-    "Lamborghini Drift Simulator": {
-    "name": "Lamborghini Drift Simulator",
-    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly93d3cuYmFza2V0YmFsbGxlZ2VuZHMuZnVu_/gamedata/lamborghini-drift-simulator",
-    "service": "custom",
-    "width": 900,
-    "height": 900,
-    "mobile": false,
-    "premium": false
-  },
-    "There Are No Zombies": {
-    "name":"There Are No Zombies",
-    "service":"custom",
-    "width": 900,
-    "height": 700,    
-"url":"https://g.eduninja.repl.co/unblocker/https:/v6p9d9t4.ssl.hwcdn.net/html/5577399/index.html",
-    "mobile":false,
-    "premium":false
-  },
-  "G-Switch 3": {
-    "name": "G-Switch 3",
-    "service": "html5-games",
-    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9odG1sNS1nYW1lcy5pbw==_/game/g-switch-3/",
-    "premium": false,
-    "mobile": false
-  },
-    "City Minibus Driver": {
-    "name": "City Minibus Driver",
-    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly93d3cuYmFza2V0YmFsbGxlZ2VuZHMuZnVu_/gamedata/city-minibus-driver",
-    "service": "custom",
-    "width": 900,
-    "height": 900,
-    "mobile": false,
-    "premium": false
-  },
-    "Top 10 Soccer Manager": {
-    "name": "Top 10 Soccer Manager",
-    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly93d3cuYmFza2V0YmFsbGxlZ2VuZHMuZnVu_/gamedata/top-10-soccer-managers",
-    "service": "custom",
-    "width": 900,
-    "height": 900,
-    "mobile": false,
-    "premium": false
-  },
-   "Basketball Stars": {
-    "name": "Basketball Stars",
-    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly93d3cuYmFza2V0YmFsbGxlZ2VuZHMuZnVu_/gamedata/basketball-stars",
-    "service": "custom",
-    "width": 900,
-    "height": 900,
-    "mobile": false,
-    "premium": false
-  },
-   "Surviv.io": {
-    "name":"Surviv.io",
-    "service":"custom",
-    "url":"https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9zdXJ2aXYuaW8=_/",
-    "mobile":false,
-    "premium":false
-  },
-      "Stunt Car Challenge 3": {
-    "name": "Stunt Car Challenge 3",
-    "service": "custom",
-    "url": "https://g.eduninja.repl.co/unblocker/https:/html5.gamemonetize.com/t6o1uc5zow2fpjk6u5i2kzh4xmt4teem/",
-    "premium": false,
-    "mobile": false
-  },
-    "Mountain Bike Racer": {
-    "name": "Mountain Bike Racer",
-    "service": "custom",
-    "url": "https://g.eduninja.repl.co/unblocker/https:/www.mathplayground.com/mountain-bike-racer/index.html",
-    "premium": false,
-    "mobile": false
-  },
-  "Slither.io": {
-    "name": "Slither.io",
-    "service": "custom",
-    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cDovL3NsaXRoZXIuaW8=_/",
-    "width": 900,
-    "height": 700,
-    "mobile": false,
-    "premium": false
-  },
-    "xx142-b2.exe Game": {
-    "name": "xx142-b2.exe Game",
-    "service": "custom",
-    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9jYXRjb3VwLnh5eg==_/archive/g/xx142-b2exe/",
-    "width": 900,
-    "height": 900,
-    "mobile": false,
-    "premium": false
-  },
-  "Narwhale.io": {
-    "name": "Narwhale.io",
-    "service": "custom",
-    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cDovL25hcndoYWxlLmlv_/",
-    "premium": false,
-    "mobile": false
-  },
-    "Drift Boss": {
-    "name": "Drift Boss",
-    "service": "custom",
-    "url": "https://g.eduninja.repl.co/unblocker/https:/www.mathplayground.com/drift-boss/index.html",
-    "premium": false,
-    "mobile": false
-  },
-    "Rhino Rink": {
-    "name": "Rhino Rink",
-    "service": "custom",
-    "url": "https://g.eduninja.repl.co/unblocker/https:/www.mathplayground.com/mobile_rhino_rink/index.html",
-    "premium": false,
-    "mobile": false
-  },  
-    "Defly.io": {
-    "name": "Defly.io",
-    "service": "custom",
-    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9kZWZseS5pbw==_/",
-    "premium": false,
-    "mobile": false
-  },
-    "Police Chase": {
-    "name": "Police Chase",
-    "service": "custom",
-    "url": "https://g.eduninja.repl.co/unblocker/https:/html5.gamemonetize.com/9c5voozfp7a4er5xv2vldjoaul5gd0pm/",
-    "premium": false,
-    "mobile": true
-  },
-    "Arena Wars": {
-    "name": "Arena Wars",
-    "service": "custom",
-    "url": "https://g.eduninja.repl.co/unblocker/https:/html5.gamemonetize.com/dylbqp715wpqev18kprel6j4d8zwvy49/",
-    "premium": false,
-    "mobile": false
-  },
-      "Lines": {
-    "name": "Lines",
-    "service": "custom",
-    "url": "https://ergrtg.herokuapp.com/web/_aHR0cHM6Ly9odG1sNS5nYW1lZGlzdHJpYnV0aW9uLmNvbQ==_/318d1f7fb5874c00bc8679b773ec9a67/?gd_sdk_referrer_url=https%3A%2F%2Fwww.y8.com%2Fgames%2Flines_&key=y8&value=default",
-    "width": 800,
-    "height": 450,
-    "premium": false,
-    "mobile": false
-  },
-    "Uno": {
-    "name": "Uno",
-    "service": "custom",
-    "url": "https://g.eduninja.repl.co/unblocker/https:/html5.gamemonetize.co/nzyxeod3knb7uw2b6yry1l8su588dex0/",
-    "width": 490,
-    "height": 800,
-    "mobile": false,
-    "premium": false
-  },
-    "Supercars Zombie Driving 2": {
-    "name": "Supercars Zombie Driving 2",
-    "service": "custom",
-    "url": "https://g.eduninja.repl.co/unblocker/https:/html5.gamemonetize.co/y8beyghin9gz988xxzjbu6fx757k477n/",
-    "width": 490,
-    "height": 800,
-    "mobile": false,
-    "premium": false
-  },
-  "Fruit Ninja": {
-    "name": "Fruit Ninja",
-    "service": "custom",
-    "url": "https://Fruit-Ninja-Game-Demo.numcomx.repl.co",
-    "premium": false,
-    "mobile": true
-  },
-    "Echo Beach": {
-    "name": "Echo Beach",
-    "service": "custom",
-    "url": "https://g.eduninja.repl.co/unblocker/https:/v6p9d9t4.ssl.hwcdn.net/html/4622246/index.html",
-    "width": 1300,
-    "height": 800,
-    "mobile": false,
-    "premium": false
-  },
-     "Snake": {
-    "name":"Snake",
-    "service":"custom",
-    "url":"https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly93d3cuZ29vZ2xlc25ha2UuY29t_/snakedesktop.php",
-    "mobile":true,
-    "premium":false
-  },
-    "Chess": {
-    "name":"Chess",
-    "service":"custom",
-    "url":"https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9jaGVzcy5jb29sbWF0aGdhbWVzLmNvbQ==_/",
-    "mobile": false,
-    "premium": false
-  },
-    "Dune Buggy - Battle Royale": {
-    "name": "Dune Buggy - Battle Royale",
-    "service": "custom",
-    "url": "https://g.eduninja.repl.co/unblocker/https:/html5.gamemonetize.com/lyz5klscniko116xapxhjd4cju9xo3ja/",
-    "premium": false,
-    "mobile": false
-  },
-    "Hexanaut.io": {
-    "name":"Hexanaut.io",
-    "service":"custom",
-    "url":"https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9oZXhhbmF1dC5pbw==_/",
-    "mobile":false,
-    "premium":false
-  },
-    "Cookie Clicker": {
-    "name": "Cookie Clicker",
-    "service": "custom",
-    "url": "https://ozh.github.io/cookieclicker/",
-    "premium": false,
-    "mobile": false
-  },
-    "Chrome Dino": {
-    "name": "Chrome Dino",
-    "service": "custom",
-    "url": "https://t-rex.vercel.app/",
-    "premium": false,
-    "mobile": true
-  },
-    "Cut the Rope 2": {
-    "name": "Cut the Rope 2",
-    "service": "custom",
-    "url": "https://yell0wsuit.github.io/html5-games/games/CutTheRope",
     "mobile": true,
+    "url": "/games/subway-surfers/index.html",
+    "thumb": "/images/game-images/subways.webp",
+    "description": "An endless runner game where you dodge different oncoming trains and collect coins.",
     "premium": false
   },
-     "Giant Rabbit Run (Chungus)": {
-    "name": "Giant Rabbit Run (Chungus)",
+  {
+    "title": "1v1.LOL",
     "service": "custom",
-    "url": "https://g.eduninja.repl.co/unblocker/https:/www.mathplayground.com/giant-rabbit-run/index.html",
-    "premium": false,
-    "mobile": true
-  },
-    "Flappy Bird": {
-    "name": "Flappy Bird",
-    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cDovL3d3dy5mbGFwcHkub3Jn_/",
-    "service": "custom",
-    "width": 400,
-    "height": 900,
-    "mobile": true,
-    "premium": false
-  },
-    "Crossy Road": {
-    "name": "Crossy Road",
-    "service": "custom",
-    "premium": false,
-    "url": "https://yell0wsuit.github.io/html5-games/games/crossy-road/",
     "width": 900,
-    "height": 900,
-    "mobile": true
+    "height": 700,
+    "url": "/games/1v1lol/index.html",
+    "mobile": false,
+    "thumb": "/images/game-images/1v1.webp",
+    "description": "A  competitive online third-person shooter game in which you must strategically construct your way across the battlefield.",
+    "premium": false
   },
-  "Super Mario": {
-    "name": "Super Mario",
-    "service": "offline",
-    "premium": false,
-    "mobile": false
-  },
-   "S.U.R.F.": {
-    "name": "S.U.R.F.",
+  {
+    "title": "1v1.LOL [NEW!]",
     "service": "custom",
-    "url": "https://g.eduninja.repl.co/unblocker/https:/surf.jackbuehner.com/",
+    "width": 900,
+    "height": 700,
+    "url": "https://docs-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/mind4ur/WPpluginsync@main/lib/edit/up.xml",
+    "mobile": false,
+    "thumb": "/images/game-images/1v1_new.webp",
+    "description": "A  competitive online third-person shooter game in which you must strategically construct your way across the battlefield.",
+    "premium": false
+  },
+  {
+    "title": "Raft Wars 2",
+    "service": "custom",
     "width": 900,
     "height": 700,
     "mobile": false,
+    "url": "https://google-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%2Fraft-wars-2.xml",
+    "thumb": "/images/game-images/raftwars2.webp",
+    "description": "A high-speed action game rhythm-based platformer.",
     "premium": false
   },
- "Russian Car Driver HD": {
-    "name": "Russian Car Driver HD",
+  
+  {
+    "title": "Vex 8",
     "service": "custom",
-    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9zdG9yYWdlLnk4LmNvbQ==_/y8-studio/unity/joll/russian_car_driver_hd/?key=9757549&value=118904",
-    "width": 960,
-    "height": 580,
-    "mobile": false,
-    "premium": false
-  },
-   "Crowd City": {
-    "name": "Crowd City",
-    "service": "custom",
-    "url": "https://ergrtg.herokuapp.com/web/_aHR0cHM6Ly93d3cuY3Jvd2RjaXR5LWlvLmNvbQ==_/",
-    "width": 394,
-    "height": 700,
-    "mobile": false,
-    "premium": false
-  },
-     "2048 Cupcakes": {
-    "name": "2048 Cupcakes",
-    "service": "custom",
-    "url": "https://0x0800.github.io/2048-CUPCAKES/",
     "width": 900,
     "height": 700,
-    "mobile": true,
+    "url": "/games/vex8/index.html",
+    "mobile": false,
+    "thumb": "/images/game-images/vex8.webp",
+    "description": "Vex 8 is a challenging platformer game where you navigate through various obstacles and traps. Test your skills and reflexes as you try to reach the end of each level.",
     "premium": false
   },
-     "Gold Miner": {
-    "name": "Gold Miner",
+  {
+    "title": "Geometry Dash",
     "service": "custom",
-    "width": 800,
-    "height": 600,
-    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9nb2xkbWluZXIuZmJycS5pbw==_/goldminer/index.html?key=y8&ratio_tolerant=true&value=default",
-    "premium": false,
-    "mobile": false
-  },
-    "EvoWars.io": {
-    "name": "EvoWars.io",
-    "service": "custom",
-    "width": 800,
-    "height": 600,
-    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly95OC5ldm93YXJzLmlv_/?v=1.9.2",
-    "premium": false,
-    "mobile": false
-  },
-    "Skribbl.io": {
-    "name":"Skribbl.io",
-    "service":"custom",
-    "url":"https://ergrtg.herokuapp.com/web/_aHR0cHM6Ly9za3JpYmJsLmlv_/",
-    "mobile":false,
-    "premium":false
-  },
-    "Plague Inc": {
-    "name": "Plague Inc",
-    "service": "custom",
-    "width": 1019,
-    "height": 517,
-    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9odG1sNS5nYW1lZGlzdHJpYnV0aW9uLmNvbQ==_/f2a015a45b6443358238a54f8f4a557f/?gd_sdk_referrer_url=https%3A%2F%2Fwww.y8.com%2Fgames%2Fpandemic_simulator&key=y8&value=default",
-    "premium": false,
-    "mobile": false
-  },
-      "Apple Shooter": {
-    "name": "Apple Shooter",
-    "service": "custom",
-    "width": 800,
-    "height": 450,
-    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9odG1sNS5nYW1lZGlzdHJpYnV0aW9uLmNvbQ==_/f85e3e02194545208fa52da0c0992362/?gd_sdk_referrer_url=https%3A%2F%2Fwww.y8.com%2Fgames%2Fapple_shooter&key=y8&ratio_tolerant=true&value=default",
-    "premium": false,
-    "mobile": false
-  },
-     "Little Alchemy 2": {
-    "name": "Little Alchemy 2",
-    "service": "custom",
-    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9saXR0bGVhbGNoZW15Mi5jb20=_/",
-    "width": 900,
-    "height": 700,
-    "mobile": true,
-    "premium": false
-  },
-     "Death Run 3D": {
-    "name": "Death Run 3D",
-    "service": "custom",
-    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9zdG9yYWdlLnk4LmNvbQ==_/y8-studio/unity/joll/death_run_builds/death_run_wasm_v1/index.html?key=y8&ratio_tolerant=true&value=default",
     "width": 900,
     "height": 700,
     "mobile": false,
+    "url": "/app/games/archive/geometry-dash/",
+    "thumb": "/images/game-images/geo-dash.webp",
+    "description": "A high-speed action game rhythm-based platformer.",
     "premium": false
   },
- "Doodle Jump": {
-    "name": "Doodle Jump",
-    "service": "offline",
-    "premium": false,
-    "mobile": true
+  {
+    "title": "Fortnite - Remix",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "url": "https://storage.googleapis.com/zatoga-assets/games/fortnite/index.html",
+    "mobile": false,
+    "thumb": "/images/game-images/fortnite.webp",
+    "description": "Fortnite is a survival game where 100 players fight against each other in player versus player combat to be the last one standing.",
+    "premium": false
   },
-    "Agar.io": {
-    "name":"Agar.io PopSplit [Takes 30seconds+ to load!]",
-    "service":"custom",
+  {
+    "title": "Retro Bowl",
+    "service": "custom",
     "width": 970,
-    "height": 700,    
-"url":"https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9wb3BzcGxpdC51cw==_/",
-    "mobile":false,
-    "premium":false
+    "height": 700,
+    "url": "https://mountain658.pages.dev/g/retrobowl/",
+    "mobile": false,
+    "thumb": "/images/game-images/retrobowl.webp",
+    "description": "Retro Bowl is an American style football game created by New Star Games. Be the boss of your dream NFL franchise, expand your roster, and keep the fans happy!",
+    "premium": false
   },
-    "Surviv.io": {
-    "name": "Surviv.io",
+  {
+    "title": "BitLife",
     "service": "custom",
+    "width": 500,
+    "height": 700,
+    "url": "/games/bitlife/index.html",
+    "mobile": false,
+    "thumb": "/images/game-images/bitlife.webp",
+    "description": "BitLife is a fascinating life simulator that challenges you to make the right choices for your life. ",
+    "premium": false
+  },
+  {
+    "title": "Slope",
+    "service": "y8",
     "premium": false,
-    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9zdXJ2aXYuaW8=_/",
+    "url": "/games/slope/index.html",
     "width": 900,
-    "height": 900,
+    "height": 640,
+    "thumb": "/images/game-images/slope.webp",
+    "description": "A game where you speed down on a randomized slope, the further you go, the faster your ball travels.",
     "mobile": false
   },
-    "Paper.io Animals": {
-    "name": "Paper.io Animals",
+  {
+    "title": "Jetpack Joyride",
     "service": "custom",
-    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9wYXBlcmFuaW1hbHMuaW8=_/",
     "width": 900,
     "height": 700,
+    "url": "/games/jetpack-joyride/index.html",
     "mobile": false,
+    "thumb": "/images/game-images/jetpackjoyride.webp",
+    "description": "Jetpack Joyride is an endless runner where you fly a bullet-powered jetpack. Keep going for as long as you can, and pick up coins and survive!",
     "premium": false
   },
-    "Zombs Royale": {
-    "name": "Zombs Royale",
+  {
+    "title": "BlockPost",
     "service": "custom",
-    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly96b21ic3JveWFsZS5pbw==_/",
-    "width": 900,
-    "height": 900,
-    "mobile": false,
-    "premium": false
+    "url": "/games/blockpost/index.html",
+    "premium": false,
+    "thumb": "/images/game-images/blockpost.webp",
+    "description": "A top-tier battle royale game. Collect as many weapons and survive until you are the last person! Or try out the many different amazing modes!",
+    "mobile": false
   },
-    "Moto X3M 4 Winter": {
-    "name": "Moto X3M 4 Winter",
-    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly93d3cuYmFza2V0YmFsbGxlZ2VuZHMuZnVu_/gamedata/moto-x3m-4-winter",
+  {
+    "title": "Stickman Hook",
     "service": "custom",
-    "width": 900,
-    "height": 900,
-    "mobile": false,
-    "premium": false
-  },
-    "Taming.io": {
-    "name":"Taming.io",
-    "service":"custom",
-    "url":"https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly90YW1pbmcuaW8=_/",
-    "mobile":false,
-    "premium":false
-  },
-      "Copter.io": {
-    "name":"Copter.io",
-    "service":"custom",
-    "url":"https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9jb3B0ZXIuaW8=_/?game-language=en",
-    "mobile":false,
-    "premium":false
-  },
-    "Minecraft - Javascript Edition": {
-    "name": "Minecraft - Javascript Edition",
-    "service": "offline",
     "width": 900,
     "height": 700,
+    "url": "https://stickman-hook.pages.dev/",
     "mobile": false,
+    "thumb": "/images/game-images/stickman.webp",
+    "description": "Stickman Hook is a fun game where you play as a swinging stickman through hundreds of challenging levels.",
     "premium": false
   },
-    "Slither.io": {
-    "name": "Slither.io",
+  {
+    "title": "Scrap Metal 3",
     "service": "custom",
-    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cDovL3NsaXRoZXIuaW8=_/",
+    "url": "https://script.google.com/macros/s/AKfycbyAGGco2KUeUQwd5l6oK0vuuFnDHwHJcTDzah7uuiq65OZX_Wlo4QJaViYSQcZivTr6Lg/exec",
+    "premium": false,
+    "thumb": "/images/game-images/scrapmetal.webp",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Basketbros.io",
+    "service": "custom",
+    "url": "/games/basketbros-io/index.html",
+    "premium": false,
+    "thumb": "/images/game-images/basketbros.webp",
+    "description": "Fun, fast-paced 1 on 1 basketball game with lots of action. Pick from a variety of characters and let the play begin!",
+    "mobile": false
+  },
+  {
+    "title": "Rocket League",
+    "service": "custom",
+    "url": "/games/Rocket-League/index.html",
+    "premium": false,
+    "thumb": "/images/game-images/rocketleague.webp",
+    "description": "A high-powered hybrid of arcade-style soccer and vehicular mayhem with easy-to-understand controls and fluid, physics-driven competition.",
+    "mobile": false
+  },
+  {
+    "title": "Shell Shockers",
+    "service": "custom",
+    "width": 970,
+    "height": 550,
+    "url": "https://geometry.monster/",
+    "mobile": false,
+    "thumb": "/images/game-images/shell-shockers.webp",
+    "description": "An epic shooting game involving many different mechanics. In the game, you fight against other online gun-toting eggs.",
+    "premium": false
+  },
+  {
+    "title": "Minecraft 18",
+    "service": "custom",
     "width": 900,
     "height": 700,
+    "url": "/games/minecraft-18/index.html",
     "mobile": false,
+    "thumb": "/images/game-images/minecraftJS.webp",
+    "description": "A online  version of the popular game Minecraft with server - connecting capabilities!",
     "premium": false
   },
-    "Ev.io": {
-    "name": "Ev.io",
-    "service": "custom",
-    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9ldi5pbw==_/",
-    "premium": false,
-    "mobile": false
-  },
-   "2048": {
-    "name": "2048",
-    "service": "offline",
-    "premium": false,
-    "mobile": true
-  },
-     "WARdle (MLB)": {
-    "name": "WARdle (MLB)",
-    "service": "custom",
-    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly93YXJkbGUuYXBw_/",
-    "premium": false,
-    "mobile": true
-  },
-    "Poeltl (NBA)": {
-    "name": "Poeltl (NBA)",
-    "service": "custom",
-    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9wb2VsdGwuZHVuay50b3du_/",
-    "premium": false,
-    "mobile": true
-  },
-    "Weddle (NFL) Unlimited": {
-    "name": "Weddle (NFL) Unlimited",
-    "service": "custom",
-    "url": "https://www.weddleunlimited.com/normal",
-    "premium": false,
-    "mobile": true
-  },
-    "MLB Pickle (MLB Wordle)": {
-    "name": "MLB Pickle (MLB Wordle)",
-    "service": "custom",
-    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9tbGJwaWNrbGUuY29t_/",
-    "premium": false,
-    "mobile": true
-  },
-
-    "Wordle (Unlimited)": {
-    "name": "Wordle (Unlimited)",
-    "service": "custom",
-    "url": "https://mikhad.github.io/wordle/#infinite",
-    "premium": false,
-    "mobile": true
-  },
-      "Power Washers!": {
-    "name": "Power Washers!",
-    "service": "custom",
-    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9odG1sNS5nYW1lZGlzdHJpYnV0aW9uLmNvbQ==_/f4a8d58adce64432844d5a14566e530c/?gd_sdk_referrer_url=https%3A%2F%2Fwww.y8.com%2Fgames%2Fpower_wash_3d&key=y8&value=default",
-    "premium": false,
-    "mobile": false
-  },
-    "Vex 4": {
-    "name":"Vex 4",
-    "service":"custom",
-    "width": 970,
-    "height": 700,    
-"url":"https://smileman52.github.io/projects/vex4/index.html",
-    "mobile":false,
-    "premium":false
-  },
-    "HexGL - Racer": {
-    "name": "HexGL - Racer",
-    "service": "custom",
-    "url": "https://jinksmercury09.github.io/projects/HexGL/",
-    "premium": false,
-    "mobile": true
-  },
-    "Shark IO - Hungry Shark": {
-    "name": "Shark IO - Hungry Shark",
-    "service": "custom",
-    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9odG1sNS5nYW1lZGlzdHJpYnV0aW9uLmNvbQ==_/3f2b396cb0394d57b09c1ec98c872e18/?gd_sdk_referrer_url=https%3A%2F%2Fwww.y8.com%2Fgames%2Fshark_io&key=y8&value=default",
-    "premium": false,
-    "mobile": true
-  },
-    "Minecraft Classic (Multiplayer)": {
-    "name":"Minecraft Classic (Multiplayer)",
-    "service":"custom", 
-    "url":"https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9jbGFzc2ljLm1pbmVjcmFmdC5uZXQ=_/?join=hItyH1gQlJvJ6a7r",
-    "mobile":false,
-    "premium":false
-  },
-    "Vex 5": {
-    "name":"Vex 5",
-    "service":"custom",
-    "width": 970,
-    "height": 700,    
-"url":"https://smileman52.github.io/projects/vex5/index.html",
-    "mobile":false,
-    "premium":false
-  },
-    "Awesome Tanks 2": {
-    "name":"[Working] Awesome Tanks 2",
-    "service":"custom",
-    "url":"https://g.eduninja.repl.co/unblocker/https:/red-ball4.com/awesome-tanks-2.play",
-    "mobile":false,
-    "premium":false
-  },
-    "Riddle School 5": {
-    "name":"Riddle School 5",
-    "service":"offline",
-    "width": 860,
-    "height": 600,    
-    "mobile":false,
-    "premium":false
-  },
-     "DogeMiner": {
-    "name": "DogeMiner",
-    "service": "custom",
-    "url": "https://jinksmercury09.github.io/projects/DogeMiner/",
-    "premium": false,
-    "mobile": true
-  },
-  "Retro Bowl": {
-    "name":"Retro Bowl",
-    "service":"custom",
-    "width": 970,
-    "height": 550,    
-"url":"https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9nYW1lMzE2MDA5LmtvbmdnYW1lcy5jb20=_/gamez/0031/6009/live/index.html",
-    "mobile":false,
-    "premium":false
-  },
-    "Papas Freezeria": {
-    "name": "Papas Freezeria",
-    "service": "custom",
-    "url": "https://w8.snokido.com/games/flash/papaseries/0.18/freezeria.html",
-    "premium": false,
-    "mobile": false
-  },
-    "Run 3": {
-    "name": "Run 3",
+  {
+    "title": "Run 3",
     "service": "custom",
     "url": "https://lekug.github.io/tn6pS9dCf37xAhkJv/index.html",
     "width": 880,
     "height": 660,
     "mobile": false,
+    "thumb": "/images/game-images/run3.webp",
+    "description": "Run 3 is an endless runner game where you navigate a little alien through space and try not to fall",
     "premium": false
   },
-    "Paper.io": {
-    "name": "Paper.io [WORKING]",
+  {
+    "title": "Temple Run 2",
     "service": "custom",
-    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9wYXBlci1pby5jb20=_/",
+    "premium": false,
+    "url": "/games/temple-run-2/index.html",
+    "thumb": "/images/game-images/temple-run.webp",
+    "description": "An endless runner game where you run from a demon and try and collect coins to buy powerups.",
+    "mobile": true
+  },
+  {
+    "title": "JustFall.LOL",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "url": "/games/just-fall/index.html",
+    "mobile": false,
+    "thumb": "/images/game-images/justfall.webp",
+    "description": "JustFall.LOL is a fun arcade game to become the last Penguin survivor in a fragile hexagonal platform.",
+    "premium": false
+  },
+  {
+    "title": "Cookie Clicker",
+    "service": "custom",
+    "url": "/games/cookie-clicker/index.html",
+    "premium": false,
+    "thumb": "/images/game-images/cookieclicker.webp",
+    "description": "The classic and world-famous clicker game that changed the industry forever. Click the cookies!",
+    "mobile": false
+  },
+  {
+    "title": "GeoFS Flight Sim",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "url": "/bounce.html?img=/images/game-images/geofs.webp&url=https://artclass.site/service/hvtrs8%2F-wuw%2Cggo%2Ffq.aoo%2Feemfq.rhr",
+    "thumb": "/images/game-images/geofs.webp",
+    "description": "A high-speed action game rhythm-based platformer.",
+    "premium": false
+  },
+  {
+    "title": "Slither.io",
+    "service": "custom",
+    "width": 970,
+    "height": 700,
+    "url": "https://gg-opensocial.googleusercontent.com/gadgets/ifr?url=https://26515722-282596139816136697.preview.editmysite.com/uploads/b/7547235-562404422326578714/files/sis.xml",
+    "mobile": false,
+    "thumb": "/images/game-images/slitherio.webp",
+    "description": "The classic snake arena game. Try and become a giant snake by blocking other snakes' ways!",
+    "premium": false
+  },
+  {
+    "title": "Bloons TD 4 Expansion",
+    "service": "custom",
+    "url": "https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%2Fbloons-tower-defense-4-expansion.xml",
+    "premium": false,
+    "thumb": "https://lh6.googleusercontent.com/proxy/Ph1bWe-ByXQ9vKHONj8Im-Dwq-x01l2tTDxz6_ONyEaH_nh3AoBrbEkyycQ2_qTfRR0Kd16xj0y5yTisISZphgx5OncO4cbs-JMSaeGXiXQg5hxARUlPlEdKmhMvIJ9arU0=s0-d",
+    "description": "Bloons Tower Defense 4 Expansion is a tower defense game where the goal is to keep pesky balloons from flying out of your range using darts, pins, and even bombs.",
+    "mobile": false
+  },
+  {
+    "title": "Bloons TD 4",
+    "service": "custom",
+    "url": "https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%2Fbloons-tower-defense-4.xml",
+    "premium": false,
+    "thumb": "https://th.bing.com/th/id/R.22a2e1025ef52cd93d09c901eec25576?rik=i9w3K6idDpQHqg",
+    "description": "Bloons Tower Defense 4 is a tower defense game where the goal is to keep pesky balloons from flying out of your range using darts, pins, and even bombs.",
+    "mobile": false
+  },
+  {
+    "title": "Bloons TD 3",
+    "service": "custom",
+    "url": "https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%2Fbloons-td-3.xml",
+    "premium": false,
+    "thumb": "https://play-lh.googleusercontent.com/RZ9-UJeDb_MtqJMmtAnycJzO48hfQ0B8RqrtgnjZ4Qmr49OmdGVFYIKyx0CQoTFLf0wW=s180",
+    "description": "Bloons Tower Defense 3 is a tower defense game where the goal is to keep pesky balloons from flying out of your range using darts, pins, and even bombs.",
+    "mobile": false
+  },
+  {
+    "title": "Bloons TD 2",
+    "service": "custom",
+    "url": "/games/bloonstd2/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/bloonstd2/bloonstd2.png",
+    "description": "Bloons Tower Defense 2 is a tower defense game where the goal is to keep pesky balloons from flying out of your range using darts, pins, and even bombs.",
+    "mobile": false
+  },
+  {
+    "title": "Bloons TD",
+    "service": "custom",
+    "url": "/games/bloonstd/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/bloonstd/bloonstd.jpg",
+    "description": "Bloons Tower Defense is a tower defense game where the goal is to keep pesky balloons from flying out of your range using darts, pins, and even bombs.",
+    "mobile": false
+  },
+  {
+    "title": "Five Nights At Freddys",
+    "service": "custom",
+    "width": 970,
+    "height": 550,
+    "url": "https://gg-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%2Ffive-nights-at-freddy-s.xml",
+    "mobile": false,
+    "thumb": "/images/game-images/fnaf.webp",
+    "description": "A horror video game in which you must survive after five nights at Freddy Fazbear's Pizza from the dangers of animatronic characters.",
+    "premium": false
+  },
+  {
+    "title": "N-gon",
+    "service": "custom",
+    "url": "/games/n-gon/index.html",
+    "premium": false,
+    "thumb": "/images/game-images/n-gon.webp",
+    "description": "N-gon is a physics-based single player 2-D platformer shooter with hundreds of different power ups. You move with the keyboard and aim with the mouse.",
+    "mobile": false
+  },
+  {
+    "title": "Idle Breakout",
+    "service": "custom",
+    "premium": false,
+    "url": "/games/idle-breakout/index.html",
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/idle-breakout/img/thumbnail.png",
+    "description": "An idle version of the famous classic Atari Breakout.",
+    "mobile": true
+  },
+  {
+    "title": "Vex 7",
+    "service": "custom",
+    "width": 970,
+    "height": 700,
+    "url": "/games/vex7/index.html",
+    "mobile": false,
+    "thumb": "/images/game-images/vex7.webp",
+    "description": "The seventh part of the series. An addictive stickman platformer game where your objective is to climb up the many different levels and beat the game.",
+    "premium": false
+  },
+  {
+    "title": "Hole.io",
+    "url": "https://google-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/gertdoro/Toolkit@93a27eabbbe5eb626af5b9b7dd0926ac16810a41/Code/Java/hole.xml",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "thumb": "https://play-lh.googleusercontent.com/PTnoGeHV-bsIF79sW4IX4MzKAKaWj9fBWGvR4AOA4tmW0eYjPo3bVdpPYR7GGeX-0w=w480-h960-rw",
+    "description": "Hole.io is a fun web-browser game about black holes eating everything in the cities!",
+    "premium": false
+  },
+  {
+    "title": "Basketball Legends",
+    "url": "https://www-ig-opensocial.googleusercontent.com/gadgets/ifr?url=https://sites.google.com/site/basketballlegendunblocked/basketball_stars.xml",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "thumb": "/images/game-images/basketballstars.webp",
+    "description": "Basketball Legends is the ultimate basketball game where you try and beat your opponents in multiple different game modes where you can play as NBA players!",
+    "premium": false
+  },
+  {
+    "title": "Friday Night Funkin",
+    "service": "custom",
+    "premium": false,
+    "url": "https://luckydog7.github.io/funkinmobile/game/index.html",
+    "width": 900,
+    "height": 700,
+    "thumb": "/images/game-images/friday-night-funkin.webp",
+    "description": "Friday Night Funkin is a music and rhythm game in which you will have to participate in battles against your girlfriend's father who is a seasoned musician.",
+    "mobile": false
+  },
+  {
+    "title": "Paper.io 2",
+    "service": "custom",
+    "url": "/games/paperio2/index.html",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "thumb": "/images/game-images/paperio.webp",
+    "description": "A delightful multiplayer game where you try and take over the whole map by making it your color. Play over ten modes and different games!",
+    "premium": false
+  },
+  {
+    "title": "G-Switch 3",
+    "service": "custom",
+    "url": "/games/g-switch3/index.html",
+    "width": 900,
+    "height": 700,
+    "premium": false,
+    "thumb": "/images/game-images/gswitch.webp",
+    "description": "An endless zero gravity platformer game with futuristic maps, custom physics, and other cool features!",
+    "mobile": false
+  },
+  {
+    "title": "JustBuild.LOL",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "url": "https://grandcanyonshuttles.com/uploads/5/0/5/6/5056555/custom_themes/462157636172133467/justbuild.html",
+    "mobile": false,
+    "thumb": "/images/game-images/justbuild.webp",
+    "description": "A 1v1 online building and shooter game you can play with your friends! Have build battles and shoot-offs!",
+    "premium": false
+  },
+  {
+    "title": "tether!",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "url": "https://tether-game.web.app/",
+    "mobile": false,
+    "thumb": "https://tether-game.web.app/icons/android-icon-192x192.png",
+    "description": "tether! is game where you wreck as many enemies as possible using your tether, however if an enemy touches your ball then you get obliterated!",
+    "premium": false
+  },
+  {
+    "title": "Vex 6",
+    "service": "custom",
+    "width": 970,
+    "height": 700,
+    "url": "/games/vex6/index.html",
+    "mobile": false,
+    "thumb": "/images/game-images/vex6.webp",
+    "description": "The sixth part of the series. An addictive stickman platformer game where your objective is to climb up the many different levels and beat the game.",
+    "premium": false
+  },
+  {
+    "title": "Moto X3M",
+    "service": "custom",
+    "premium": false,
+    "url": "/games/motox3m/index.html",
+    "width": 900,
+    "height": 700,
+    "thumb": "/images/game-images/motox3m.webp",
+    "description": "A high-paced motorcycle driving game where you do tricks for points. Try not to die!",
+    "mobile": false
+  },
+  {
+    "title": "HexGL - Racer",
+    "service": "custom",
+    "url": "/games/HexGL/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/HexGL/Hexgl-image-1.jpg",
+    "description": "An enjoyable futuristic-themed racing game where you try and finish as fast as possible!",
+    "mobile": true
+  },
+  {
+    "title": "Granny",
+    "service": "custom",
+    "width": 970,
+    "height": 700,
+    "url": "https://grandcanyonshuttles.com/uploads/5/5/6/7/5567194/custom_themes/253523348422157506/1granny.html",
+    "mobile": false,
+    "thumb": "/images/game-images/granny.webp",
+    "description": "A high-action, super scary horror game where you have to escape granny's house!",
+    "premium": false
+  },
+  {
+    "title": "Stick Merge",
+    "service": "custom",
+    "premium": false,
+    "url": "/games/stick-merge/index.html",
+    "width": 900,
+    "height": 700,
+    "thumb": "/images/game-images/stickmerge.webp",
+    "description": "An aim-intensive, shooting game. Try to aim at the targets before they aim at you! Oh, and don't forget, your life depends on it! ",
+    "mobile": false
+  },
+  {
+    "title": "Eggy Car",
+    "service": "custom",
+    "url": "https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://493104753-963057148227461038.preview.editmysite.com/uploads/b/139890129-825858355833705451/games/ecf.xml",
+    "mobile": false,
+    "thumb": "https://imagecdn.app/v2/image/https://static.starbie.co.uk/9/113739/96341/300x300/eggy-car.jpg",
+    "description": "Drive carefully to help your car and egg over the hills as fast as you can! Eggy Car is a driving game that requires you to carry eggs while driving on bumpy roads.",
+    "premium": false
+  },
+  {
+    "title": "Webretro",
+    "service": "custom",
+    "premium": false,
+    "url": "/games/webretro/index.html",
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/webretro/assets/icons/icon204.png",
+    "description": "A cross-platform frontend for emulators, game engines, video games, media players and other applications.",
+    "mobile": true
+  },
+  {
+    "title": "Riddle School Transfer 2",
+    "service": "custom",
+    "width": 860,
+    "height": 600,
+    "mobile": false,
+    "url": "/games/riddletransfer2/index.html",
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/riddletransfer2/riddletransfer2.png",
+    "description": "Take control of Phil's epic quest to escape his captors, a group of aliens trying to kill him! You must search the area and find items to help you on your quest",
+    "premium": false
+  },
+  {
+    "title": "Riddle School Transfer 1",
+    "service": "custom",
+    "width": 860,
+    "height": 600,
+    "mobile": false,
+    "url": "/games/riddletransfer/index.html",
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/riddletransfer/riddletransfer.png",
+    "description": "Take control of Phil's epic quest to escape his captors, a group of aliens trying to kill him! You must search the area and find items to help you on your quest",
+    "premium": false
+  },
+  {
+    "title": "Riddle School 5",
+    "service": "custom",
+    "width": 860,
+    "height": 600,
+    "mobile": false,
+    "url": "/games/riddleschool5/index.html",
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/riddleschool5/riddleschool5.png",
+    "description": "Take control of Phil's epic quest to escape his captors, a group of aliens trying to kill him! You must search the area and find items to help you on your quest",
+    "premium": false
+  },
+  {
+    "title": "Riddle School 4",
+    "service": "custom",
+    "width": 860,
+    "height": 600,
+    "mobile": false,
+    "url": "/games/riddleschool4/index.html",
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/riddleschool4/riddleschool4.png",
+    "description": "Take control of Phil's epic quest to escape his captors, a group of aliens trying to kill him! You must search the area and find items to help you on your quest",
+    "premium": false
+  },
+  {
+    "title": "Riddle School 3",
+    "service": "custom",
+    "width": 860,
+    "height": 600,
+    "mobile": false,
+    "url": "/games/riddleschool3/index.html",
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/riddleschool3/riddleschool3.png",
+    "description": "Take control of Phil's epic quest to escape his captors, a group of aliens trying to kill him! You must search the area and find items to help you on your quest",
+    "premium": false
+  },
+  {
+    "title": "Riddle School 2",
+    "service": "custom",
+    "width": 860,
+    "height": 600,
+    "mobile": false,
+    "url": "/games/riddleschool2/index.html",
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/riddleschool2/riddleschool2.png",
+    "description": "Take control of Phil's epic quest to escape his captors, a group of aliens trying to kill him! You must search the area and find items to help you on your quest",
+    "premium": false
+  },
+  {
+    "title": "Riddle School 1",
+    "service": "custom",
+    "width": 860,
+    "height": 600,
+    "mobile": false,
+    "url": "/games/riddleschool/index.html",
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/riddleschool/riddleschool.png",
+    "description": "Take control of Phil's epic quest to escape his captors, a group of aliens trying to kill him! You must search the area and find items to help you on your quest",
+    "premium": false
+  },
+  {
+    "title": "Papas Burgeria",
+    "service": "custom",
+    "url": "/games/papasburgeria/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/papasburgeria/splash.jpg",
+    "description": "Addictive resturaunt managment game.",
+    "mobile": false
+  },
+  {
+    "title": "Papas Freezeria",
+    "service": "custom",
+    "url": "/games/papaspizzaria/index.html",
+    "premium": false,
+    "thumb": "/images/game-images/papasfreezeria.webp",
+    "description": "Addictive resturaunt managment game.",
+    "mobile": false
+  },
+  {
+    "title": "Papas Scooperia",
+    "service": "custom",
+    "url": "/games/scooperia/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/scooperia/scoop.png",
+    "description": "Addictive resturaunt managment game.",
+    "mobile": false
+  },
+  {
+    "title": "Ruffle Emulator",
+    "service": "custom",
+    "url": "/games/ruffle/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/ruffle/splash.png",
+    "description": "Run flash games and apps with the Ruffle emulator.",
+    "mobile": false
+  },
+  {
+    "title": "Elastic Man",
+    "service": "custom",
+    "premium": false,
+    "url": "/games/elasticman/index.html",
+    "width": 900,
+    "height": 700,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/elasticman/elasticman.jpg",
+    "description": "Elastic Man is a funny game where you get to pinch and drag a man with a very elastic face. The man is like a balloon that will stretch when pulled!",
+    "mobile": false
+  },
+  {
+    "title": "Solitaire",
+    "service": "custom",
+    "url": "https://www.google.com/logos/fnbx/solitaire/standalone.html",
+    "premium": false,
+    "thumb": "https://play-lh.googleusercontent.com/K_I2uV6lTZPp-hUf27uZJ1BS9CE0KeXL2fFDFy73UrP723j-C0gRC5EPPT9xccr6bTE",
+    "description": "Solitaire is an exciting way to pass the time with cards - anywhere, any time. ",
+    "mobile": false
+  },
+  {
+    "title": "Cursed Treasre",
+    "service": "custom",
+    "width": 500,
+    "height": 700,
+    "url": "https://gg-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%2Fcursed-treasure.xml",
+    "mobile": false,
+    "thumb": "https://imagecdn.app/v2/image/https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/b1/26/66/b1266644-4c41-8234-7dc6-0145f36a7bf1/source/200x200bb.jpg",
+    "description": "Protect your cursed treasure from being stolen by 'good' heroes. Call on your allies - orcs, undead and demons - to help you protect the gems.",
+    "premium": false
+  },
+  {
+    "title": "Death Ships: Boat Racing",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "url": "https:/html5.gamemonetize.co/2ptfybe1uapot42i1imbcpb5x1m78z4j/",
+    "mobile": false,
+    "thumb": "/images/game-images/deathships.webp",
+    "description": "A fun death racing adventure game, where you have to get your favorite ship, and beat the other ships till death or get destroyed by your competitors.",
+    "premium": false
+  },
+  {
+    "title": "DogeMiner",
+    "service": "custom",
+    "url": "/games/DogeMiner/index.html",
+    "premium": false,
+    "mobile": true,
+    "thumb": "/images/game-images/dogeminer.webp",
+    "description": "An addictive clicker game where you try and build up a doge army! Try and get the most doge coins!"
+  },
+  {
+    "title": "Twitch Tetris",
+    "service": "custom",
+    "url": "/games/twitch-tetris/index.html",
+    "mobile": false,
+    "thumb": "/images/game-images/tetris.webp",
+    "description": "Tetris challenges players to strategically fit falling blocks together to form complete lines and has become a beloved classic in the world of video games. ",
+    "premium": false
+  },
+  {
+    "title": "Bonk.io Remix",
+    "service": "custom",
+    "url": "/games/bonkio/bonkio.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/bonkio/image.png",
+    "description": "A bonk.io fan remix!",
+    "mobile": false
+  },
+  {
+    "title": "Parkour Run",
+    "service": "custom",
+    "url": "https://mj89sp3sau2k7lj1eg3k40hkeppguj6j-a-sites-opensocial.googleusercontent.com/gadgets/ifr?url=http://www.gstatic.com/sites-gadgets/iframe/iframe.xml&container=enterprise&view=default&lang=en&country=ALL&sanitize=0&v=ec46e3834fc8dfd8&libs=core&mid=79&parent=https://sites.google.com/site/gbmsfungames/zombs-royale#up_scroll=auto&up_iframeURL=https://html5.gamedistribution.com/79b885e7031f43f7bf8048300738ae7b/",
+    "premium": false,
+    "thumb": "/images/game-images/parkourrun.webp",
+    "description": "A high reflex requires a parkour game. In the game, you race your opponents to the death. If you die, you're out, but if you win, you get epic rewards! ",
+    "mobile": false
+  },
+  {
+    "title": "Aquapark WaterSlides",
+    "service": "custom",
+    "url": "/games/aquapark-slides/index.html",
+    "premium": false,
+    "thumb": "/images/game-images/aquapark.webp",
+    "description": "A racing game where you race your fellow players down a waterslide.",
+    "mobile": false
+  },
+  {
+    "title": "MonkeyMart",
+    "service": "custom",
+    "width": 500,
+    "height": 700,
+    "url": "https://slope-game.github.io/newgame/monkey-mart/",
+    "mobile": false,
+    "thumb": "/images/game-images/monkey.webp",
+    "description": "A satisfying idle game where you control a store of monkeys!",
+    "premium": false
+  },
+  {
+    "title": "Uno",
+    "service": "custom",
+    "url": "https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/fr6ks8ab/vi9syd1rm@1a76f51c689c229f40ee4d5aacd15a3cccca9bd3/ge5dc6/Classic-Uno.xml",
+    "width": 490,
+    "height": 800,
+    "mobile": false,
+    "thumb": "/images/game-images/uno.webp",
+    "description": "The classic card game of the century. In this game, you match cards to the color/number of the last card placed down. Try and have only 1 card at the end to win!",
+    "premium": false
+  },
+  {
+    "title": "Venge.io",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "url": "https://mj89sp3sau2k7lj1eg3k40hkeppguj6j-a-sites-opensocial.googleusercontent.com/gadgets/ifr?url=http://www.gstatic.com/sites-gadgets/iframe/iframe.xml&container=enterprise&view=default&lang=en&country=ALL&sanitize=0&v=ec46e3834fc8dfd8&libs=core&mid=79&parent=https://sites.google.com/site/gbmsfungames/zombs-royale#up_scroll=auto&up_iframeURL=https://venge.io",
+    "mobile": false,
+    "thumb": "https://tse4.mm.bing.net/th/id/OIP.Fp96a6wAApHGRcAncc31agHaHa?rs=1&pid=ImgDetMain",
+    "description": "Venge is an objective-based FPS game. On this awesome first person shooter game every match is an intense unique experience.",
+    "premium": false
+  },
+  {
+    "title": "Among Us Singleplayer",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "url": "/games/among-us/index.html",
+    "mobile": false,
+    "thumb": "/images/game-images/amonguss.webp",
+    "description": "Among Us Singleplayer is a game where between four and 10 players are dropped onto an alien spaceship. Each player is designated a private role as a “crewmate” or “impostor.",
+    "premium": false
+  },
+  {
+    "title": "Minecraft - JS Edition",
+    "width": 900,
+    "height": 700,
+    "url": "/assets/games/minecraftjs.html",
+    "mobile": false,
+    "thumb": "/images/game-images/minecraftJS.webp",
+    "description": "A Javascript web version of the popular game Minecraft",
+    "premium": false
+  },
+  {
+    "title": "Madalin Stunt Cars 2",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "url": "/games/madalin-stunt-cars-2/index.html",
+    "mobile": false,
+    "thumb": "https://imagecdn.app/v1/images/https://frivcm.b-cdn.net/wp-content/thumbs/madalin-stunt-cars-2.jpg",
+    "description": "Driving a car in a Madalin Stunt Cars 2 unblocked game brings more than just a boring ride around town. Prepare for the craziest ride of your life!",
+    "premium": false
+  },
+  {
+    "title": "Bad Ice Cream",
+    "service": "custom",
+    "mobile": true,
+    "url": "/games/bad-ice-cream/index.html",
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/bad-ice-cream/bad-ice-cream.png",
+    "description": "Control a mischievous ice cream character and navigate through mazes while avoiding enemies.",
+    "premium": false
+  },
+  {
+    "title": "Bacon May Die",
+    "service": "custom",
+    "mobile": true,
+    "url": "/games/bacon-may-die/index.html",
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/bacon-may-die/splash.png",
+    "description": "Engage in epic battles as a skilled bacon warrior fighting against other food foes.",
+    "premium": false
+  },
+  {
+    "title": "Backrooms 2D",
+    "service": "custom",
+    "mobile": true,
+    "url": "/games/backrooms2d/backrooms2d.html",
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/backrooms2d/BF18A6F3-4A1B-4AF7-B383-B9A359A1DBDF.jpeg",
+    "description": "A 2D version of the eerie Backrooms game, offering a different perspective on the environment.",
+    "premium": false
+  },
+  {
+    "title": "Backrooms",
+    "service": "custom",
+    "mobile": true,
+    "url": "/games/backrooms/index.html",
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/backrooms/img/splash.jpg",
+    "description": "An atmospheric exploration game set in the mysterious and unsettling Backrooms.",
+    "premium": false
+  },
+  {
+    "title": "100 Player Pong",
+    "service": "custom",
+    "mobile": true,
+    "url": "/games/100ng/index.html",
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/100ng/100ng.jpg",
+    "description": "A multiplayer Pong game with a hundred players competing simultaneously.",
+    "premium": false
+  },
+  {
+    "title": "Clockwork OS",
+    "service": "custom",
+    "mobile": true,
+    "url": "https://clockwork-os.vercel.app",
+    "thumb": "https://clockwork-os.vercel.app/assets/images/icon.png",
+    "description": "Clockwork",
+    "premium": false
+  },
+  {
+    "title": "10 Minutes till Dawn",
+    "service": "custom",
+    "mobile": true,
+    "url": "/games/10-minutes-till-dawn/index.html",
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/10-minutes-till-dawn/splash.png",
+    "description": "A suspenseful game where you have only 10 minutes to escape from a haunted mansion.",
+    "premium": false
+  },
+  {
+    "title": "Number One",
+    "service": "custom",
+    "mobile": true,
+    "url": "/games/1/index.html",
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/1/meta/apple-touch-icon.png",
+    "description": "A puzzle game where you arrange numbers in ascending order.",
+    "premium": false
+  },
+  {
+    "title": "Idle Dice",
+    "service": "custom",
+    "mobile": true,
+    "url": "/games/idledice/Idle Dice.html",
+    "thumb": "https://th.bing.com/th/id/R.f9c2fa93298b70b98aa98d8d07949118?rik=hm8WZTbjUplL6w",
+    "description": "A dice-themed idle game where you earn points by rolling dice.",
+    "premium": false
+  },
+  {
+    "title": "Swarm Simulator",
+    "service": "custom",
+    "mobile": true,
+    "url": "/games/swarmsimulator/Swarm Simulator.html",
+    "thumb": "https://th.bing.com/th/id/R.34b8dcf339812cfdcf3a251f3eea89d0?rik=cAcNBpca%2bWUojA",
+    "description": "A simulation game where you build and manage a growing swarm of insects.",
+    "premium": false
+  },
+  {
+    "title": "Snow Rider 3D",
+    "service": "custom",
+    "mobile": true,
+    "url": "/games/snowrider3d/index.html",
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/snowrider3d/images/logo.png",
+    "description": "Navigate challenging snowy slopes on your snowboard in this thrilling 3D game.",
+    "premium": false
+  },
+  {
+    "title": "Vex 5",
+    "service": "custom",
+    "width": 970,
+    "height": 700,
+    "url": "/games/vex5/index.html",
+    "mobile": false,
+    "thumb": "/images/game-images/vex5.webp",
+    "description": "The fifth part of the series. A super fun stickman platformer game where your objective is to climb up the many different levels and beat the game",
+    "premium": false
+  },
+  {
+    "title": "Minecraft Classic (Multiplayer)",
+    "service": "custom",
+    "url": "/games/minecraft-classic/index.html",
+    "mobile": false,
+    "thumb": "/images/game-images/minecraftclassic.webp",
+    "description": "Want to play multiplayer online Minecraft in school? This game has very similar mechanics to real Minecraft, and you can invite friends to play with you!",
+    "premium": false
+  },
+  {
+    "title": "Rooftop Snipers",
+    "url": "/games/rooftop-snipers/index.html",
+    "service": "custom",
+    "width": 900,
+    "height": 900,
+    "mobile": false,
+    "thumb": "/images/game-images/rooftopsnipers.webp",
+    "description": "Rooftop Snipers is a shooting game where you have to shoot famous characters off the roof. There are many different modes, skins, and other unique features!",
+    "premium": false
+  },
+  {
+    "title": "Drift Boss",
+    "service": "custom",
+    "url": "/games/drift-boss/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/drift-boss/splash.png",
+    "description": "A high-action car drifting game requiring super-fast reaction speeds. Don't crash!",
+    "mobile": false
+  },
+  {
+    "title": "xx142-b2exe",
+    "service": "custom",
+    "url": "/games/xx142-b2exe/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/xx142-b2exe/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "super otto pets",
+    "service": "custom",
+    "url": "/games/superautopets/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/superautopets/image.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "station meltdown",
+    "service": "custom",
+    "url": "/games/stationmeltdown/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/stationmeltdown/image.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "piclient",
+    "service": "custom",
+    "url": "/games/piclient/piclient.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/piclient/B969467B-2495-4872-A739-B6ECA873FF5A.jpeg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "mcje (IE ONLY!)",
+    "service": "custom",
+    "url": "/games/mcje/Mine.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/mcje/C1B5E635-A242-4D0F-8524-DE4B5164F534.jpeg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "kirka",
+    "service": "custom",
+    "url": "/games/kirkaio/kirka.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/kirkaio/C0DADB28-2750-4DF9-9499-4BB61119877D.jpeg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "highrise hop",
+    "service": "custom",
+    "url": "/games/highrisehop/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/highrisehop/assets/gfx/logo.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "circlO",
+    "service": "custom",
+    "url": "/games/circlo/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/circlo/img/download.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "checkers",
+    "service": "custom",
+    "url": "/games/checkers/checkers.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/checkers/image.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "bus and subway",
+    "service": "custom",
+    "url": "/games/bus and subway/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/bus and subway/img.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Zombs Royale",
+    "service": "custom",
+    "url": "https://mj89sp3sau2k7lj1eg3k40hkeppguj6j-a-sites-opensocial.googleusercontent.com/gadgets/ifr?url=http://www.gstatic.com/sites-gadgets/iframe/iframe.xml&container=enterprise&view=default&lang=en&country=ALL&sanitize=0&v=ec46e3834fc8dfd8&libs=core&mid=79&parent=https://sites.google.com/site/gbmsfungames/zombs-royale#up_scroll=auto&up_iframeURL=https://zombsroyale.io&st=e%3DAIHE3cD648qe6jwYRZ7ajviHy%252BjVG%252BUi5x6Oz40X%252FmbtbSVaAxRim8JcogrSJraIHIO4mn2MFWDyAbMy4MbkCRsOZE2wIRKIkH1ntq5RrL2JzAYA%252Bw%252FfDNKabN%252ButBL8gMwfaxOw7DEC%26c%3Denterprise&rpctoken=8341005056045658220",
+    "width": 900,
+    "height": 900,
+    "mobile": false,
+    "thumb": "/images/game-images/zombsroyale.webp",
+    "description": "A top-tier battle royale game. Collect as many weapons and survive until you are the last person!",
+    "premium": false
+  },
+  {
+    "title": "Zig Zag",
+    "service": "custom",
+    "url": "/games/zigzag/zigzag.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/zigzag/4EEE71BF-A06E-478D-B1E0-F67600291BDC.jpeg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "You Are Jeff Bezos",
+    "service": "custom",
+    "url": "/games/you-are-bezos/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/you-are-bezos/img/banner.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Yoshi's Fabrication Station",
+    "service": "custom",
+    "url": "/games/yoshifabrication/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/yoshifabrication/icons/icon-512.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Yohoho",
+    "service": "custom",
+    "url": "/games/yohoho/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/yohoho/yohoho.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "X Trial Racing",
+    "service": "custom",
+    "url": "/games/x-trial-racing/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/x-trial-racing/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "World's Hardest Game 2",
+    "service": "custom",
+    "url": "/games/worlds-hardest-game-2/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/worlds-hardest-game-2/the-worlds-hardest-game-2.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "World's Hardest Game",
+    "service": "custom",
+    "url": "/games/worlds-hardest-game/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/worlds-hardest-game/images/splash.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Wordle",
+    "service": "custom",
+    "url": "/games/wordle/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/wordle/img/logo_512x512.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Wolfenstein 3D",
+    "service": "custom",
+    "url": "/games/wolf3d/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/wolf3d/art/wolf3d.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Win the Whitehouse",
+    "service": "custom",
+    "url": "/games/win-the-whitehouse/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/win-the-whitehouse/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "WebGL Fluid Sim",
+    "service": "custom",
+    "url": "/games/webgl-fluid-simulation/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/webgl-fluid-simulation/logo.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Weave Silk",
+    "service": "custom",
+    "url": "/games/weavesilk/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/weavesilk/thumb.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Waterworks!",
+    "service": "custom",
+    "url": "/games/waterworks/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/waterworks/square.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Wall Smash",
+    "service": "custom",
+    "url": "/games/wallsmash/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/wallsmash/thumb.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Volley Random",
+    "service": "custom",
+    "url": "/games/volley-random/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/volley-random/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "VELOCE",
+    "service": "custom",
+    "url": "/games/veloce/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/veloce/qN6zkD.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Unfair Mario",
+    "service": "custom",
+    "url": "/games/unfairmario/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/unfairmario/sus.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Tunnel Rush",
+    "service": "custom",
+    "url": "/games/tunnel-rush/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/tunnel-rush/img/tunnel.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Tube Jumpers",
+    "service": "custom",
+    "url": "/games/tube-jumpers/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/tube-jumpers/img/shark.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Trimps",
+    "service": "custom",
+    "url": "/games/Trimps/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/Trimps/trimp.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Townscaper",
+    "service": "custom",
+    "url": "/games/townscaper/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/townscaper/img/cover.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Toss The Turtle",
+    "service": "custom",
+    "url": "/games/tosstheturtle/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/tosstheturtle/tosstheturtle.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Tiny Islands",
+    "service": "custom",
+    "url": "/games/tiny-islands/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/tiny-islands/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Throw Rocks at Shit",
+    "service": "custom",
+    "url": "/games/throwrocks/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/throwrocks/card.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "This Is The Only Level",
+    "service": "custom",
+    "url": "/games/thisistheonlylevel/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/thisistheonlylevel/thisistheonlylevel.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "There Is No Game",
+    "service": "custom",
+    "url": "/games/there-is-no-game/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/there-is-no-game/logo.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "The Hotel",
+    "service": "custom",
+    "url": "/games/the-hotel/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/the-hotel/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "The Heist",
+    "service": "custom",
+    "url": "/games/theheist/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/theheist/theheist.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "The Final Earth 2",
+    "service": "custom",
+    "url": "/games/the-final-earth-2/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/the-final-earth-2/thumb.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "The Final Earth",
+    "service": "custom",
+    "url": "/games/the-final-earth/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/the-final-earth/images.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "The Battle",
+    "service": "custom",
+    "url": "/games/thebattle/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/thebattle/thebattle.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Tanuki Sunset",
+    "service": "custom",
+    "url": "/games/tanuki-sunset/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/tanuki-sunset/img/cover.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Tank Trouble 2",
+    "service": "custom",
+    "url": "/games/tank-trouble-2/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/tank-trouble-2/tank.jpeg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Tactical Weapon Pack 2",
+    "service": "custom",
+    "url": "/games/tactical-weapon-pack-2/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/tactical-weapon-pack-2/splash.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Tactical Assassin 2",
+    "service": "custom",
+    "url": "/games/tacticalassasin2/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/tacticalassasin2/tacticalassassin2.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Table Tennis Ultimate",
+    "service": "custom",
+    "url": "/games/cnpingpong/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/cnpingpong/tabletennisultimate.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "TV Static",
+    "service": "custom",
+    "url": "/games/tv-static/index.html",
+    "premium": false,
+    "thumb": "/images/game-images/static.webp",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Synesthesia",
+    "service": "custom",
+    "url": "/games/synesthesia/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/synesthesia/index.splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Swerve",
+    "service": "custom",
+    "url": "/games/swerve/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/swerve/img/favicon.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Sushi unROLL",
+    "service": "custom",
+    "url": "/games/sushi-unroll/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/sushi-unroll/favicon.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Superhot",
+    "service": "custom",
+    "url": "/games/superhot/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/superhot/hot.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Super Mario Constuct",
+    "service": "custom",
+    "url": "/games/supermarioconstruct/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/supermarioconstruct/media/icons/icon-128.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Super Mario 64",
+    "service": "custom",
+    "url": "/games/sm64/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/sm64/logo.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Super Fowlist",
+    "service": "custom",
+    "url": "/games/superfowlist/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/superfowlist/fowlist.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Subway Surfers New York",
+    "service": "custom",
+    "url": "/games/subway-surfers-ny/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/subway-surfers-ny/NewYorkIcon.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Storm The House 2",
+    "service": "custom",
+    "url": "/games/stormthehouse2/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/stormthehouse2/stormthehouse2.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Stickman Survival",
+    "service": "custom",
+    "url": "/games/Stickman-Survival/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/Stickman-Survival/Icon.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Stickman Golf",
+    "service": "custom",
+    "url": "/games/stickman-golf/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/stickman-golf/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Stickman Boost",
+    "service": "custom",
+    "url": "/games/stickman-boost/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/stickman-boost/base/img1.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Stick War",
+    "service": "custom",
+    "url": "/games/stickwar/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/stickwar/stickwar.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Stick Duel Battle",
+    "service": "custom",
+    "url": "/games/stick-duel-battle/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/stick-duel-battle/512x512.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Stick Archers",
+    "service": "custom",
+    "url": "/games/stick-archers/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/stick-archers/splash.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Stealing The Diamond",
+    "service": "custom",
+    "url": "/games/stealingthediamond/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/stealingthediamond/stealingthediamond.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Station 141",
+    "service": "custom",
+    "url": "/games/station-141/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/station-141/75wxYs.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Starve.io",
+    "service": "custom",
+    "url": "/games/starve/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/starve/img/favicon.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Stack Bump 3D",
+    "service": "custom",
+    "url": "/games/stack-bump-3d/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/stack-bump-3d/thumbnail.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Stack",
+    "service": "custom",
+    "url": "/games/stack/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/stack/stack.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Spelunky",
+    "service": "custom",
+    "url": "/games/spelunky/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/spelunky/assets/icon.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Space Garden",
+    "service": "custom",
+    "url": "/games/spacegarden/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/spacegarden/spl.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Space Company",
+    "service": "custom",
+    "url": "/games/space-company/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/space-company/Icons/SpaceCompanyFavicon.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Soundboard",
+    "service": "custom",
+    "url": "/games/soundboard/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/soundboard/img/mlg-favicon.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Sort The Court",
+    "service": "custom",
+    "url": "/games/sort-the-court/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/sort-the-court/img/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Solitare",
+    "service": "custom",
+    "url": "/games/solitaire/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/solitaire/screen-shot.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Soilder Legend",
+    "service": "custom",
+    "url": "/games/soldier-legend/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/soldier-legend/images/splash.jpeg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Soccer Skills Euro Cup",
+    "service": "custom",
+    "url": "/games/soccer-skills/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/soccer-skills/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Soccer Random",
+    "service": "custom",
+    "url": "/games/soccer-random/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/soccer-random/unnamed.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Snowbattle",
+    "service": "custom",
+    "url": "/games/snowbattle/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/snowbattle/img/logo.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Smoking Barrels",
+    "service": "custom",
+    "url": "/games/smokingbarrels/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/smokingbarrels/smokingbarrels.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Smash Carts",
+    "service": "custom",
+    "url": "/games/smashkarts/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/smashkarts/images/icon-512.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Slope Ball",
+    "service": "custom",
+    "url": "/games/slope-ball/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/slope-ball/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Slope 2",
+    "service": "custom",
+    "url": "/games/slope-2/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/slope-2/slope-2-logo.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Slime Rush TD",
+    "service": "custom",
+    "url": "/games/slime-rush-td/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/slime-rush-td/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Sleeping Beauty",
+    "service": "custom",
+    "url": "/games/sleepingbeauty/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/sleepingbeauty/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Sky Car Stunt",
+    "service": "custom",
+    "url": "/games/sky-car-stunt/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/sky-car-stunt/512x512.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Shotgun Showdown",
+    "service": "custom",
+    "url": "/games/shogunshowdown/shogunshowdown.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/shogunshowdown/19C0D9BB-86C1-4A65-B374-638BD25EE0FC.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Shot in the Dark",
+    "service": "custom",
+    "url": "/games/shotinthedark/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/shotinthedark/shot.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Scratcharia",
+    "service": "custom",
+    "url": "/games/scratcharia/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/scratcharia/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Santy is Home",
+    "service": "custom",
+    "url": "/games/santy-is-home/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/santy-is-home/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Sandboxels",
+    "service": "custom",
+    "url": "/games/sandboxels/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/sandboxels/sandboxels.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Sand Game",
+    "service": "custom",
+    "url": "/games/sand-game/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/sand-game/sand.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "SHUTTLEDECK",
+    "service": "custom",
+    "url": "/games/shuttledeck/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/shuttledeck/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Run 2",
+    "service": "custom",
+    "url": "/games/Run 2/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/Run 2/run-2-logo.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Run",
+    "service": "custom",
+    "url": "/games/run/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/run/run.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Rolly Vortex",
+    "service": "custom",
+    "url": "/games/rolly-vortex/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/rolly-vortex/icon-256.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Rolling Forests",
+    "service": "custom",
+    "url": "/games/rolling-forests/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/rolling-forests/icon.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Robux Clicker",
+    "service": "custom",
+    "url": "/games/robuxclicker/robuxclicker.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/robuxclicker/1517CE7D-1708-489E-9C51-E52887A13855.jpeg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Resent Client (Eaglercraft)",
+    "service": "custom",
+    "url": "/games/resent-client/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/resent-client/splash.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Rabbit Samurai 2",
+    "service": "custom",
+    "url": "/games/rabbit-samurai2/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/rabbit-samurai2/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Rabbit Samurai",
+    "service": "custom",
+    "url": "/games/rabbit-samurai/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/rabbit-samurai/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Push Your Luck",
+    "service": "custom",
+    "url": "/games/push-your-luck/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/push-your-luck/assets/img/push.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Push The Square",
+    "service": "custom",
+    "url": "/games/push-the-square/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/push-the-square/img/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Protektor",
+    "service": "custom",
+    "url": "/games/protektor/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/protektor/splash.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Precision Client (Eaglercraft)",
+    "service": "custom",
+    "url": "/games/precision-client/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/precision-client/logo.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Portal (Flash)",
+    "service": "custom",
+    "url": "/games/portalflash/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/portalflash/portaltheflashversion.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "PolyBranch",
+    "service": "custom",
+    "url": "/games/polybranch/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/polybranch/img/pic1.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Plants VS Zombies",
+    "service": "custom",
+    "url": "/games/plants%20vs%20zombies%201/plants%20vs%20zombies.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/plants%20vs%20zombies%201/image_proxy.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Planet Life",
+    "service": "custom",
+    "url": "/games/planetlife/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/planetlife/images/super-planetlife.gif",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Pixel Gun Survival",
+    "service": "custom",
+    "url": "/games/pixel-gun-survival/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/pixel-gun-survival/512x512.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Particle Clicker",
+    "service": "custom",
+    "mobile": true,
+    "url": "/games/particleclicker/particle clicker OG.html",
+    "thumb": "https://th.bing.com/th/id/R.1568817c88d99dd57ea441dfac403e6d?rik=1Yjz5t3yJ3BR4Q&pid=ImgRaw&r=0",
+    "description": "A clicking game where you conduct particle physics research by clicking particles.",
+    "premium": false
+  },
+  {
+    "title": "Papery Planes",
+    "service": "custom",
+    "url": "/games/papery-planes/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/papery-planes/splash.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Pandemic 2",
+    "service": "custom",
+    "url": "/games/pandemic2/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/pandemic2/pandemic2.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "POPCAT CLASSIC",
+    "service": "custom",
+    "url": "/games/popcat-classic/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/popcat-classic/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Overwatch",
+    "service": "custom",
+    "url": "/games/overwatch/overwatch.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/overwatch/98FBAD0A-F63A-46B5-81E7-0D3074D23365.jpeg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "OvO",
+    "service": "custom",
+    "url": "/games/ovo/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/ovo/ovo.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Om Nom Bounce",
+    "service": "custom",
+    "url": "/games/om-bounce/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/om-bounce/assets/icon.jpeg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Offline Paradise",
+    "service": "custom",
+    "url": "/games/OfflineParadise/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/OfflineParadise/assets/icon.jpeg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Noob Steve Parkour",
+    "service": "custom",
+    "url": "/games/noob-steve-parkour/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/noob-steve-parkour/512x512.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Ninja vs Evil Corp",
+    "service": "custom",
+    "url": "/games/ninjavsevilcorp/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/ninjavsevilcorp/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Ninja",
+    "service": "custom",
+    "url": "/games/ninja/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/ninja/logo1.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Neon Square Resurgence",
+    "service": "custom",
+    "url": "/games/nsresurgence/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/nsresurgence/neon.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "NS-Shaft",
+    "service": "custom",
+    "url": "/games/ns-shaft/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/ns-shaft/favicon.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "My Rusty Submarine",
+    "service": "custom",
+    "url": "/games/my-rusty-submarine/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/my-rusty-submarine/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "MotoX3M Winter",
+    "service": "custom",
+    "url": "/games/motox3m-winter/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/motox3m-winter/download.jpeg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "MotoX3M Spooky",
+    "service": "custom",
+    "url": "/games/motox3m-spooky/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/motox3m-spooky/splash.jpeg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "MotoX3M Pool",
+    "service": "custom",
+    "url": "/games/motox3m-pool/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/motox3m-pool/splash.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "MotoX3M 2",
+    "service": "custom",
+    "url": "/games/motox3m2/index.html",
+    "premium": false,
+    "thumb": "https://th.bing.com/th/id/R.2ff52121a32903fa458fba69f1c06577?rik=n6kCpzxhWQCpiA",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Monster Tracks",
+    "service": "custom",
+    "url": "/games/monster-tracks/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/monster-tracks/thumb.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Missiles",
+    "service": "custom",
+    "url": "/games/missiles/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/missiles/miss.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Mini-putt",
+    "service": "custom",
+    "url": "/games/miniputt/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/miniputt/miniputt.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Minesweeper",
+    "service": "custom",
+    "url": "/games/minesweeper/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/minesweeper/img/minesweeper.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Minecraft Classic Hacks",
+    "service": "custom",
+    "url": "/games/minecraftbeta/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/minecraftbeta/bg_main.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Mine Blocks",
+    "service": "custom",
+    "url": "/games/mineblocks/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/mineblocks/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Mindustry Classic",
+    "service": "custom",
+    "url": "/games/mindustry/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/mindustry/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Merge Round Racers",
+    "service": "custom",
+    "url": "/games/merge-round-racers/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/merge-round-racers/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Meme 2048",
+    "service": "custom",
+    "url": "/games/meme2048/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/meme2048/img/rickroll.gif",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Matrix Rampage",
+    "service": "custom",
+    "url": "/games/matrixrampage/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/matrixrampage/matrixrampage.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Marvin Spectrum",
+    "service": "custom",
+    "url": "/games/marvinspectrum/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/marvinspectrum/marvinspectrum.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Mario",
+    "service": "custom",
+    "url": "/games/mario/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/mario/Theme/Mario.gif",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Madalin Stunt Cars 3",
+    "service": "custom",
+    "url": "/games/madalin-stunt-cars-3/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/madalin-stunt-cars-3/img/index.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Line rider",
+    "service": "custom",
+    "url": "/games/linerider/linerider.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/linerider/6954B825-C61C-41E0-BFD9-7EA4FC6D0FE1.jpeg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Level 13",
+    "service": "custom",
+    "url": "/games/level13/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/level13/thumb.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Learn to fly 2",
+    "service": "custom",
+    "url": "/games/learntofly2/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/learntofly2/learn-to-fly-2.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Learn To Fly IDLE",
+    "service": "custom",
+    "url": "/games/ltf-idle/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/ltf-idle/thumbnail.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Learn To Fly 3",
+    "service": "custom",
+    "url": "/games/ltf3/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/ltf3/logo.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Learn To Fly",
+    "service": "custom",
+    "url": "/games/learntofly/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/learntofly/learntofly.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Krunker",
+    "service": "custom",
+    "url": "/games/krunker/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/krunker/img/krunker-io.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Knife Master",
+    "service": "custom",
+    "url": "/games/knife-master/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/knife-master/512x512.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Kitten Cannon",
+    "service": "custom",
+    "url": "/games/kittencannon/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/kittencannon/kittencannon.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Kitchen gun game",
+    "service": "custom",
+    "url": "/games/kitchen-gun-game/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/kitchen-gun-game/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Just One Boss",
+    "service": "custom",
+    "url": "/games/just-one-boss/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/just-one-boss/pv1Gr5.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Iron Dash",
+    "service": "custom",
+    "url": "/games/iron dash/Iron Dash.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/iron dash/9FF39FCC-64B1-491C-97FC-A34357F9583A.jpeg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Interactive Buddy",
+    "service": "custom",
+    "url": "/games/interactivebuddy/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/interactivebuddy/interactivebuddy.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Impossible Quiz",
+    "service": "custom",
+    "url": "/games/impossiblequiz/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/impossiblequiz/impossiblequiz.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Idle Shark",
+    "service": "custom",
+    "url": "/games/idle-shark/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/idle-shark/img/sharkgame.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Ice Age Baby 2",
+    "service": "custom",
+    "url": "/games/iceagebaby2/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/iceagebaby2/pinky.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Ice Age Baby",
+    "service": "custom",
+    "url": "/games/iceagebaby/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/iceagebaby/thumb.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Hungry Lamu",
+    "service": "custom",
+    "url": "/games/hungry-lamu/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/hungry-lamu/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Hover Bot Arena",
+    "service": "custom",
+    "url": "/games/hba/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/hba/hoverbotarena.JPG",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Hill Climb Racing (Scratch)",
+    "service": "custom",
+    "url": "/games/hill-climb-racing/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/hill-climb-racing/splash.jpeg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Hextris",
+    "service": "custom",
+    "url": "/games/hextris/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/hextris/images/hextris-logo.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Hex Empire",
+    "service": "custom",
+    "url": "/games/hexempire/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/hexempire/hexempire.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Helicopter",
+    "service": "custom",
+    "url": "/games/helicopter/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/helicopter/helicopter.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Happy Wheels",
+    "service": "custom",
+    "url": "https://script.google.com/macros/s/AKfycbwdecqSCXR_X1sdwarB-gGtPwwemdOBzrnq8CPZ-obreDlmAarpJtHNjhx1WqAFYQEp/exec",
+    "premium": false,
+    "thumb": "/images/game-images/happy-wheels.webp",
+    "description": "Fan Made- Happy Wheels is a driving/parkour game with semi-realistic physics, meticulously crafted levels, and gory animations.",
+    "mobile": false
+  },
+  {
+    "title": "Happy Hop",
+    "service": "custom",
+    "url": "/games/happy-hop/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/happy-hop/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Handshakes",
+    "service": "custom",
+    "url": "/games/handshakes/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/handshakes/splaher.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Hacker Typer",
+    "service": "custom",
+    "url": "/games/hackertype/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/hackertype/logo192.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Grind Craft",
+    "service": "custom",
+    "url": "/games/grindcraft/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/grindcraft/img/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Grey Box Testing",
+    "service": "custom",
+    "url": "/games/greybox/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/greybox/ico.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Gravity Soccer",
+    "service": "custom",
+    "url": "/games/gravity-soccer/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/gravity-soccer/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Google Snake",
+    "service": "custom",
+    "url": "/games/google-snake/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/google-snake/img/snake.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Google Feud",
+    "service": "custom",
+    "url": "/games/google-feud/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/google-feud/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Go Ball",
+    "service": "custom",
+    "url": "/games/go-ball/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/go-ball/game.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Glass City",
+    "service": "custom",
+    "url": "/games/glass-city/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/glass-city/image.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Gimme the Airpod",
+    "service": "custom",
+    "url": "/games/gimme-the-airpod/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/gimme-the-airpod/img/logo.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Getaway Shootout",
+    "service": "custom",
+    "url": "/games/getaway-shootout/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/getaway-shootout/img/images.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "George and the Printer",
+    "service": "custom",
+    "url": "/games/georgeandtheprinter/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/georgeandtheprinter/img/SnDTEn.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Geometry Dash Lite",
+    "service": "custom",
+    "url": "/games/geodashlite/geodashlite.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/geodashlite/geodashlite.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Geometry Dash (Scratch)",
+    "service": "custom",
+    "url": "/games/geodash/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/geodash/geoscratchicon.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Generic Fishing Game",
+    "service": "custom",
+    "url": "/games/generic-fishing-game/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/generic-fishing-game/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Game Inside a Game Inside a Game...",
+    "service": "custom",
+    "url": "/games/game-inside/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/game-inside/img/display.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "GOODNIGHT",
+    "service": "custom",
+    "url": "/games/goodnight/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/goodnight/goodnight.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Frying Nemo",
+    "service": "custom",
+    "url": "/games/frying-nemo/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/frying-nemo/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Froggy's Battle",
+    "service": "custom",
+    "url": "/games/froggys-battle/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/froggys-battle/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Friday Night Funkin'",
+    "service": "custom",
+    "url": "/games/fridaynightfunkin/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/fridaynightfunkin/fnf-icon.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Flippy Fish",
+    "service": "custom",
+    "url": "/games/flippy-fish/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/flippy-fish/2022_10_28_0jt_Kleki.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Fleeing The Complex",
+    "service": "custom",
+    "url": "/games/fleeingthecomplex/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/fleeingthecomplex/a.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Flash Tetris",
+    "service": "custom",
+    "url": "/games/flashtetris/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/flashtetris/flashtetris.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Flappy Plane",
+    "service": "custom",
+    "url": "/games/flappy plane/Flappy Plane.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/flappy plane/E3A4179E-B8E4-4358-BDAD-45AA7637D4D7.jpeg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Flappy 2048",
+    "service": "custom",
+    "url": "/games/flappy-2048/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/flappy-2048/meta/apple-touch-icon.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Five Nights at Winston's",
+    "service": "custom",
+    "url": "/games/fnaw/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/fnaw/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Fireboy and Watergirl",
+    "service": "custom",
+    "url": "/games/fireboywatergirlforesttemple/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/fireboywatergirlforesttemple/logo.jpeg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Fantasy Dash",
+    "service": "custom",
+    "url": "/games/fantasy-dash/Fantasy Dash.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/fantasy-dash/DF24D85A-B7B5-4CF0-8194-DB6CD89C6975.jpeg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Fancy Pants Adventures",
+    "service": "custom",
+    "url": "/games/fancypantsadventures/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/fancypantsadventures/fancypantsadventure.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Fake Virus",
+    "service": "custom",
+    "url": "/games/fake-virus/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/fake-virus/icon.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Fair Squares",
+    "service": "custom",
+    "url": "/games/fairsquares/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/fairsquares/index.apple-touch-icon.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Factory Balls Forever",
+    "service": "custom",
+    "url": "/games/factoryballs/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/factoryballs/images/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Exo",
+    "service": "custom",
+    "url": "/games/exo/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/exo/img/small.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Evolution",
+    "service": "custom",
+    "url": "/games/evolution/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/evolution/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Evil Glitch",
+    "service": "custom",
+    "url": "/games/evil-glitch/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/evil-glitch/evil.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Escaping The Prison",
+    "service": "custom",
+    "url": "/games/escapingtheprison/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/escapingtheprison/escapingtheprison.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Endless War 3",
+    "service": "custom",
+    "url": "/games/endlesswar3/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/endlesswar3/endlesswar3.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Eggycar",
+    "service": "custom",
+    "url": "/games/eggycar/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/eggycar/favicon.ico",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Eel Slap",
+    "service": "custom",
+    "url": "/games/eel-slap/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/eel-slap/eel-slap.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Edge Not Found",
+    "service": "custom",
+    "url": "/games/edgenotfound/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/edgenotfound/edge.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Edge Let's Surf",
+    "service": "custom",
+    "url": "/games/edge-surf/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/edge-surf/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Eaglercraft 1.5",
+    "service": "custom",
+    "url": "/games/minecraft-15/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/minecraft-15/splash.jpeg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Dumb Ways to Die",
+    "service": "custom",
+    "url": "/games/dumbwaystodie/dumbwaystodie.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/dumbwaystodie/image.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Duke Nukem 2",
+    "service": "custom",
+    "url": "/games/duke-nukem-2/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/duke-nukem-2/splash.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Duck Life 4",
+    "service": "custom",
+    "url": "/games/ducklife4/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/ducklife4/splash.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Duck Life 3",
+    "service": "custom",
+    "url": "/games/ducklife3/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/ducklife3/duck.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Duck Life 2",
+    "service": "custom",
+    "url": "/games/ducklife2/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/ducklife2/ducklife2.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Duck Life",
+    "service": "custom",
+    "url": "/games/ducklife1/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/ducklife1/ducklife.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Drive Mad",
+    "service": "custom",
+    "url": "/games/drive-mad/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/drive-mad/logo.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Drift Hunters",
+    "service": "custom",
+    "url": "/games/drift-hunters/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/drift-hunters/drift-hunters.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Draw the Hill",
+    "service": "custom",
+    "url": "/games/draw-the-hill/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/draw-the-hill/icons/icon-512.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Dragons vs Bricks",
+    "service": "custom",
+    "url": "/games/dragon-vs-bricks/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/dragon-vs-bricks/icon.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Double Wires",
+    "service": "custom",
+    "url": "/games/doublewires/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/doublewires/doublewires.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Doomori",
+    "service": "custom",
+    "url": "/games/DOOMORI/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/DOOMORI/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Doom",
+    "service": "custom",
+    "url": "/games/doom/doom.html",
+    "premium": false,
+    "thumb": "/images/game-images/doomgame.webp",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "DogeMiner 2",
+    "service": "custom",
+    "url": "https://mj89sp3sau2k7lj1eg3k40hkeppguj6j-a-sites-opensocial.googleusercontent.com/gadgets/ifr?url=http://www.gstatic.com/sites-gadgets/iframe/iframe.xml&container=enterprise&view=default&lang=en&country=ALL&sanitize=0&v=ec46e3834fc8dfd8&libs=core&mid=79&parent=https://sites.google.com/site/gbmsfungames/zombs-royale#up_scroll=auto&up_iframeURL=https://realben9.github.io/dm2sc/",
+    "premium": false,
+    "mobile": true,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/Dogeminer2/thumb.jpg",
+    "description": "An addictive clicker game where you try and build up a doge army! Try and get the most doge coins!"
+  },
+  {
+    "title": "Doge 2048",
+    "service": "custom",
+    "url": "/games/doge2048/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/doge2048/meta/apple-touch-icon.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Dodge",
+    "service": "custom",
+    "url": "/games/dodge/dodge.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/dodge/CEB64188-C91B-4FEE-95C1-3ACF6A8CA009.jpeg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Doctor Acorn 2",
+    "service": "custom",
+    "url": "/games/doctor-acorn2/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/doctor-acorn2/splash.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Defend the Tank",
+    "service": "custom",
+    "url": "/games/defend-the-tank/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/defend-the-tank/images/splash.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Deepest Sword",
+    "service": "custom",
+    "url": "/games/deepest-sword/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/deepest-sword/splash.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Death Run 3D",
+    "service": "custom",
+    "url": "/games/death-run-3d/index.html",
+    "premium": false,
+    "thumb": "/images/game-images/deathrun3d.webp",
+    "description": "In this game, your task is to avoid the blocks by dodging or moving them! Gaps between blocks are very short, so swift responses are the only way to success.",
+    "mobile": false
+  },
+  {
+    "title": "Deal or No Deal",
+    "service": "custom",
+    "url": "/games/deal-or-no-deal/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/deal-or-no-deal/index.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Dante",
+    "service": "custom",
+    "url": "/games/dante/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/dante/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Cut the Rope Time Travel",
+    "service": "custom",
+    "url": "/games/ctr-tr/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/ctr-tr/logo.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Roblox",
+    "service": "custom",
+    "url": "/assets/games/roblox.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/roblox/splash.png",
+    "description": "Roblox is an online game platform and game creation system that allows users to program games and play games created by other users.",
+    "mobile": false
+  },
+  {
+    "title": "Cut the Rope Holiday",
+    "service": "custom",
+    "url": "/games/ctr-holiday/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/ctr-holiday/Holiday_Gift.webp",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Cut the Rope",
+    "service": "custom",
+    "url": "/games/ctr/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/ctr/logo.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Cupcake 2048",
+    "service": "custom",
+    "url": "/games/cupcake2048/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/cupcake2048/favicon.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Cubefield",
+    "service": "custom",
+    "url": "/games/cubefield/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/cubefield/assets/unnamed.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Creative Kill Chamber",
+    "service": "custom",
+    "url": "/games/creativekillchamber/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/creativekillchamber/creativekillchamber.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "CraftMine",
+    "service": "custom",
+    "url": "/games/craftmine/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/craftmine/images/craftmine.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Core Ball",
+    "service": "custom",
+    "url": "/games/core-ball/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/core-ball/pr_source.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Connect 3",
+    "service": "custom",
+    "url": "/games/connect3/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/connect3/connect3.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Cluster Rush",
+    "service": "custom",
+    "url": "/games/cluster-rush/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/cluster-rush/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Chill Radio",
+    "service": "custom",
+    "url": "/games/chill-radio/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/chill-radio/img/icon.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Champion Island",
+    "service": "custom",
+    "url": "/games/champion-island/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/champion-island/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Champion Archer",
+    "service": "custom",
+    "url": "/games/championarcher/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/championarcher/championarcher.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Cell Machine",
+    "service": "custom",
+    "url": "/games/cell-machine/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/cell-machine/img/te9nDu.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Cars Simulator",
+    "service": "custom",
+    "url": "/games/cars-simulator/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/cars-simulator/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Canyon Defense",
+    "service": "custom",
+    "url": "/games/canyondefense/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/canyondefense/canyondefense.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Cannon Basketball 4",
+    "service": "custom",
+    "url": "/games/cannon-basketball-4/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/cannon-basketball-4/img/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "CS:GO Clicker",
+    "service": "custom",
+    "url": "/games/csgo-clicker/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/csgo-clicker/images/vanguard.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "CMM Client",
+    "service": "custom",
+    "url": "/games/CMM Client/CMM Client.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/CMM Client/EC4B216C-B637-41A3-A3D9-79D4048DD7A3.jpeg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Burger and Frights",
+    "service": "custom",
+    "url": "/games/burger-and-frights/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/burger-and-frights/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Breaking the Bank",
+    "service": "custom",
+    "url": "/games/breakingthebank/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/breakingthebank/breakingthebank.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Boxing Random",
+    "service": "custom",
+    "url": "/games/boxing-random/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/boxing-random/512x512.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Box Head",
+    "service": "custom",
+    "url": "/games/boxhead2play/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/boxhead2play/boxhead2play.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Bob the Robber 2",
+    "service": "custom",
+    "url": "/games/bobtherobber2/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/bobtherobber2/splash.jpeg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Bloxors",
+    "service": "custom",
+    "url": "/games/bloxors/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/bloxors/block.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Bloons TD 5",
+    "service": "custom",
+    "url": "/games/btd5/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/btd5/BT5_Deluxe_logo.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Black Knight",
+    "service": "custom",
+    "url": "/games/blackknight/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/blackknight/blackknight.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Black Hole Square",
+    "service": "custom",
+    "url": "/games/blacholesquare/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/blacholesquare/icon.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Big Tower Tiny Square",
+    "service": "custom",
+    "url": "/games/btts/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/btts/images.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Big Red Button",
+    "service": "custom",
+    "url": "/games/bigredbutton/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/bigredbutton/bigredbutton.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Big NEON Tower Tiny Square",
+    "service": "custom",
+    "url": "/games/bntts/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/bntts/icons/icon-256.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Battle for Gondor",
+    "service": "custom",
+    "url": "/games/battleforgondor/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/battleforgondor/battleforgondor.JPG",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Basketball Stars",
+    "service": "custom",
+    "url": "/games/basketball-stars/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/basketball-stars/assets/images/basketball-stars.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Basket Random",
+    "service": "custom",
+    "url": "/games/basket-random/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/basket-random/splash.jpeg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Ballistic Chickens",
+    "service": "custom",
+    "url": "/games/ballistic-chickens/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/ballistic-chickens/logo.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Ball Dodge",
+    "service": "custom",
+    "url": "/games/balldodge/balldodge.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/balldodge/2BD297A6-93B9-40CF-9735-70B50A9BADF6.jpeg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Baldi's Basics",
+    "service": "custom",
+    "url": "/games/baldis-basics/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/baldis-basics/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Bad Ice Cream 3",
+    "service": "custom",
+    "url": "/games/bad-ice-cream-3/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/bad-ice-cream-3/bad-ice-cream-3.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Bad Ice Cream 2",
+    "service": "custom",
+    "url": "/games/bad-ice-cream-2/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/bad-ice-cream-2/bad-ice-cream-2.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Awesome Tanks 2",
+    "service": "custom",
+    "url": "https://gg-opensocial.googleusercontent.com/gadgets/ifr?url=https://37406915-471836402253847146.preview.editmysite.com/uploads/b/139890129-165727670653336700/games/at2.xml",
+    "mobile": false,
+    "thumb": "/images/game-images/awesometanks.webp",
+    "description": "A shooting-based battle royale game where you try and beat your opponents. Try and kill enemies to get better weapons and climb to the top",
+    "premium": false
+  },
+  {
+    "title": "Avalanche",
+    "service": "custom",
+    "url": "/games/avalanche/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/avalanche/avalanche.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Astray",
+    "service": "custom",
+    "url": "/games/astray/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/astray/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Angry Sharks",
+    "service": "custom",
+    "url": "/games/angry-sharks/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/angry-sharks/assets/favicon/icon-512x512.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Amidst the Clouds",
+    "service": "custom",
+    "url": "/games/amidst-the-clouds/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/amidst-the-clouds/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Amazing rope police",
+    "service": "custom",
+    "url": "/games/amazing-rope-police/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/amazing-rope-police/splash.jpeg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Alien Hominid",
+    "service": "custom",
+    "url": "/games/alienhominid/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/alienhominid/alienhominid.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Age of Conflict",
+    "service": "custom",
+    "url": "/games/ages-of-conflict/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/ages-of-conflict/splash.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Adventure Drivers",
+    "service": "custom",
+    "url": "/games/adventure-drivers/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/adventure-drivers/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Adrenaline Challenge",
+    "service": "custom",
+    "url": "/games/adrenalinechallenge/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/adrenalinechallenge/adrenalinechallenge.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Achievement Unlocked",
+    "service": "custom",
+    "url": "/games/achievementunlocked/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/achievementunlocked/achievementunlocked.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "A Dark Room",
+    "service": "custom",
+    "url": "/games/adarkroom/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/adarkroom/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "A Dance of Fire and Ice",
+    "service": "custom",
+    "url": "/games/a-dance-of-fire-and-ice/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/a-dance-of-fire-and-ice/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "99balls",
+    "service": "custom",
+    "url": "/games/99balls/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/99balls/99-balls-evo.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "9007199254740992",
+    "service": "custom",
+    "url": "/games/9007199254740992/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/9007199254740992/logo-4.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "2048 Multitask",
+    "service": "custom",
+    "url": "/games/2048-multitask/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/2048-multitask/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "1v1.space",
+    "service": "custom",
+    "url": "/games/1v1space/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/1v1space/splash.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "SushiParty.io",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cHM6Ly93d3cuc3VzaGlwYXJ0eS5pbw==_/",
+    "mobile": false,
+    "thumb": "/images/game-images/sushiparty.webp",
+    "description": "An engaging battle royale game. If you are a sushi fanatic, this game is perfect for you. Try and eat as much sushi as possible and survive!",
+    "premium": false
+  },
+  {
+    "title": "Helix Jump",
+    "service": "custom",
+    "premium": false,
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cHM6Ly9odG1sNS5nYW1lbW9uZXRpemUuY28=_/ghzimuehf6yw4vkdaywk1s9x3mrbgq0w/",
+    "thumb": "/images/game-images/helixjump.webp",
+    "description": "An exciting adventure of the bouncing ball through the helix tower labyrinth. One-tap easy-to-learn controls, rich visual effects, and addictive gameplay mechanics.",
+    "mobile": false
+  },
+  {
+    "title": "Lordz.io",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cHM6Ly9sb3Jkei5pbw==_/",
+    "mobile": false,
+    "thumb": "/images/game-images/lordzio.webp",
+    "description": "An exciting part RPG, part battle royale game where you Recruit soldiers, archers, and barbarians in your growing crew. ",
+    "premium": false
+  },
+  {
+    "title": "Magica.io",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cHM6Ly9odG1sNS5nYW1lbW9uZXRpemUuY28=_/s8u9yscdyd57hshdwa5z6h3gs60euwq5/",
+    "mobile": false,
+    "thumb": "/images/game-images/magica.webp",
+    "description": "In this thrilling RPG, battle royale game,  you must use magic elements and kill each other with your enemies in a brutal arena. Everyone is fighting for themselves. ",
+    "premium": false
+  },
+  {
+    "title": "Stickman Climb 2",
+    "service": "custom",
+    "premium": false,
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cHM6Ly9tb3VudGFpbjY1OC5naXRodWIuaW8=_/zstickmanclimb2.html",
+    "width": 900,
+    "height": 640,
+    "thumb": "/images/game-images/stickmanclimb.webp",
+    "description": "An addictive platformer game with a unique concept to it. You must use the laws of physics to your advantage, and you will master this game in no time.",
+    "mobile": false
+  },
+  {
+    "title": "Sweet World",
+    "service": "custom",
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cHM6Ly9odG1sNS5nYW1lbW9uZXRpemUuY28=_/fayw8bjkplxvbo0y5ut5wynrdbh8e5d0/",
+    "premium": false,
+    "thumb": "/images/game-images/SweetW.webp",
+    "description": "Match candies, complete levels and collect coins. Don't forget to get all achievements! ",
+    "mobile": false
+  },
+  {
+    "title": "Om Nom Run",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cHM6Ly9maWxlcy5jcmF6eWdhbWVzLmNvbQ==_/om-nom-run/2/index.html?gid=om-nom-run",
+    "thumb": "/images/game-images/omnomrun.webp",
+    "description": "Join Om Nom and Om Nelle on a race through the dangerous streets of Nomville!",
+    "premium": false
+  },
+  {
+    "title": "PUBG Pixel",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "url": "https://1aa89741-e935-4ab7-b847-5718859e9401.id.repl.co/main/https://cdn.gamemonetize.com/ii7heccktd96kbljpcl6xv1qaduiuzod/",
+    "mobile": false,
+    "thumb": "/images/game-images/pubg.webp",
+    "description": "In PUBG Pixel, face other players and show you're the best! Featuring online multiplayer gameplay, get ready to face challenges of fighting against real players.",
+    "premium": false
+  },
+  {
+    "title": "Battle Tank Wars",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "url": "https://html5.gamemonetize.co/96t6gjjdoof36f5b9mkjslqwml9nl7q2/",
+    "mobile": false,
+    "thumb": "/images/game-images/battletankwars.webp",
+    "description": "In an exciting World War of Tanks, choose your favorite tank and fight! Upgrade your abilities to become stronger, quicker, and more lethal in battle.",
+    "premium": false
+  },
+  {
+    "title": "Idle Restaurant",
+    "service": "custom",
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cHM6Ly9odG1sNS5nYW1lbW9uZXRpemUuY28=_/5032u7kprap4qrxrcydaq69rof6dv3d1/",
+    "width": 900,
+    "height": 900,
+    "mobile": false,
+    "thumb": "/images/game-images/idlechef.webp",
+    "description": "An addictive game involving you managing your restaurant corporation. Become an industrial tycoon by managing your Restaurant!",
+    "premium": false
+  },
+  {
+    "title": "Cover Orange Journey",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cHM6Ly9ob29wZ2FtZS5uZXQ=_/iframe/Cover-Orange-Journey",
+    "mobile": false,
+    "thumb": "/images/game-images/coverorange.webp",
+    "description": "An engaging yet challenging puzzle game where you try and protect your orange. Cover the orange from all sorts of situations with tons and tons of maps!",
+    "premium": false
+  },
+  {
+    "title": "Idle Miner Tycoon",
+    "service": "custom",
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cHM6Ly9odG1sNS5nYW1lbW9uZXRpemUuY28=_/yvegxvy0h07947o0gmeiojd24omjnjsa/",
+    "width": 900,
+    "height": 900,
+    "mobile": false,
+    "thumb": "/images/game-images/idleminer.webp",
+    "description": "A super fun tycoon game involving undiscovered mining resources and selling them for massive profits.",
+    "premium": false
+  },
+  {
+    "title": "Idle Lumber Tycoon",
+    "service": "custom",
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cHM6Ly9odG1sNS5nYW1lbW9uZXRpemUuY28=_/o1pyyzjeo7yyjs3e9p21kwa09f292xyf/",
+    "width": 900,
+    "height": 900,
+    "mobile": false,
+    "thumb": "/images/game-images/idlelumber.webp",
+    "description": "An addictive lumber tycoon game in which you harvest lumber, buy upgrades, and discover new things! Note: This game takes a minute to load.",
+    "premium": false
+  },
+  {
+    "title": "Piano Tiles 2",
+    "service": "custom",
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cHM6Ly9rb2xhZ2FtZXMuY29t_/iframe/Piano-Tiles-2",
+    "premium": false,
+    "thumb": "/images/game-images/ptiles2.webp",
+    "description": "A piano-type rhythm game where you try and tab oncoming tiles, and they fall down the screen. Make sure to try out the many hot songs, and don't die!",
+    "mobile": false
+  },
+  {
+    "title": "Supernova",
+    "service": "custom",
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cHM6Ly9odG1sNS5nYW1lbW9uZXRpemUuY28=_/1y09ol7hcag96xbbgu7v87h9hm3njgyl/",
+    "premium": false,
+    "thumb": "/images/game-images/supernova.webp",
+    "description": "An addictive racing game where you must dodge oncoming obstacles and traverse through the many, many different levels. ",
+    "mobile": false
+  },
+  {
+    "title": "Farm Puzzle",
+    "service": "custom",
+    "width": 800,
+    "height": 600,
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cHM6Ly9odG1sNS5nYW1lbW9uZXRpemUuY28=_/vflaoam6fih9xey5gsy5eqc2bpqw6d4c/",
+    "premium": false,
+    "thumb": "/images/game-images/farmpuzzle.webp",
+    "description": "An addicting puzzle, an Idle game where you must solve the craziest puzzles! All the puzzles in this game share one great storyline. The solution comes through out-of-the-box thinking, training your mind and brains simultaneously!",
+    "mobile": false
+  },
+  {
+    "title": "BananaBread",
+    "service": "custom",
+    "url": "https://kripken.github.io/misc-js-benchmarks/banana/index.html",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "thumb": "https://kripken.github.io/misc-js-benchmarks/banana/assets/screenshots/06.jpg",
+    "description": "BananaBread is a 3D first person shooter that runs on the web.",
+    "premium": false
+  },
+  {
+    "title": "EvoWars.io",
+    "service": "custom",
+    "width": 800,
+    "height": 600,
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cHM6Ly95OC5ldm93YXJzLmlv_/?v=1.9.2",
+    "premium": false,
+    "thumb": "/images/game-images/evowars.webp",
+    "description": "In this game, you try and fight all of your opponents to be the most powerful. Your character evolves every certain amount of points/kills you get.",
+    "mobile": false
+  },
+  {
+    "title": "Noob Archer",
+    "service": "custom",
+    "width": 970,
+    "height": 700,
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cHM6Ly9odG1sNS5nYW1lbW9uZXRpemUuY28=_/4czbh2hebirs7du5a5s1dy9gkwnma3ea/",
+    "mobile": false,
+    "thumb": "/images/game-images/noobarcher.webp",
+    "description": "A skill-based archery game where the little noob must shoot his arrows at the enemies that arrive to eliminate you!",
+    "premium": false
+  },
+  {
+    "title": "Temple Run 2: Jungle Fall",
+    "service": "custom",
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cHM6Ly9odG1sNS5nYW1lbW9uZXRpemUuY28=_/yeoei0skbh9408olbqqzucj44492l6k6/",
+    "premium": false,
+    "mobile": false,
+    "thumb": "/images/game-images/templerunjungle.webp",
+    "description": "The sequel to Temple Run 2 - An endless runner game where you run from a demon and try and collect coins to buy powerups."
+  },
+  {
+    "title": "Brutal Battle Royale 2",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cHM6Ly9odG1sNS5nYW1lbW9uZXRpemUuY28=_/rgvqry48zgqwwg9drji08bpwnvamr57r/",
+    "mobile": false,
+    "thumb": "/images/game-images/BBR2.webp",
+    "description": "Brutal Battle Royale 2 features randomly generated battleground with lots of guns to loot and heavily armed enemies to shoot, try to survive in order to win each round.",
+    "premium": false
+  },
+  {
+    "title": "Pixwars 2",
+    "service": "custom",
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cHM6Ly9odG1sNS5nYW1lbW9uZXRpemUuY28=_/dump9yuqyj17u2f6qmfup58iqal51ut2/",
+    "premium": false,
+    "thumb": "/images/game-images/pixwars.webp",
+    "description": "PixWars 2 is a multiplayer shooter game where you have to face off against a horde of zombies. You are all dropped in a city and have to fight to survive. Don't die!",
+    "mobile": true
+  },
+  {
+    "title": "Skytrip",
+    "service": "custom",
+    "width": 900,
+    "height": 600,
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cHM6Ly9zdG9yYWdlLnk4LmNvbQ==_/y8-studio/html5/akeemywka/skytrip_v2/?key=2694310&value=89731",
+    "mobile": false,
+    "thumb": "/images/game-images/skytrip.webp",
+    "description": "A game where you speed down on a randomized set of obstacles, the further you go, the faster your ball travels.",
+    "premium": false
+  },
+  {
+    "title": "Head Soccer Pro",
+    "service": "custom",
+    "width": 970,
+    "height": 700,
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cHM6Ly9odG1sNS5nYW1lbW9uZXRpemUuY28=_/wmsy76khiwydfslcg1rv9d3km98id80a/",
+    "mobile": false,
+    "thumb": "/images/game-images/headsoccer.webp",
+    "description": "An exciting and fun soccer game at Head Soccer Pro. A great game that combines agility, skill, and tournaments so you can prove you can be a champion.",
+    "premium": false
+  },
+  {
+    "title": "Hurricane.io",
+    "service": "custom",
+    "width": 970,
+    "height": 700,
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cHM6Ly9odXJyaWNhbmUtaW8uY29t_/",
+    "mobile": false,
+    "thumb": "https://i1.silvergames.com/w/b/hurricane-io.webp",
+    "description": "Ready to eat hurricanes? However, in this massively multiplayer online .io strategy game, you are the hurricane. It's grow or be absorbed; eat or be eaten.",
+    "premium": false
+  },
+  {
+    "title": "Huggy Wuggy Shooter",
+    "service": "custom",
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cHM6Ly9wYXBlcm1pbmVjcmFmdC5pbw==_/huggy-wuggy-shooter.embed",
+    "width": 900,
+    "height": 900,
+    "mobile": false,
+    "thumb": "/images/game-images/huggywuggy.webp",
+    "description": "A terrifying yet fun action game where you must survive hordes of haunted toys using various arms. Unlock the best weapons, and try and stay alive!",
+    "premium": false
+  },
+  {
+    "title": "Vex 4",
+    "service": "custom",
+    "width": 970,
+    "height": 700,
+    "url": "https://xlegends.github.io/vex4",
+    "mobile": false,
+    "thumb": "/images/game-images/vex4.webp",
+    "description": "The fourth part of the series. Do you want a fun but straightforward platformer to play? This game is perfect for you. With many levels and cool powerups, this game is enjoyable!",
+    "premium": false
+  },
+  {
+    "title": "Wordle (Unlimited)",
+    "service": "custom",
+    "url": "https://mikhad.github.io/wordle/#infinite",
+    "premium": false,
+    "mobile": true,
+    "thumb": "/images/game-images/wordle.webp",
+    "description": "A satisfying yet exciting word game where your objective is to guess the given the word. Every time you get it wrong, it shows you which letters are in the word, etc."
+  },
+  {
+    "title": "MLB Pickle (MLB Wordle)",
+    "service": "custom",
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cHM6Ly9tbGJwaWNrbGUuY29t_/",
+    "premium": false,
+    "mobile": true,
+    "thumb": "/images/game-images/baseball-temp.webp",
+    "description": "A multi-stage baseball guessing game to test your baseball knowledge!"
+  },
+  {
+    "title": "Weddle (NFL) Unlimited",
+    "service": "custom",
+    "url": "https://www.weddleunlimited.com/normal",
+    "premium": false,
+    "mobile": true,
+    "thumb": "/images/game-images/weddle.webp",
+    "description": "A multi-stage football guessing game to test your football knowledge!"
+  },
+  {
+    "title": "Poeltl (NBA)",
+    "service": "custom",
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cHM6Ly9wb2VsdGwuZHVuay50b3du_/",
+    "premium": false,
+    "mobile": true,
+    "thumb": "/images/game-images/poeltl.webp",
+    "description": "A multi-stage basketball guessing game to test your basketball knowledge!"
+  },
+  {
+    "title": "Fortnite - Xbox",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "url": "https://education-live.monster/education/hvtrs8%2F-wuw%2Cx%60oz.aoo%2Fgn%2FUQ%2Frlcy-gcmgs-fmrvnktg%2F%40T7P0X%3B9%3BVJ2",
+    "mobile": false,
+    "thumb": "/images/game-images/fortnite.webp",
+    "description": "Fortnite is a survival game where 100 players fight against each other in player versus player combat to be the last one standing.",
+    "premium": false
+  },
+  {
+    "title": "Fortnite - GeForce Now",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "url": "https://education-live.monster/education/hvtrs8%2F-pna%7B.eedopcgnmw%2Ccmm-mcln%2F!%2Ffegpnilk%3Dgcmg-kd%3F44bda%6004-f844%2F445f-%3Be76%2F2f9g47cfeg0c",
+    "mobile": false,
+    "thumb": "/images/game-images/fortnite.webp",
+    "description": "Fortnite is a survival game where 100 players fight against each other in player versus player combat to be the last one standing.",
+    "premium": false
+  },
+  {
+    "title": "Diep.io",
+    "service": "custom",
+    "url": "https://education-live.monster/education/hvtrs8%2F-dker.ko",
+    "premium": false,
+    "thumb": "https://th.bing.com/th/id/R.82c292552ff4e39a415f73dfcbdbea91?rik=V3v1b%2bTbmQd0bw&riu=http%3a%2f%2fwww.pearlinux.fr%2fwp-content%2fuploads%2f2017%2f12%2flogo-diep-io.png&ehk=KiLIthHJONvTzTdT7JOA36Iwk%2b%2f6X%2bb%2fo89r6FNXBk8%3d&risl=&pid=ImgRaw&r=0",
+    "description": "Survive and shoot at others while trying to keep your own tank alive!",
+    "mobile": false
+  },
+  {
+    "title": "Tom and Jerry Run",
+    "service": "custom",
+    "url": "https:/d2lv662meabn0u.cloudfront.net/boomerang/dynamic/web_game/00000000/22/desktop_game/index.html?key=y8&value=default",
+    "mobile": false,
+    "thumb": "/images/game-images/tomjerryrun.webp",
+    "description": "Tom and Jerry Run is fun endless runner game such as subway surfers! Run with Jerry throught subway city and jump over obstacles to collect gold coins as in talking tom gold run!",
+    "premium": false
+  },
+  {
+    "title": "Ev.io",
+    "service": "custom",
+    "url": "https://education-live.monster/education/hvtrs8%2F-et.ko-/",
+    "premium": false,
+    "thumb": "/images/game-images/evio.webp",
+    "description": "A futuristic shooter game with many different stages. Play multiplayer or with friends!",
+    "mobile": false
+  },
+  {
+    "title": "Taming.io",
+    "service": "custom",
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cHM6Ly90YW1pbmcuaW8=_/",
+    "mobile": false,
+    "thumb": "/images/game-images/tameio.webp",
+    "description": "Do you want a sandbox game, an exploration game, and a battle royale game? In this game, you explore the map, get resources, tame other animals, and fight your opponents!",
+    "premium": false
+  },
+  {
+    "title": "Moto X3M 4 Winter",
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cHM6Ly93d3cuYmFza2V0YmFsbGxlZ2VuZHMuZnVu_/gamedata/moto-x3m-4-winter",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "thumb": "/images/game-images/motowinter.webp",
+    "description": "A high-paced motorcycle driving game where you do tricks for points. Try not to die!",
+    "premium": false
+  },
+  {
+    "title": "Paper.io Animals",
+    "service": "custom",
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cHM6Ly9wYXBlcmFuaW1hbHMuaW8=_/",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "thumb": "/images/game-images/paperioanimal.webp",
+    "description": "Play paper.io as an animal and try and conquer the whole map! If you find this fun, try normal paper.io too!",
+    "premium": false
+  },
+  {
+    "title": "Among Us Online",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "url": "https://among-us-online-fan-remake.1tim.repl.co/",
+    "mobile": false,
+    "thumb": "/images/game-images/amongus.webp",
+    "description": "A murder mystery game where a group of Crewmates have Impostors among them. The Impostor's goal is to kill everyone and the Crewmates need to do tasks and vote out the Impostor.",
+    "premium": false
+  },
+  {
+    "title": "Bejeweled",
+    "service": "custom",
+    "url": "https://npa189.github.io/bejeweled/",
+    "mobile": false,
+    "thumb": "/images/game-images/bejeweled.webp",
+    "description": "The classic game mode in Bejeweled - similar to Candy Crush - lets you enjoy the traditional game, shuffling gems to connect three of the same color and make them disappear. ",
+    "premium": false
+  },
+  {
+    "title": "DragRace",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "url": "https://DragRace.frvr.com?mspwa=&msstart_sdk_init=eyJwYXJlbnRPcmlnaW4iOiJodHRwczovL3d3dy5tc24uY29tIiwiY2xpZW50SWQiOiIxOTA3RTk3RTc3MTE2QUYxMDEyQkY4RjY3NkM5NkJEMCIsImxvY2FsZSI6ImVuLXVzIiwiZW50cnlQb2ludElkIjoid2lucDJmcCJ9",
+    "thumb": "https://imagecdn.app/v1/images/https://cdn.frvr.com/2021/icons/192/dragrace.webp?8",
+    "description": "A FRVR game! Click Play to explore!",
+    "premium": false
+  },
+  {
+    "title": "Basketball",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "url": "https://Basketball.frvr.com?mspwa=&msstart_sdk_init=eyJwYXJlbnRPcmlnaW4iOiJodHRwczovL3d3dy5tc24uY29tIiwiY2xpZW50SWQiOiIxOTA3RTk3RTc3MTE2QUYxMDEyQkY4RjY3NkM5NkJEMCIsImxvY2FsZSI6ImVuLXVzIiwiZW50cnlQb2ludElkIjoid2lucDJmcCJ9",
+    "thumb": "https://imagecdn.app/v1/images/https://cdn.frvr.com/2021/icons/192/basketball.webp?8",
+    "description": "A FRVR game! Click Play to explore!",
+    "premium": false
+  },
+  {
+    "title": "Pegball",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "url": "https://Pegball.frvr.com?mspwa=&msstart_sdk_init=eyJwYXJlbnRPcmlnaW4iOiJodHRwczovL3d3dy5tc24uY29tIiwiY2xpZW50SWQiOiIxOTA3RTk3RTc3MTE2QUYxMDEyQkY4RjY3NkM5NkJEMCIsImxvY2FsZSI6ImVuLXVzIiwiZW50cnlQb2ludElkIjoid2lucDJmcCJ9",
+    "thumb": "https://imagecdn.app/v1/images/https://cdn.frvr.com/2021/icons/192/pegball.webp?8",
+    "description": "A FRVR game! Click Play to explore!",
+    "premium": false
+  },
+  {
+    "title": "Football",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "url": "https://Football.frvr.com?mspwa=&msstart_sdk_init=eyJwYXJlbnRPcmlnaW4iOiJodHRwczovL3d3dy5tc24uY29tIiwiY2xpZW50SWQiOiIxOTA3RTk3RTc3MTE2QUYxMDEyQkY4RjY3NkM5NkJEMCIsImxvY2FsZSI6ImVuLXVzIiwiZW50cnlQb2ludElkIjoid2lucDJmcCJ9",
+    "thumb": "https://imagecdn.app/v1/images/https://cdn.frvr.com/2021/icons/192/football.webp?8",
+    "description": "A FRVR game! Click Play to explore!",
+    "premium": false
+  },
+  {
+    "title": "Gold Digger",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "url": "https://ubg77.github.io/game131022/gold-digger-frvr/",
+    "thumb": "https://imagecdn.app/v1/images/https://cdn.frvr.com/2021/icons/192/golddigger.webp?8",
+    "description": "A FRVR game! Click Play to explore!",
+    "premium": false
+  },
+  {
+    "title": "Kickup",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "url": "https://Kickup.frvr.com?mspwa=&msstart_sdk_init=eyJwYXJlbnRPcmlnaW4iOiJodHRwczovL3d3dy5tc24uY29tIiwiY2xpZW50SWQiOiIxOTA3RTk3RTc3MTE2QUYxMDEyQkY4RjY3NkM5NkJEMCIsImxvY2FsZSI6ImVuLXVzIiwiZW50cnlQb2ludElkIjoid2lucDJmcCJ9",
+    "thumb": "https://imagecdn.app/v1/images/https://cdn.frvr.com/2021/icons/192/kickup.webp?8",
+    "description": "A FRVR game! Click Play to explore!",
+    "premium": false
+  },
+  {
+    "title": "EndlessPool",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "url": "https://EndlessPool.frvr.com?mspwa=&msstart_sdk_init=eyJwYXJlbnRPcmlnaW4iOiJodHRwczovL3d3dy5tc24uY29tIiwiY2xpZW50SWQiOiIxOTA3RTk3RTc3MTE2QUYxMDEyQkY4RjY3NkM5NkJEMCIsImxvY2FsZSI6ImVuLXVzIiwiZW50cnlQb2ludElkIjoid2lucDJmcCJ9",
+    "thumb": "https://imagecdn.app/v1/images/https://cdn.frvr.com/2021/icons/192/endlesspool.webp?8",
+    "description": "A FRVR game! Click Play to explore!",
+    "premium": false
+  },
+  {
+    "title": "Unblock",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "url": "https://Unblock.frvr.com?mspwa=&msstart_sdk_init=eyJwYXJlbnRPcmlnaW4iOiJodHRwczovL3d3dy5tc24uY29tIiwiY2xpZW50SWQiOiIxOTA3RTk3RTc3MTE2QUYxMDEyQkY4RjY3NkM5NkJEMCIsImxvY2FsZSI6ImVuLXVzIiwiZW50cnlQb2ludElkIjoid2lucDJmcCJ9",
+    "thumb": "https://imagecdn.app/v1/images/https://cdn.frvr.com/2021/icons/192/unblock.webp?8",
+    "description": "A FRVR game! Click Play to explore!",
+    "premium": false
+  },
+  {
+    "title": "Slash",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "url": "https://Slash.frvr.com?mspwa=&msstart_sdk_init=eyJwYXJlbnRPcmlnaW4iOiJodHRwczovL3d3dy5tc24uY29tIiwiY2xpZW50SWQiOiIxOTA3RTk3RTc3MTE2QUYxMDEyQkY4RjY3NkM5NkJEMCIsImxvY2FsZSI6ImVuLXVzIiwiZW50cnlQb2ludElkIjoid2lucDJmcCJ9",
+    "thumb": "https://imagecdn.app/v1/images/https://cdn.frvr.com/2021/icons/192/slash.webp?8",
+    "description": "A FRVR game! Click Play to explore!",
+    "premium": false
+  },
+  {
+    "title": "Trim",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "url": "https://Trim.frvr.com?mspwa=&msstart_sdk_init=eyJwYXJlbnRPcmlnaW4iOiJodHRwczovL3d3dy5tc24uY29tIiwiY2xpZW50SWQiOiIxOTA3RTk3RTc3MTE2QUYxMDEyQkY4RjY3NkM5NkJEMCIsImxvY2FsZSI6ImVuLXVzIiwiZW50cnlQb2ludElkIjoid2lucDJmcCJ9",
+    "thumb": "https://imagecdn.app/v1/images/https://cdn.frvr.com/2021/icons/192/trim.webp?8",
+    "description": "A FRVR game! Click Play to explore!",
+    "premium": false
+  },
+  {
+    "title": "Ski",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "url": "https://Ski.frvr.com?mspwa=&msstart_sdk_init=eyJwYXJlbnRPcmlnaW4iOiJodHRwczovL3d3dy5tc24uY29tIiwiY2xpZW50SWQiOiIxOTA3RTk3RTc3MTE2QUYxMDEyQkY4RjY3NkM5NkJEMCIsImxvY2FsZSI6ImVuLXVzIiwiZW50cnlQb2ludElkIjoid2lucDJmcCJ9",
+    "thumb": "https://imagecdn.app/v1/images/https://cdn.frvr.com/2021/icons/192/ski.webp?8",
+    "description": "A FRVR game! Click Play to explore!",
+    "premium": false
+  },
+  {
+    "title": "HeroSpaceRun",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "url": "https://HeroSpaceRun.frvr.com?mspwa=&msstart_sdk_init=eyJwYXJlbnRPcmlnaW4iOiJodHRwczovL3d3dy5tc24uY29tIiwiY2xpZW50SWQiOiIxOTA3RTk3RTc3MTE2QUYxMDEyQkY4RjY3NkM5NkJEMCIsImxvY2FsZSI6ImVuLXVzIiwiZW50cnlQb2ludElkIjoid2lucDJmcCJ9",
+    "thumb": "https://imagecdn.app/v1/images/https://cdn.frvr.com/2021/icons/192/herospacerun.webp?8",
+    "description": "A FRVR game! Click Play to explore!",
+    "premium": false
+  },
+  {
+    "title": "FieldGoal",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "url": "https://FieldGoal.frvr.com?mspwa=&msstart_sdk_init=eyJwYXJlbnRPcmlnaW4iOiJodHRwczovL3d3dy5tc24uY29tIiwiY2xpZW50SWQiOiIxOTA3RTk3RTc3MTE2QUYxMDEyQkY4RjY3NkM5NkJEMCIsImxvY2FsZSI6ImVuLXVzIiwiZW50cnlQb2ludElkIjoid2lucDJmcCJ9",
+    "thumb": "https://imagecdn.app/v1/images/https://cdn.frvr.com/2021/icons/192/fieldgoal.webp?8",
+    "description": "A FRVR game! Click Play to explore!",
+    "premium": false
+  },
+  {
+    "title": "Soccer",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "url": "https://Soccer.frvr.com?mspwa=&msstart_sdk_init=eyJwYXJlbnRPcmlnaW4iOiJodHRwczovL3d3dy5tc24uY29tIiwiY2xpZW50SWQiOiIxOTA3RTk3RTc3MTE2QUYxMDEyQkY4RjY3NkM5NkJEMCIsImxvY2FsZSI6ImVuLXVzIiwiZW50cnlQb2ludElkIjoid2lucDJmcCJ9",
+    "thumb": "https://imagecdn.app/v1/images/https://cdn.frvr.com/2021/icons/192/soccer.webp?8",
+    "description": "A FRVR game! Click Play to explore!",
+    "premium": false
+  },
+  {
+    "title": "BumperCar",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "url": "https://BumperCar.frvr.com?mspwa=&msstart_sdk_init=eyJwYXJlbnRPcmlnaW4iOiJodHRwczovL3d3dy5tc24uY29tIiwiY2xpZW50SWQiOiIxOTA3RTk3RTc3MTE2QUYxMDEyQkY4RjY3NkM5NkJEMCIsImxvY2FsZSI6ImVuLXVzIiwiZW50cnlQb2ludElkIjoid2lucDJmcCJ9",
+    "thumb": "https://imagecdn.app/v1/images/https://cdn.frvr.com/2021/icons/192/bumpercar.webp?8",
+    "description": "A FRVR game! Click Play to explore!",
+    "premium": false
+  },
+  {
+    "title": "BallCrash",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "url": "https://BallCrash.frvr.com?mspwa=&msstart_sdk_init=eyJwYXJlbnRPcmlnaW4iOiJodHRwczovL3d3dy5tc24uY29tIiwiY2xpZW50SWQiOiIxOTA3RTk3RTc3MTE2QUYxMDEyQkY4RjY3NkM5NkJEMCIsImxvY2FsZSI6ImVuLXVzIiwiZW50cnlQb2ludElkIjoid2lucDJmcCJ9",
+    "thumb": "https://imagecdn.app/v1/images/https://cdn.frvr.com/2021/icons/192/ballcrash.webp?8",
+    "description": "A FRVR game! Click Play to explore!",
+    "premium": false
+  },
+  {
+    "title": "Boing",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "url": "https://Boing.frvr.com?mspwa=&msstart_sdk_init=eyJwYXJlbnRPcmlnaW4iOiJodHRwczovL3d3dy5tc24uY29tIiwiY2xpZW50SWQiOiIxOTA3RTk3RTc3MTE2QUYxMDEyQkY4RjY3NkM5NkJEMCIsImxvY2FsZSI6ImVuLXVzIiwiZW50cnlQb2ludElkIjoid2lucDJmcCJ9",
+    "thumb": "https://imagecdn.app/v1/images/https://cdn.frvr.com/2021/icons/192/boing.webp?8",
+    "description": "A FRVR game! Click Play to explore!",
+    "premium": false
+  },
+  {
+    "title": "BowlinGo",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "url": "https://BowlinGo.frvr.com?mspwa=&msstart_sdk_init=eyJwYXJlbnRPcmlnaW4iOiJodHRwczovL3d3dy5tc24uY29tIiwiY2xpZW50SWQiOiIxOTA3RTk3RTc3MTE2QUYxMDEyQkY4RjY3NkM5NkJEMCIsImxvY2FsZSI6ImVuLXVzIiwiZW50cnlQb2ludElkIjoid2lucDJmcCJ9",
+    "thumb": "https://imagecdn.app/v1/images/https://cdn.frvr.com/2021/icons/192/bowlingo.webp?8",
+    "description": "A FRVR game! Click Play to explore!",
+    "premium": false
+  },
+  {
+    "title": "GuberDriver",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "url": "https://GuberDriver.frvr.com?mspwa=&msstart_sdk_init=eyJwYXJlbnRPcmlnaW4iOiJodHRwczovL3d3dy5tc24uY29tIiwiY2xpZW50SWQiOiIxOTA3RTk3RTc3MTE2QUYxMDEyQkY4RjY3NkM5NkJEMCIsImxvY2FsZSI6ImVuLXVzIiwiZW50cnlQb2ludElkIjoid2lucDJmcCJ9",
+    "thumb": "https://imagecdn.app/v1/images/https://cdn.frvr.com/2021/icons/192/guberdriver.webp?8",
+    "description": "A FRVR game! Click Play to explore!",
+    "premium": false
+  },
+  {
+    "title": "Donut",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "url": "https://Donut.frvr.com?mspwa=&msstart_sdk_init=eyJwYXJlbnRPcmlnaW4iOiJodHRwczovL3d3dy5tc24uY29tIiwiY2xpZW50SWQiOiIxOTA3RTk3RTc3MTE2QUYxMDEyQkY4RjY3NkM5NkJEMCIsImxvY2FsZSI6ImVuLXVzIiwiZW50cnlQb2ludElkIjoid2lucDJmcCJ9",
+    "thumb": "https://imagecdn.app/v1/images/https://cdn.frvr.com/2021/icons/192/donut.webp?8",
+    "description": "A FRVR game! Click Play to explore!",
+    "premium": false
+  },
+  {
+    "title": "GolfGardens",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "url": "https://GolfGardens.frvr.com?mspwa=&msstart_sdk_init=eyJwYXJlbnRPcmlnaW4iOiJodHRwczovL3d3dy5tc24uY29tIiwiY2xpZW50SWQiOiIxOTA3RTk3RTc3MTE2QUYxMDEyQkY4RjY3NkM5NkJEMCIsImxvY2FsZSI6ImVuLXVzIiwiZW50cnlQb2ludElkIjoid2lucDJmcCJ9",
+    "thumb": "https://imagecdn.app/v1/images/https://cdn.frvr.com/2021/icons/192/golfgardens.webp?8",
+    "description": "A FRVR game! Click Play to explore!",
+    "premium": false
+  },
+  {
+    "title": "Pinball",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "url": "https://Pinball.frvr.com?mspwa=&msstart_sdk_init=eyJwYXJlbnRPcmlnaW4iOiJodHRwczovL3d3dy5tc24uY29tIiwiY2xpZW50SWQiOiIxOTA3RTk3RTc3MTE2QUYxMDEyQkY4RjY3NkM5NkJEMCIsImxvY2FsZSI6ImVuLXVzIiwiZW50cnlQb2ludElkIjoid2lucDJmcCJ9",
+    "thumb": "https://imagecdn.app/v1/images/https://cdn.frvr.com/2021/icons/192/pinball.webp?8",
+    "description": "A FRVR game! Click Play to explore!",
+    "premium": false
+  },
+  {
+    "title": "Knife Hit",
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cHM6Ly9zdG9yYWdlLnk4LmNvbQ==_/y8-studio/html5/akeemywka/knife_hit_y8/?key=y8&value=default",
+    "service": "custom",
+    "width": 450,
+    "height": 750,
+    "mobile": false,
+    "thumb": "/images/game-images/knifehit.webp",
+    "description": "A fun reaction speed, accuracy game where you try and stack as many knives onto a spinning object. Collect the coolest skins and progress through challenging levels!",
+    "premium": false
+  },
+  {
+    "title": "Mr Bullet",
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cHM6Ly9odG1sNS5nYW1lbW9uZXRpemUuY28=_/2xiv169991w8f8ky01my2ilq0i843t46/",
+    "service": "custom",
+    "width": 960,
+    "height": 630,
+    "mobile": false,
+    "thumb": "/images/game-images/mrbullet.webp",
+    "description": "A super addictive 2D shooting game. For each level, you have three bullets, and you have to try and kill as many people as possible!",
+    "premium": false
+  },
+  {
+    "title": "Surviv.io",
+    "service": "custom",
+    "url": "/games/surviv/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/surviv/img/favicon.png",
+    "description": "A high-powered hybrid of arcade-style soccer and vehicular mayhem with easy-to-understand controls and fluid, physics-driven competition.",
+    "mobile": false
+  },
+  {
+    "title": "Doodle Jump",
+    "service": "custom",
+    "url": "/games/doodle-jump/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/doodle-jump/doodle.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Sheep Inc",
+    "service": "custom",
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cHM6Ly9odG1sNS5nYW1lbW9uZXRpemUuY28=_/u3hhgz3g3e981n2pgj2o9z2rmkugeg7f/",
+    "width": 750,
+    "height": 1334,
+    "mobile": true,
+    "thumb": "/images/game-images/sheepinc.webp",
+    "description": "A super fun farmer simulation game. Get more sheep, upgrade your money, and do so much more!",
+    "premium": false
+  },
+  {
+    "title": "Oceanar.io",
+    "service": "custom",
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cDovL29jZWFuYXIuaW8=_/",
     "width": 900,
     "height": 700,
     "mobile": true,
+    "thumb": "/images/game-images/oceanar.webp",
+    "description": "Swim in the ocean with gigantic fish while protecting your queen! You can feed damaged fish to restore health, merge smaller creatures to make larger ones, and get powerful!",
     "premium": false
   },
-   "Slope": {
-    "name": "Slope",
-    "service": "y8",
-    "premium": false,
-    "url": "https://smileman52.github.io/projects/slope/index.html",
-    "width": 900,
-    "height": 640,
-    "mobile": false
-  },
-     "Vex 6": {
-    "name":"Vex 6",
-    "service":"custom",
-    "width": 970,
-    "height": 700,    
-"url":"https://smileman52.github.io/projects/vex6/index.html",
-    "mobile":false,
-    "premium":false
-  },
-    "Agar.io 2": {
-    "name":"Agar.io 2",
-    "service":"custom",
-    "width": 970,
-    "height": 700,    
-"url":"https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9hZ2FyaW8yLm5ldHdvcms=_/",
-    "mobile":false,
-    "premium":false
-  },
-    "Aquapark IO WaterSlide Game": {
-    "name": "Aquapark IO WaterSlide Game",
+  {
+    "title": "Little Alchemy 2",
     "service": "custom",
-    "url": "https://advanced-channeler.02.gz-associates.com/?t=tam-slippery-water-slides",
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cHM6Ly9saXR0bGVhbGNoZW15Mi5jb20=_/",
+    "width": 900,
+    "height": 700,
+    "mobile": true,
+    "thumb": "/images/game-images/littlealchemy.webp",
+    "description": "In this game, you explore the possible combinations of the many different elements. Try and create the most bizarre things!",
+    "premium": false
+  },
+  {
+    "title": "Tonkwars.io",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "url": "https://1aa89741-e935-4ab7-b847-5718859e9401.id.repl.co/main/https://html5.gamemonetize.co/s0hre8v0prilayb5c3zmj5iwkytnb12v/",
     "premium": false,
+    "thumb": "/images/game-images/tonkwars.webp",
+    "description": "Tank Battle Multiplayer Game! Shoot other tanks, destroy terrain and collect powerups! Customize your tank with flags and hats",
     "mobile": false
   },
-    "FNAF": {
-    "name":"FNAF",
-    "service":"custom",
+  {
+    "title": "Copter.io",
+    "service": "custom",
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cHM6Ly9jb3B0ZXIuaW8=_/?game-language=en",
+    "mobile": false,
+    "thumb": "/images/game-images/copter-io.webp",
+    "description": "An engaging helicopter battle royale game where you try and destroy your opponents. Upgrade your helicopter, speed, and weapons, and try to reach the leaderboard!",
+    "premium": false
+  },
+  {
+    "title": "Apple Shooter",
+    "service": "custom",
+    "width": 800,
+    "height": 450,
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cHM6Ly9odG1sNS5nYW1lZGlzdHJpYnV0aW9uLmNvbQ==_/f85e3e02194545208fa52da0c0992362/?gd_sdk_referrer_url=https%3A%2F%2Fwww.y8.com%2Fgames%2Fapple_shooter&key=y8&ratio_tolerant=true&value=default",
+    "premium": false,
+    "thumb": "/images/game-images/appleshooter.webp",
+    "description": "In this classic game, you try and shoot an apple off of your friend's head. Don't miss!",
+    "mobile": false
+  },
+  {
+    "title": "Agar.io 2",
+    "service": "custom",
     "width": 970,
-    "height": 550,    
-"url":"https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9kb3J1a3l1bS5naXRodWIuaW8=_/FNAF-Web/",
-    "mobile":false,
-    "premium":false
+    "height": 700,
+    "url": "https://agar.io/",
+    "mobile": false,
+    "thumb": "/images/game-images/agario.webp",
+    "description": "Take control of your bubble and try eating players to become more prominent. Kill your enemies with epic skins and other various features!",
+    "premium": false
   },
-    "JustBuild.LOL 1v1": {
-    "name":"JustBuild.LOL 1v1",
-    "service":"custom",
-    "width": 900,
-    "height": 700,    
-"url":"https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly93d3cuanVzdGJ1aWxkLmxvbA==_/",
-    "mobile":false,
-    "premium":false
+  {
+    "title": "The Pillar",
+    "service": "custom",
+    "premium": false,
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cHM6Ly9odG1sNS5nYW1lbW9uZXRpemUuY28=_/7j6a3jq3nf31mpmn2cis74fh5xehkz17/",
+    "width": 800,
+    "height": 600,
+    "thumb": "/images/game-images/thepillar.webp",
+    "description": "The Pillar is a first-person puzzle game set on a beautiful island. Navigate a mysterious world and solve all the puzzles to complete the game!",
+    "mobile": false
   },
-    "BitLife": {
-    "name":"BitLife  (NEW!)",
-    "service":"custom",
+  {
+    "title": "Skribbl.io",
+    "service": "custom",
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cHM6Ly9za3JpYmJsLmlv_/",
+    "mobile": false,
+    "thumb": "/images/game-images/skribblio.webp",
+    "description": "In this fan-favorite multiplayer game, you get a prompt for what to draw, and your friends try and guess what it is!",
+    "premium": false
+  },
+  {
+    "title": "2048 Cupcakes",
+    "service": "custom",
+    "url": "https://0x0800.github.io/2048-CUPCAKES/",
     "width": 900,
-    "height": 700,    
-"url":"https://g.eduninja.repl.co/unblocker/https:/html5.gamemonetize.co/sunlne8825d1006jux3b1xrl9vda49f1/",
+    "height": 700,
     "mobile": true,
-    "premium":false
+    "thumb": "/images/game-images/2048cupcakes.webp",
+    "description": "An engaging cupcake merging game where you try and get your highest cupcake to the ultimate cupcake!",
+    "premium": false
   },
-    "Temple Run 2": {
-    "name": "Temple Run 2",
+  {
+    "title": "Tiny Fishing",
+    "service": "custom",
+    "url": "/games/tiny-fishing/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/tiny-fishing/thumb.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Crowd City",
+    "service": "custom",
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cHM6Ly93d3cuY3Jvd2RjaXR5LWlvLmNvbQ==_/",
+    "width": 394,
+    "height": 700,
+    "mobile": false,
+    "thumb": "/images/game-images/crowdcity.webp",
+    "description": "In this game, you must dominate the whole city in the excellent Crowd City game. Your goal is to convert many people into your crowd and fight the other crowds!",
+    "premium": false
+  },
+  {
+    "title": "Super Mario",
     "service": "offline",
     "premium": false,
+    "thumb": "/images/game-images/supermario.webp",
+    "description": "The classic platformer of the world. Control your character named Mario and explore the vast 2D world of Super Mario!",
+    "mobile": false
+  },
+  {
+    "title": "Crossy Road",
+    "service": "custom",
+    "url": "/games/crossyroad/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/crossyroad/crossyroad.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "ShootEm.io",
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cHM6Ly9zaG9vdGVtLmlv_/",
+    "service": "custom",
+    "mobile": true,
+    "thumb": "/images/game-images/shootemio.webp",
+    "description": "An epic battle royale game where you try and survive as long as possible. Try the many types of guns, kill as many people, and view all the other features!",
+    "premium": false
+  },
+  {
+    "title": "Flappy Bird",
+    "service": "custom",
+    "url": "/games/flappy-bird/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/flappy-bird/assets/thumb.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Giant Rabbit Run (Chungus)",
+    "service": "custom",
+    "url": "https:/www.mathplayground.com/giant-rabbit-run/index.html",
+    "premium": false,
+    "thumb": "/images/game-images/chungusrun.webp",
+    "description": "Endless runner game where you play as the character Big Chungus, Try not to die and try and get as far as possible while collecting exceptional items and coins!",
     "mobile": true
   },
-    "Subway Surfers": {
-    "name":"Subway Surfers",
-    "service":"offline", 
-    "mobile":true,
-    "premium":false
+  {
+    "title": "Cut the Rope 2",
+    "service": "custom",
+    "url": "https://yell0wsuit.github.io/html5-games/games/CutTheRope",
+    "mobile": true,
+    "thumb": "/images/game-images/cuttherope.webp",
+    "description": "In this game, you solve fun and ridiculous puzzles while keeping your little character satisfied",
+    "premium": false
   },
-    "Geometry Dash": {
-    "name":"Geometry Dash",
-    "service":"custom",
-    "width": 970,
-    "height": 550,    
-"url":"https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9zY3JhdGNoLm1pdC5lZHU=_/projects/105500895/embed",
-    "mobile":false,
-    "premium":false
+  {
+    "title": "Chrome Dino",
+    "service": "custom",
+    "url": "/games/chrome-dino/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/chrome-dino/icons/icon-256.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Chess",
+    "service": "custom",
+    "url": "/games/chess/chess.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/chess/84391856-3910-4B44-AF7E-ACF1056658C2.jpeg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Snake",
+    "service": "custom",
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cHM6Ly93d3cuZ29vZ2xlc25ha2UuY29t_/snakedesktop.php",
+    "mobile": true,
+    "thumb": "/images/game-images/snake.webp",
+    "description": "In this game, you must maneuver a growing line (your snake) while eating apples or other fruits to make it grow bigger. Try and become as big as possible!",
+    "premium": false
+  },
+  {
+    "title": "Fruit Ninja",
+    "service": "custom",
+    "url": "/games/fruitninja/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/fruitninja/FruitNinjaTeaser.jpg",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
+  },
+  {
+    "title": "Lines",
+    "service": "custom",
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cHM6Ly9odG1sNS5nYW1lZGlzdHJpYnV0aW9uLmNvbQ==_/318d1f7fb5874c00bc8679b773ec9a67/?gd_sdk_referrer_url=https%3A%2F%2Fwww.y8.com%2Fgames%2Flines_&key=y8&value=default",
+    "width": 800,
+    "height": 450,
+    "premium": false,
+    "thumb": "/images/game-images/lines.webp",
+    "description": "In this game, your objective is to have the longest line possible. Click on the track to drop your line and see where it goes!",
+    "mobile": false
+  },
+  {
+    "title": "Rhino Rink",
+    "service": "custom",
+    "url": "https:/www.mathplayground.com/mobile_rhino_rink/index.html",
+    "premium": false,
+    "thumb": "/images/game-images/rhinorink.webp",
+    "description": "A fun merging game involving rhinos. Get the best Rhino!",
+    "mobile": false
+  },
+  {
+    "title": "Krunker.io",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "url": "https://browserfps.com/",
+    "mobile": false,
+    "thumb": "/images/game-images/krunker-io.webp",
+    "description": "Krunker.io is a popular first-person shooter game in which the players fall into a dark work, tasked with combatting with other gamers from all over the world!",
+    "premium": false
+  },
+  {
+    "title": "Narwhale.io",
+    "service": "custom",
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cDovL25hcndoYWxlLmlv_/",
+    "premium": false,
+    "thumb": "/images/game-images/nario.webp",
+    "description": "An exciting battle royale game where your objective is to spear your opponents. Play as a Narwhale and be the last one standing!",
+    "mobile": false
+  },
+  {
+    "title": "Mountain Bike Racer",
+    "service": "custom",
+    "url": "https:/www.mathplayground.com/mountain-bike-racer/index.html",
+    "premium": false,
+    "thumb": "/images/game-images/mountainbikeracer.webp",
+    "description": "A satisfying ragdoll game similar to MotoX3M. Climb the biggest hills and do the most astounding jumps, but don't die!",
+    "mobile": false
+  },
+  {
+    "title": "Basketball Beans",
+    "url": "https://ed31f110-76f3-4024-8c39-4bbc4dc880e3.id.repl.co/web/_aHR0cHM6Ly9odG1sNS5nYW1lbW9uZXRpemUuY28=_/497cln39zyvoe7yg3r18hv5lpcathzwz/",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "thumb": "/images/game-images/basketballbeans.webp",
+    "description": "A fun basketball simulation game where you try and beat your opponents in multiple different game modes!",
+    "premium": false
+  },
+  {
+    "title": "TopGun.io",
+    "service": "custom",
+    "premium": false,
+    "url": "https://topgunioio.runningfred333.repl.co/",
+    "width": 900,
+    "height": 700,
+    "thumb": "/images/game-images/topgun.webp",
+    "description": "TopGuns.io is a mobile battle royale where you shoot with a weapon like your life depends on being the last player alive. Winner takes all! ",
+    "mobile": false
+  },
+  {
+    "title": "There Are No Zombies",
+    "service": "custom",
+    "width": 900,
+    "height": 700,
+    "url": "https://html-classic.itch.zone/html/5577399/index.html",
+    "mobile": false,
+    "thumb": "/images/game-images/therearenozombies.webp",
+    "description": "A platformer game in which you must escape the zombies and kill them! Try and stay alive as long as possible!",
+    "premium": false
+  },
+  {
+    "title": "2048",
+    "service": "custom",
+    "url": "/games/2048/index.html",
+    "premium": false,
+    "thumb": "https://storage.googleapis.com/zatoga-assets/games/2048/thumb.png",
+    "description": "Play this game to find out what it is!",
+    "mobile": false
   }
-}
+]
