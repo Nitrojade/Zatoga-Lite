@@ -1,5 +1,4 @@
 # Zatoga Lite Edition
-Zatoga Lite features a snapshot of the Zatoga website as it was at the end of 2021.
 A PWA to easily get distracted by:
 * Playing Games such as: 
   * Doodle Jump
@@ -8,6 +7,7 @@ A PWA to easily get distracted by:
   * Super Mario
 * Playing an entire collection of more advanced online games which have been proxied
 
+-> Zatoga Lite is a snapshot of the Zatoga website as it was at the end of 2021.
 
 ### Hosting:
 * **Fast (recommended): https://lite.zatoga.net
