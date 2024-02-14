@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script type="text/javascript" src="/js/main.js"></script>
+    <title>Eaglercraft Minecraft Server - Zatoga</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link type="image/x-icon" rel="icon" href="favicon.ico" />
+    <script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "bv9mrhkewx");
+</script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-73HZZ1MTS7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-73HZZ1MTS7');
+</script>
+<script async src="https://arc.io/widget.min.js#xMQJBFEW"></script>
+    <script type="text/javascript" src="classes10.js"></script>
+    <style type="text/css">
+      a.nolink,
+      a.nolink:link,
+      a.nolink:hover,
+      a.nolink:visited {
+        color: white;
+      }
+      a.nolink:active {
+        color: yellow;
+      }
+      #available {
+        position: fixed;
+        background-color: #333333;
+        top: 0px;
+        right: 0px;
+        padding: 10px 30px;
+        width: min(80vw, 250px);
+        color: white;
+      }
+      #available_hide {
+        position: fixed;
+        top: 0px;
+        right: 0px;
+        margin: 10px;
+        padding: 2px;
+        font-weight: bold;
+        border: 1px solid white;
+        font-size: 12px;
+        line-height: 12px;
+        cursor: pointer;
+        background-color: #333333;
+      }
+    </style>
+    <script type="text/javascript">
+      window.addEventListener("load", function () {
+        window.minecraftOpts = [
+          "game_frame",
+          "assets.epk",
+          "CgAACQAHc2VydmVycwoAAAAECAACaXAAJHdzczovL3NlYWxjcmFmdC5kZG5zLm5ldDo0NDIvc2VydmVycwgABG5hbWUACVNlYWxDcmFmdAEAC2hpZGVBZGRyZXNzAAAIAAJpcAAdd3NzOi8vbWMucHJpbWl0dC5kZXYvc3Vydml2YWwIAARuYW1lAAdQcmltaXR0AQALaGlkZUFkZHJlc3MAAAgAAmlwABp3c3M6Ly9hZW9uLW5ldHdvcmsudGsvYWVvbggABG5hbWUABEFlb24BAAtoaWRlQWRkcmVzcwAACAACaXAAHXdzczovL3N1cy5zaGhub3dpc25vdHRoZXRpLm1lCAAEbmFtZQAQYXl1bmFtaSdzIHNlcnZlcgEAC2hpZGVBZGRyZXNzAAABAAloaWRlX2Rvd24BCAAPc2VydmVyTGlzdFRpdGxlABtBeW9udWxsIHJ1bnMgYSBzZXJ2ZXIgbGlzdDoIAA5zZXJ2ZXJMaXN0TGluawAhaHR0cHM6Ly9lYWdsZXIubnVsbHkudGVjaC9zZXJ2ZXJzAA==",
+        ];
+        (function () {
+          var q = window.location.search;
+          if (typeof q === "string" && q.startsWith("?")) {
+            q = new URLSearchParams(q);
+            var s = q.get("server");
+            if (s) window.minecraftOpts.push(s);
+          }
+        })();
+        setTimeout(function () {
+          document.getElementById("available").style.display = "block";
+        }, 5000);
+        window.remAvailable = setTimeout(function () {
+          document.getElementById("available").remove();
+        }, 18000);
+        document.getElementById("available_hide").addEventListener("click", function () {
+          clearTimeout(window.remAvailable);
+          document.getElementById("available").remove();
+        });
+        main();
+      });
+    </script>
+    <link rel="stylesheet" href="/media/style.css"/>
+  </head>
+  <body style="margin: 0px; width: 100vw; height: 100vh;" id="game_frame">
+           <span class="loading">
+      <h1 class="center">Zatoga <span class="stable basic online">v3.3</span><span class="stable premium hide">Premium</span><span class="stable offline hide">Offline</span><span class="beta hide">BETA</span></h1><br><br><br>
+        <img class="rotate fast center" src="/media/icon.png"/>
+      <br><br><br><br><br><br>
+      <h2 class="center">Game Loading...<br><small style="color:green;font-size:20px;">Please Wait...</small></h3>
+    </span>
+    <script>
+    document.body.onload = function(){
+  var x = document.getElementsByClassName("loading");
+  for(i=0;i<x.length;i++) {
+    let elem = x[i];
+    setTimeout(function(){elem.style.opacity = "0";},500);
+    setTimeout(function(){elem.style.display="none";},1750);
+  }
+  setTimeout(function(){document.body.style.overflow="auto";},3500);
+}
+    </script>
+    <div id="available" style="display: none;">
+      <p id="available_hide">&nbsp;X&nbsp;</p>
+      <p style="margin: 0px;">
+        You are playing Eaglercraft Minecraft on Zatoga, credit to LAX1DUDE for making this!
+      </p>
+    </div>
+    <span class="back top" onclick="window.location.href='/app/';"></span>
+<span class="comment tope" onclick="window.open('/app/games/game-comment.html#disqus_thread');"></span>
+<script>window.goYAY = function(){resize(800,600);}</script>
+<script src="/media/appplication.js" onload="window.goYAY();"></script>
+  </body>
+</html>

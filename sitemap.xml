@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://zato.ga/</loc>
+	<lastmod>2022-05-25T20:50:32+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://zato.ga/app/</loc>
+	<lastmod>2022-05-25T20:50:32+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://zato.ga/status/</loc>
+	<lastmod>2022-05-25T20:50:32+01:00</lastmod>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>https://zato.ga/app/info/</loc>
+	<lastmod>2022-05-25T20:50:32+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://zato.ga/app/games/offline/minecraft/</loc>
+	<lastmod>2022-05-25T20:50:32+01:00</lastmod>
+	<priority>0.3</priority>
+</url>
+<url>
+	<loc>https://zato.ga/app/games/offline/riddle-school-5/</loc>
+	<lastmod>2022-05-25T20:50:32+01:00</lastmod>
+	<priority>0.3</priority>
+</url>
+<url>
+	<loc>https://zato.ga/app/games/offline/doodle-jump/</loc>
+	<lastmod>2022-05-25T20:50:32+01:00</lastmod>
+	<priority>0.3</priority>
+</url>
+  <url>
+	<loc>https://zato.ga/app/games/offline/2048/</loc>
+	<lastmod>2022-05-25T20:50:32+01:00</lastmod>
+	<priority>0.3</priority>
+</url>
+<url>
+	<loc>https://zato.ga/app/games/offline/super-mario/</loc>
+	<lastmod>2022-05-25T20:50:32+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+</urlset>

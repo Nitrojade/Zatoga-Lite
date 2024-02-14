@@ -1,0 +1,674 @@
+{
+  "Pac-Man": {
+    "name": "Pac-Man",
+    "service": "custom",
+    "url": "https://ergrtg.herokuapp.com/web/_aHR0cHM6Ly9jYXRjb3VwLnh5eg==_/archive/g/pacman/",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "premium": false
+  },
+  "Rob The Bank": {
+    "name": "Rob The Bank",
+    "service": "custom",
+    "url": "https://money-game-jam--caialexander2914.repl.co/",
+    "premium": false,
+    "mobile": false
+  },
+  "Doodle Jump": {
+    "name": "Doodle Jump",
+    "service": "offline",
+    "premium": false,
+    "mobile": false
+  },
+  "The House": {
+    "name": "The House",
+    "service": "custom",
+    "premium": true,
+    "url": "https://the-house.arturkot.pl/",
+    "width": 900,
+    "height": 900,
+    "mobile": false
+  },
+  "Helifight": {
+    "name": "Helifight",
+    "service": "html5-games",
+    "premium": false,
+    "mobile": false
+  },
+    "Giant Rabbit Run (Chungus)": {
+    "name": "Giant Rabbit Run (Chungus)",
+    "service": "custom",
+    "url": "https://g.devjam.repl.co/unblocker/https:/www.mathplayground.com/giant-rabbit-run/index.html",
+    "premium": false,
+    "mobile": false
+  },
+  "Circle Shooter": {
+    "name": "Circle Shooter",
+    "service": "html5-games",
+    "premium": false,
+    "mobile": true
+  },
+  "Rider Online": {
+    "name": "Rider Online",
+    "service": "html5-games",
+    "url": "",
+    "premium": false,
+    "mobile": true
+  },
+  "Ninja Master": {
+    "name": "Ninja Master",
+    "service": "html5-games",
+    "url": "",
+    "premium": false,
+    "mobile": true
+  },
+  "Flappy Bird": {
+    "name": "Flappy Bird",
+    "service": "custom",
+    "premium": false,
+    "url": "https://ergrtg.herokuapp.com/web/_aHR0cHM6Ly9jYXRjb3VwLnh5eg==_/archive/g/flappybird/",
+    "width": 500,
+    "height": 900,
+    "mobile": true
+  },
+  "Blob Tank Wars": {
+    "name": "Blob Tank Wars",
+    "service": "html5-games",
+    "url": "",
+    "premium": false,
+    "mobile": false
+  },
+  "Chrome Dino": {
+    "name": "Chrome Dino",
+    "service": "offline",
+    "premium": false,
+    "mobile": true
+  },
+  "G-Switch 3": {
+    "name": "G-Switch 3",
+    "service": "html5-games",
+    "url": "https://ergrtg.herokuapp.com/web/_aHR0cHM6Ly9odG1sNS1nYW1lcy5pbw==_/game/g-switch-3/",
+    "premium": false,
+    "mobile": false
+  },
+  "Catch Dots": {
+    "name": "Catch Dots",
+    "service": "html5-games",
+    "url": "",
+    "premium": false,
+    "mobile": true
+  },
+  "Fruit Ninja": {
+    "name": "Fruit Ninja",
+    "service": "custom",
+    "url": "https://Fruit-Ninja-Game-Demo.numcomx.repl.co",
+    "premium": false,
+    "mobile": false
+  },
+  "Fireboy and Watergirl 5": {
+    "name": "Fireboy and Watergirl 5",
+    "service": "html5-games",
+    "url": "",
+    "premium": false
+  },
+  "Bouncing Balls": {
+    "name": "Bouncing Balls",
+    "service": "html5-games",
+    "url": "",
+    "premium": true,
+    "mobile": true
+  },
+  "Swipe Basketball": {
+    "name": "Swipe Basketball",
+    "service": "html5-games",
+    "url": "",
+    "premium": false,
+    "mobile": true
+  },
+  "2048 Game": {
+    "name": "2048 Game",
+    "service": "offline",
+    "premium": false,
+    "mobile": true
+  },
+  "MotoX3M": {
+    "name": "MotoX3M",
+    "service": "html5-games",
+    "url": "",
+    "premium": false
+  },
+  "Moto X3M Winter": {
+    "name": "Moto X3M Winter",
+    "service": "html5-games",
+    "url": "",
+    "premium": true
+  },
+  "Yahtzee": {
+    "name": "Yahtzee",
+    "service": "html5-games",
+    "url": "",
+    "premium": false
+  },
+  "Moto X3M Pool Party": {
+    "name": "Moto X3M Pool Party",
+    "service": "html5-games",
+    "url": "https://ergrtg.herokuapp.com/web/_aHR0cHM6Ly9odG1sNS1nYW1lcy5pbw==_/game/moto-xm-pool-party/",
+    "premium": true
+  },
+  "Tank Defender": {
+    "name": "Tank Defender",
+    "service": "html5-games",
+    "url": "",
+    "premium": false
+  },
+    "Snake": {
+    "name": "Snake",
+    "service": "custom",
+    "url": "https://g.devjam.repl.co/unblocker/https:/www.mathplayground.com/snake/index.html",
+    "premium": false,
+    "mobile": false
+  },
+    "Truck Loader 5": {
+    "name": "Truck Loader 5",
+    "service": "custom",
+    "url": "https://g.devjam.repl.co/unblocker/https:/html5.gamemonetize.com/uoqfs8gs2redrwzbfo3diixqpd986v71/",
+    "premium": false,
+    "mobile": false
+  },
+  "Tug The Table": {
+    "name": "Tug The Table",
+    "service": "html5-games",
+    "url": "",
+    "premium": false,
+    "mobile": false
+  },
+  "Wings Rush": {
+    "name": "Wings Rush",
+    "service": "html5-games",
+    "url": "",
+    "premium": true,
+    "mobile": false
+  },
+  "Candy Crush": {
+    "name": "Candy Crush",
+    "service": "html5-games",
+    "url": "",
+    "premium": false,
+    "mobile": true
+  },
+  "Master Chess": {
+    "name": "Master Chess",
+    "service": "html5-games",
+    "url": "",
+    "premium": false
+  },
+    "Ski Challenge": {
+    "name": "Ski Challenge",
+    "service": "custom",
+    "url": "https://g.devjam.repl.co/unblocker/https:/html5.gamemonetize.com/jrfnsj2qfuheoxa4dvjwk16by3um9jys/",
+    "mobile": false,
+    "premium": true
+  },
+  "Color Switch": {
+    "name": "Color Switch",
+    "service": "html5-games",
+    "url": "",
+    "premium": true,
+    "mobile": true
+  },
+  "8 ball pool": {
+    "name": "8 ball pool",
+    "service": "html5-games",
+    "url": "",
+    "premium": false
+  },
+    "Africa Jeep Race": {
+    "name": "Africa Jeep Race",
+    "service": "custom",
+    "url": "https://ergrtg.herokuapp.com/web/_aHR0cHM6Ly9odG1sNS5nYW1lbW9uZXRpemUuY29t_/hagsouuuozkf6zaer6rp205kdxs7s894/",
+    "premium": false,
+    "mobile": false
+  },
+    "Bike Wheelie": {
+    "name": "Bike Wheelie",
+    "service": "custom",
+    "url": "https://ergrtg.herokuapp.com/web/_aHR0cHM6Ly9odG1sNS5nYW1lbW9uZXRpemUuY29t_/0x8t0mbhij0qu4bal4787s9jo5bcjpuj/",
+    "premium": false,
+    "mobile": false
+  },
+    "Neon Racer": {
+    "name": "Neon Racer",
+    "service": "custom",
+    "url": "https://g.devjam.repl.co/unblocker/https:/html5.gamemonetize.com/vfajajuxizhle7032316fs2npa6id6r8/",
+    "premium": false,
+    "mobile": false
+  },
+  "Super Bowmasters": {
+    "name": "Super Bowmasters",
+    "service": "html5-games",
+    "url": "",
+    "premium": false,
+    "mobile": true
+  },
+  "Surviv.io": {
+    "name": "Surviv.io",
+    "service": "custom",
+    "premium": false,
+    "url": "https://ergrtg.herokuapp.com/web/_aHR0cHM6Ly9zdXJ2aXYuaW8=_/",
+    "width": 900,
+    "height": 900,
+    "mobile": false
+  },
+  "Perfect Dunk": {
+    "name": "Perfect Dunk",
+    "service": "html5-games",
+    "url": "",
+    "premium": false
+  },
+    "Ambulance Simulator": {
+    "name": "Ambulance Simulator",
+    "service": "custom",
+    "url": "https://g.devjam.repl.co/unblocker/https:/html5.gamemonetize.com/ratf4yoenbbez953rz49xcb4mdwpukqm/",
+    "premium": false,
+    "mobile": false
+  },
+    "Road of Rampage": {
+    "name": "Road of Rampage",
+    "service": "html5-games",
+    "url": "",
+    "premium": false,
+    "mobile": false
+  },
+  "Air Hockey": {
+    "name": "Air Hockey",
+    "service": "html5-games",
+    "url": "",
+    "premium": false
+  },
+  "Ballistic": {
+    "name": "Ballistic",
+    "service": "html5-games",
+    "url": "",
+    "premium": true,
+    "mobile": true,
+    "width": 450,
+    "height": 730
+  },
+  "Basketball Stars": {
+    "name": "Basketball Stars",
+    "service": "custom",
+    "url": "https://g.devjam.repl.co/unblocker/https:/html5.gamedistribution.com/69d78d071f704fa183d75b4114ae40ec/",
+    "premium": true,
+    "mobile": false
+  },
+  "Tank Struggle": {
+    "name": "Tank Struggle",
+    "service": "html5-games",
+    "url": "",
+    "premium": false,
+    "mobile": false
+  },
+  "Crossy Road": {
+    "name": "Crossy Road",
+    "service": "custom",
+    "premium": false,
+    "url": "https://crossy-road.retrospicer.repl.co/",
+    "width": 900,
+    "height": 900,
+    "mobile": false
+  },
+  "Super Mario": {
+    "name": "Super Mario",
+    "service": "offline",
+    "premium": false,
+    "mobile": false
+  },
+    "Lone Wolf Strike": {
+    "name": "Lone Wolf Strike",
+    "service": "custom",
+    "url": "https://g.devjam.repl.co/unblocker/https:/html5.gamemonetize.com/xlv6xmnkfwj27yes8ly9t73icin4dmda/",
+    "premium": false,
+    "mobile": false
+  },
+    "Dune Buggy - Battle Royale": {
+    "name": "Dune Buggy - Battle Royale",
+    "service": "custom",
+    "url": "https://g.devjam.repl.co/unblocker/https:/html5.gamemonetize.com/lyz5klscniko116xapxhjd4cju9xo3ja/",
+    "premium": true,
+    "mobile": false
+  },
+      "Echo Beach": {
+    "name": "Echo Beach",
+    "service": "custom",
+    "url": "https://websurf.repl.co/unblocker/https:/v6p9d9t4.ssl.hwcdn.net/html/4622246/index.html",
+    "width": 1300,
+    "height": 800,
+    "mobile": false,
+    "premium": false
+  },
+    "Stunt Car Challenge 3": {
+    "name": "Stunt Car Challenge 3",
+    "service": "custom",
+    "url": "https://g.devjam.repl.co/unblocker/https:/html5.gamemonetize.com/t6o1uc5zow2fpjk6u5i2kzh4xmt4teem/",
+    "premium": false,
+    "mobile": false
+  },
+    "Mountain Bike Racer": {
+    "name": "Mountain Bike Racer",
+    "service": "custom",
+    "url": "https://g.devjam.repl.co/unblocker/https:/www.mathplayground.com/mountain-bike-racer/index.html",
+    "premium": false,
+    "mobile": false
+  },
+ 
+  "Slither.io": {
+    "name": "Slither.io",
+    "service": "custom",
+    "url": "https://ergrtg.herokuapp.com/web/_aHR0cDovL3NsaXRoZXIuaW8=_/",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "premium": false
+  },
+    "Police Chase": {
+    "name": "Police Chase",
+    "service": "custom",
+    "url": "https://g.devjam.repl.co/unblocker/https:/html5.gamemonetize.com/9c5voozfp7a4er5xv2vldjoaul5gd0pm/",
+    "premium": false,
+    "mobile": true
+  },
+
+  "Vex 4": {
+    "name": "Vex 4",
+    "service": "custom",
+    "url": "https://ergrtg.herokuapp.com/web/_aHR0cHM6Ly9odG1sNS5nYW1lZGlzdHJpYnV0aW9uLmNvbQ==_/rvvASMiM/80e6a5ae477f4d4fbcd1ea293d10087d/%3Fgd_zone_config%3DeyJwYXJlbnRVUkwiOiJodHRwczovL2tpemkuY29tLyIsInBhcmVudERvbWFpbiI6ImtpemkuY29tIiwidG9wRG9tYWluIjoia2l6aS5jb20iLCJoYXNJbXByZXNzaW9uIjp0cnVlLCJsb2FkZXJFbmFibGVkIjp0cnVlLCJob3N0IjoiaHRtbDUuZ2FtZWRpc3RyaWJ1dGlvbi5jb20iLCJ2ZXJzaW9uIjoiMS4yLjgifQ%253D%253D",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "premium": false
+  },
+    "Arena Wars": {
+    "name": "Arena Wars",
+    "service": "custom",
+    "url": "https://g.devjam.repl.co/unblocker/https:/html5.gamemonetize.com/dylbqp715wpqev18kprel6j4d8zwvy49/",
+    "premium": false,
+    "mobile": false
+  },
+    "Uno": {
+    "name": "Uno",
+    "service": "custom",
+    "url": "https://g.devjam.repl.co/unblocker/https:/html5.gamemonetize.co/nzyxeod3knb7uw2b6yry1l8su588dex0/",
+    "width": 490,
+    "height": 800,
+    "mobile": false,
+    "premium": true
+  },
+    "Supercars Zombie Driving 2": {
+    "name": "Supercars Zombie Driving 2",
+    "service": "custom",
+    "url": "https://g.devjam.repl.co/unblocker/https:/html5.gamemonetize.co/y8beyghin9gz988xxzjbu6fx757k477n/",
+    "width": 490,
+    "height": 800,
+    "mobile": false,
+    "premium": true
+  },
+  "Jetpack Joyride": {
+    "name": "Jetpack Joyride",
+    "service": "html5-games",
+    "url": "",
+    "mobile": false,
+    "premium": false
+  },
+    "Outlive.AI": {
+    "name": "Outlive.AI",
+    "service": "custom",
+    "url": "http://ergrtg.herokuapp.com/web/_aHR0cHM6Ly9vdXRsaXZlLmFp_/",
+    "mobile": false,
+    "premium": false
+  },
+  "Zombs Royale": {
+    "name": "Zombs Royale",
+    "service": "custom",
+    "url": "https://ergrtg.herokuapp.com/web/_aHR0cHM6Ly96b21ic3JveWFsZS5pbw==_/",
+    "width": 900,
+    "height": 900,
+    "mobile": false,
+    "premium": false
+  },
+  "Bob The Robber": {
+    "name": "Bob The Robber",
+    "service": "html5-games",
+    "url": "",
+    "premium": false,
+    "mobile": false
+  },
+  "Penalty Kick Online": {
+    "name": "Penalty Kick Online",
+    "service": "custom",
+    "url": "https://ergrtg.herokuapp.com/web/_aHR0cHM6Ly9odG1sNS1nYW1lcy5pbw==_/game/penalty-kick-online/",
+    "width": 900,
+    "height": 470,
+    "mobile": false,
+    "premium": true
+  },
+  "Vex 5": {
+    "name": "Vex 5",
+    "service": "html5-games",
+    "url": "",
+    "premium": false,
+    "mobile": false
+  },
+  "Awesome Tanks 2": {
+    "name": "Awesome Tanks 2",
+    "service": "html5-games",
+    "url": "",
+    "premium": false,
+    "mobile": false
+  },
+  "xx142-b2.exe": {
+    "name": "xx142-b2.exe",
+    "service": "custom",
+    "url": "https://ergrtg.herokuapp.com/web/_aHR0cHM6Ly9jYXRjb3VwLnh5eg==_/archive/g/xx142-b2exe/",
+    "width": 900,
+    "height": 900,
+    "mobile": false,
+    "premium": true
+  },
+  "Sudoku": {
+    "name": "Sudoku",
+    "service": "html5-games",
+    "premium": false,
+    "mobile": false
+  },
+  "Narwhale.io": {
+    "name": "Narwhale.io",
+    "service": "custom",
+    "url": "https://ergrtg.herokuapp.com/web/_aHR0cDovL25hcndoYWxlLmlv_/",
+    "premium": false,
+    "mobile": false
+  },
+    "Drift Boss": {
+    "name": "Drift Boss",
+    "service": "custom",
+    "url": "https://g.devjam.repl.co/unblocker/https:/www.mathplayground.com/drift-boss/index.html",
+    "premium": true,
+    "mobile": false
+  },
+    "Rhino Rink": {
+    "name": "Rhino Rink",
+    "service": "custom",
+    "url": "https://g.devjam.repl.co/unblocker/https:/www.mathplayground.com/mobile_rhino_rink/index.html",
+    "premium": false,
+    "mobile": false
+  },  
+    "Defly.io": {
+    "name": "Defly.io",
+    "service": "custom",
+    "url": "https://ergrtg.herokuapp.com/web/_aHR0cHM6Ly9kZWZseS5pbw==_/",
+    "premium": false,
+    "mobile": false
+  },
+    "JustBuild.LOL": {
+    "name": "JustBuild.LOL",
+    "service": "custom",
+    "url":"https://ergrtg.herokuapp.com/web/_aHR0cHM6Ly93d3cuanVzdGJ1aWxkLmxvbA==_/",
+    "width": 900,
+    "height": 900,
+    "mobile": false,
+    "premium": false
+  },
+    "X-Trench Run": {
+    "name": "X-Trench Run",
+    "service": "custom",
+    "url": "https://g.devjam.repl.co/unblocker/https:/www.mathplayground.com/x-trench-run/index.html",
+    "premium": false,
+    "mobile": false
+  },
+   "1v1.LOL": {
+    "name": "1v1.LOL",
+    "service": "custom",
+    "url":"https://ergrtg.herokuapp.com/web/_aHR0cHM6Ly8xdjEubG9s_/",
+    "width": 900,
+    "height": 900,
+    "mobile": false,
+    "premium": false
+  },
+    "Pou: Virtual Pet": {
+    "name": "Pou: Virtual Pet",
+    "service": "custom",
+    "url": "https://g.devjam.repl.co/unblocker/https:/html5.gamemonetize.com/jyeazqa0x7ym5xcq22g9mgv74s5tift1/",
+    "width": 490,
+    "height": 800,
+    "mobile": false,
+    "premium": false
+  },
+    "Angry Birds": {
+    "name":"Angry Birds",
+    "service":"custom",
+  "url":"https://ergrtg.herokuapp.com/web/_aHR0cHM6Ly9odG1sNS5nYW1lbW9uZXRpemUuY28=_/j8ckmmlaa4hsqknbzbrvft9mqhvfdakx/",
+    "mobile":true,
+    "premium":false
+  },
+    "Among-io": {
+    "name": "Among-io",
+    "service": "custom",
+    "url": "https://g.devjam.repl.co/unblocker/https:/html5.gamemonetize.com/uxwe2obt5qsyi2uwpr3xi3d9lmfxjsmd/",
+    "premium": true,
+    "mobile": false
+  },
+    "Minecraft - Javascript Edition": {
+    "name": "Minecraft - Javascript Edition",
+    "service": "offline",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "premium": false
+  },
+    "Paper.io Animals": {
+    "name": "Paper.io Animals",
+    "service": "custom",
+    "url": "https://ergrtg.herokuapp.com/web/_aHR0cHM6Ly9wYXBlcmFuaW1hbHMuaW8=_/",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "premium": false
+  },
+    "Paper.io": {
+    "name": "Paper.io",
+    "service": "custom",
+    "url": "https://ergrtg.herokuapp.com/web/_aHR0cHM6Ly9wYXBlci1pby5jb20=_/",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "premium": false
+  },
+
+  "Tomb Runner": {
+    "name": "Tomb Runner",
+    "service": "html5-games",
+    "url": "",
+    "premium": false,
+    "mobile": false
+  },
+  "Dead Paradise: Race Shooter" : {
+    "name": "Dead Paradise: Race Shooter ",
+    "service": "custom",
+    "url": "https://g.devjam.repl.co/unblocker/https:/html5.gamemonetize.com/61mrcblllfemg06dbr1lmu53e04e3p29/",
+    "premium": true,
+    "mobile": false
+  },
+   "S.U.R.F.": {
+    "name": "S.U.R.F.",
+    "service": "custom",
+    "url": "https://g.devjam.repl.co/unblocker/https:/surf.jackbuehner.com/",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "premium": false
+  },
+
+    "Taming.io": {
+    "name":"Taming.io",
+    "service":"custom",
+    "url":"https://ergrtg.herokuapp.com/web/_aHR0cHM6Ly90YW1pbmcuaW8=_/",
+    "mobile":false,
+    "premium":true
+  },
+    "Slope": {
+    "name": "Slope",
+    "service": "y8",
+    "premium": false,
+    "url": "https://ergrtg.herokuapp.com/web/_aHR0cHM6Ly9zdG9yYWdlLnk4LmNvbQ==_/y8-studio/unity/joll/slope/",
+    "width": 900,
+    "height": 640,
+    "mobile": false
+  },
+    "Run 3": {
+    "name": "Run 3",
+    "service": "custom",
+    "url": "https://player03.com/run/3/beta/",
+    "width": 880,
+    "height": 660,
+    "mobile": false,
+    "premium": false
+  },
+    "Temple Run 2": {
+    "name": "Temple Run 2",
+    "service": "custom",
+    "url": "https://ergrtg.herokuapp.com/web/_aHR0cHM6Ly9nYW1lbW9uZXRpemUuY28=_/game/pkyyuilfrqkcdnmrxsg60j22ypk0peje/",
+    "premium": false,
+    "mobile": false
+  },
+    "Ev.io": {
+    "name": "Ev.io",
+    "service": "custom",
+    "url": "https://ergrtg.herokuapp.com/web/_aHR0cHM6Ly9ldi5pbw==_/",
+    "premium": false,
+    "mobile": false
+  },
+  "Subway Surfers": {
+    "name":"Subway Surfers",
+    "service":"custom", "url":"https://hwert.repl.co/unblocker/https:/html5.gamemonetize.co/4i34j6xes2vdim7k55nky9w8s7wp1m75/",
+    "mobile":false,
+    "premium":false
+  },
+  "Retro Bowl": {
+    "name":"Retro Bowl",
+    "service":"custom",
+    "width": 970,
+    "height": 550,    
+"url":"https://ergrtg.herokuapp.com/web/_aHR0cHM6Ly9nYW1lMzE2MDA5LmtvbmdnYW1lcy5jb20=_/gamez/0031/6009/live/index.html",
+    "mobile":false,
+    "premium":false
+  },
+    "Geometry Dash": {
+    "name":"Geometry Dash",
+    "service":"custom",
+    "width": 970,
+    "height": 550,    
+"url":"https://ergrtg.herokuapp.com/web/_aHR0cHM6Ly9zY3JhdGNoLm1pdC5lZHU=_/projects/105500895/embed",
+    "mobile":false,
+    "premium":false
+  }
+}

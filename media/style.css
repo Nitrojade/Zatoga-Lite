@@ -1,0 +1,483 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css");
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@800&display=swap');
+
+body {
+  font-family: 'Nunito', sans-serif!important;
+  background-color: #000000!important;
+  color: white;
+}
+body.welcome {
+  text-align: center;
+}
+a, .collapsible {
+  background-color: #444;
+  cursor: pointer;
+  padding: 6px;
+  border-radius: 10px;
+  text-align: center;
+  display: block;
+  color: white;
+  text-decoration: none;
+  width: calc(100% - 4px);
+  box-sizing: border-box;
+  position: relative;
+  margin: 4px;
+  transition: padding 0.2s, margin 0.2s, width 0.2s;
+  margin-bottom: 8px;
+}
+span a:hover {
+  padding: 10px;
+  margin: 0;
+  width: 100%;
+  margin-bottom: 8px;
+  background-color: seagreen;
+  color: white !important;
+}
+.playbutton {
+  visibility: hidden;
+}
+a:hover .playbutton {
+  visibility: visible;
+}
+
+a.link {
+  background-color: #000000;
+  cursor: pointer;
+  padding: none;
+  border-radius: none;
+  text-align: center;
+  display: block;
+  color: white;
+  text-decoration: none;
+  width: none;
+  box-sizing: border-box;
+  position: relative;
+}
+a.miniright {
+  background: #FFFFFF33;
+  border-radius: 10px;
+  padding: 10px;
+  height: 40px;
+  font-size: 20px;
+  color: white;
+  float: right;
+  margin-top: 5px;
+  width: 40px;
+  text-align: center;
+  cursor: pointer;
+  margin-right: 5px;
+  transition: background 2s;
+}
+a.mini {
+  display: inline-block;
+  width: auto;
+}
+a.mini:hover {
+  background-color: #267347;
+}
+a.mini.gray {
+  background-color: #333333;
+}
+a.mini.gray:hover {
+  background-color: #222222;
+}
+a.home {
+  background-color: coral;
+}
+a.disabledi {
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+span.comment {
+  display: block;
+  position: fixed;
+  top:0px;
+  right:0px;
+  width:50px;
+  height:50px;
+  background-color: dodgerblue;
+  color: white;
+  z-index: 333333333333;
+  border-top-right-radius: 25px;
+  cursor: pointer;
+  transition: 0.5s width;
+  overflow: hidden;
+  font-family: arial !important;
+  text-align: right;
+  box-sizing: border-box;
+  font-size: 20pt;
+  padding-top: 3px;
+  padding-right: 4px;
+  /*border-top: 2px solid white;
+  border-right: 2px solid white;*/
+}
+span.comment.tope {
+  border-top-right-radius: 0px;
+  border-bottom-left-radius: 25px;
+  top:0px !important;
+  /*border-top: none;*/
+  border-bottom: 2px solid white;
+  border-left: 2px solid white;
+}
+span.comment::after {
+  content: "💬";
+}
+span.comment:hover::after {
+  content: "View Comments  ";
+}
+span.comment:hover {
+  width: 100%;
+  color: white;
+  font-size: 25pt;
+  padding-top: 5px;
+  padding-right: 8px;
+}
+
+span.back {
+  display: block;
+  position: fixed;
+  bottom:0px;
+  left:0px;
+  width:50px;
+  height:50px;
+  background-color: seagreen;
+  color: white;
+  z-index: 333333333333;
+  border-top-right-radius: 25px;
+  cursor: pointer;
+  transition: 0.5s width;
+  overflow: hidden;
+  font-family: arial !important;
+  text-align: left;
+  box-sizing: border-box;
+  font-size: 20pt;
+  padding-top: 3px;
+  padding-left: 8px;
+  /*border-top: 2px solid white;
+  border-right: 2px solid white;*/
+}
+span.back.top {
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 25px;
+  top:0px !important;
+  border-bottom: 2px solid white;
+  border-right: 2px solid white;
+}
+span.back::after {
+  content: "⬅";
+}
+span.back:hover::after {
+  content: "Go back home";
+}
+span.back:hover {
+  width: 100%;
+  color: white;
+  font-size: 25pt;
+  padding-top: 5px;
+  padding-left: 8px;
+}
+#installApp {
+  display: none;
+}
+img.rotate {
+  animation: rotation 2s infinite linear;
+  width: 300px;
+}
+img.rotate.fast {
+  animation: rotation 1s infinite linear;
+}
+img.small {
+  width: 75px;
+  vertical-align: middle;
+}
+img.center {
+  width: 150px;
+  margin-left: calc(50% - 75px);
+}
+.small {
+  display: inline;
+}
+.center {
+  text-align: center;
+}
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
+.basic {
+  color: green;
+}
+.beta {
+  color: red;
+}
+.premium {
+  color: deepskyblue;
+}
+.offline {
+  color: yellow;
+}
+#login {
+  display: none;
+}
+.shaddow {
+  visibility: hidden;
+  transition: 0.5s opacity;
+  opacity: 0;
+}
+.hide {
+  display: none;
+  transition: 0.5s opacity;
+  opacity: 0;
+}
+/*.online, .share {
+  visibility: hidden;
+}*/
+a.share svg {
+  height: 15px;
+  display: inline-block;
+  width: 25px;
+}
+#login, .loading {
+  width:100%;
+  height:100%;
+  position: fixed;
+  top:0;
+  left:0;
+  z-index: 10;
+  background-color: #000000;
+  padding: 5px;
+  box-sizing: border-box;
+  transition: all 1s;
+}
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  box-shadow: inset 0 0 0 2px #444444;
+  -webkit-box-shadow: inset 0 0 0 2px #444444;
+  background: #444444;
+}
+.button, select {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 3px 4px;
+  cursor: pointer;
+  border-radius: 8px
+}
+option {
+  background-color: rgb(63, 206, 68); /* Green */
+  border: none;
+  color: white;
+  padding: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 3px 4px;
+  cursor: pointer;
+  border-radius: 8px
+}
+
+.google-reviews {
+  width: 100px;
+  position: fixed;
+  bottom: 15px;
+  right: 10px;
+  display: flex;
+  z-index: 100;
+}
+
+    .nostyle {
+      margin: 0 !important;
+      padding: 0 !important;
+      border: 0 !important;
+      outline: 0 !important;
+      display: inline !important;
+      font-size: 100% !important;
+      vertical-align: baseline !important;
+      background: transparent !important;
+    }   
+
+/* reviews img fade-in animation */
+
+        .google-reviews {
+            animation: fadeInAnimation ease 1.567s;
+            animation-iteration-count: 1;
+            animation-fill-mode: forwards;
+        }
+        @keyframes fadeInAnimation {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+
+
+.gototop{
+  position: fixed;
+  display: block;
+  box-sizing: border-box;
+  height: 50px;
+  width: 50px;
+  border: none;
+  background-color: dodgerblue;
+  border-radius: 10px;
+  bottom: 40px;
+  right: 17.5%;
+  margin-right: -20px;
+  outline: none;
+  opacity: 0;
+  z-index:25;
+  transition: opacity .3s ease, margin-right .5s ease-out;
+}
+
+.visible{
+  transition: opacity .3s ease, margin-right .5s ease-out;
+  margin-right: 0px;
+  opacity: .85;
+}
+
+.gototop::before, .gototop::after{
+  content: '';
+  position: absolute;
+  height: 18px;
+  width: 2px;
+  background-color: #fff;
+  top: 16px;
+}
+.gototop::before{
+  left: 18px;
+  transform: rotate(45deg);
+}
+.gototop::after{
+  right: 18px;
+  transform: rotate(-45deg);
+}
+
+
+/*   
+
+
+
+* {
+	box-sizing: border-box;
+}
+
+/*
+body {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	min-height: 100vh;
+	margin: 0;
+}
+*/
+.courses-container {
+	align-items: center;
+}
+
+.game-card {
+	background-color: #fff;
+	border-radius: 10px;
+	box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
+	display: flex;
+	max-width: 100%;
+	margin: 20px;
+	overflow: hidden;
+	width: 700px;
+}
+
+.course h6 {
+	opacity: 0.6;
+	margin: 0;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+
+.course h2 {
+	letter-spacing: 1px;
+	margin: 10px 0;
+}
+
+.game-thumbnail {
+	background-color: #2A265F;
+	color: #fff;
+	padding: 30px;
+	max-width: 250px;
+}
+
+.game-thumbnail a {
+	color: #fff;
+	display: inline-block;
+	font-size: 12px;
+	opacity: 0.6;
+	margin-top: 30px;
+	text-decoration: none;
+}
+
+.course-info {
+	padding: 30px;
+	position: relative;
+	width: 100%;
+}
+
+.progress-container {
+	position: absolute;
+	top: 30px;
+	right: 30px;
+	text-align: right;
+	width: 150px;
+}
+
+.progress {
+	background-color: #ddd;
+	border-radius: 3px;
+	height: 5px;
+	width: 100%;
+}
+
+.progress::after {
+	border-radius: 3px;
+	background-color: #2A265F;
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 5px;
+	width: 100%;
+}
+
+.progress-text {
+	font-size: 10px;
+	opacity: 0.6;
+	letter-spacing: 1px;
+}
+
+.btn {
+	background-color: seagreen !important;
+	border: 0 !important;
+	border-radius: 50px !important;
+	box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2) !important;
+	color: #fff !important;
+	font-size: 16px !important;
+	padding: 12px 25px !important;
+	position: absolute !important;
+	bottom: 30px !important;
+	right: 30px !important;
+	letter-spacing: 1px !important;
+  width: 100px;
+}

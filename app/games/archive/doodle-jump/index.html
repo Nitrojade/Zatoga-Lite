@@ -1,0 +1,77 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Doodle Jump</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="/media/style.css"/>
+    <meta name="apple-mobile-web-app-status-bar" content="seagreen" />
+    <meta name="theme-color" content="seagreen"/>
+    <script src="prefixfree.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/media/style.css"/>
+      <script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "bv9mrhkewx");
+</script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-73HZZ1MTS7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-73HZZ1MTS7');
+</script>
+  </head>
+  <body>
+    <span class="back top" onclick="window.location.href='/app/';"></span>
+<span class="comment tope" onclick="window.open('/app/games/game-comment.html#disqus_thread');"></span>
+    <div class="container">
+
+      <canvas id="canvas">
+        Aww, your browser doesn't support HTML5!
+      </canvas>
+
+      <div id="mainMenu">
+        <h1>doodle jump</h1>
+        <h3>using HTML5</h3>
+
+        <p class="info">
+          use
+          <span class="key left">←</span>
+          <span class="key right">→</span>
+          to move and space to (re) start...
+        </p>
+        <a class="button" href="javascript:init()">Play</a>
+      </div>
+
+      <div id="gameOverMenu">
+        <h1>game over!</h1>
+        <h3 id="go_score">you scored 0 points</h3>
+
+        <a class="button" href="javascript:reset()">Restart</a>
+        <!--Hide social media buttons-->
+        <span style="display:none;">
+          <a id="tweetBtn" target="_blank" class="button tweet" href="#">Tweet score</a>
+          <a id="fbBtn" target="_blank" class="button fb" href="#">Post on FB</a>
+        </span>
+      </div>
+
+      <!-- Preloading image ;) -->
+      <img id="sprite" src="image.png"/>
+
+      <div id="scoreBoard">
+        <p id="score">0</p>
+      </div>
+
+    </div>
+
+    <script src="main.js"></script>
+    <script src="/media/application.js"></script>
+    <script>resize(422,552);</script>
+  </body>
+</html>

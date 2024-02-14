@@ -1,0 +1,790 @@
+{
+   "Rob The Bank": {
+    "name": "Rob The Bank",
+    "service": "custom",
+    "url": "https://money-game-jam--caialexander2914.repl.co/",
+    "premium": false,
+    "mobile": false
+  },
+    "Basketball Ultimate Swish Game": {
+    "name": "Basketball Ultimate Swish Game",
+    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly93d3cuYmFza2V0YmFsbGxlZ2VuZHMuZnVu_/gamedata/ultimate-swish-game",
+    "service": "custom",
+    "width": 900,
+    "height": 900,
+    "mobile": false,
+    "premium": false
+  },
+    "Hockey Shootout": {
+    "name": "Hockey Shootout",
+    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly93d3cuYmFza2V0YmFsbGxlZ2VuZHMuZnVu_/gamedata/hockey-shootout",
+    "service": "custom",
+    "width": 900,
+    "height": 900,
+    "mobile": false,
+    "premium": false
+  },
+
+    "Arrow Challenge": {
+    "name": "Arrow Challenge",
+    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9odG1sNS5nYW1lZGlzdHJpYnV0aW9uLmNvbQ==_/dec66ec8038040158eb34b3e459b263e/?gd_sdk_referrer_url=https%3A%2F%2Fwww.y8.com%2Fgames%2Farrow_challenge_&key=y8&value=default",
+    "service": "custom",
+    "width": 800,
+    "height": 600,
+    "mobile": false,
+    "premium": false
+  },
+    "Bubble Pop": {
+    "name": "Bubble Pop",
+    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9odG1sNS5nYW1lZGlzdHJpYnV0aW9uLmNvbQ==_/4083ecb5efb64504a7904361c7def2ab/?gd_sdk_referrer_url=https%3A%2F%2Fwww.y8.com%2Fgames%2Fbubble_shooter_pro_2&key=y8&value=default",
+    "service": "custom",
+    "width": 800,
+    "height": 600,
+    "mobile": false,
+    "premium": false
+  },
+     "Getaway Shootout": {
+    "name": "Getaway Shootout",
+    "service": "custom",
+    "url": "http://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly93OC5zbm9raWRvLmNvbQ==_/games/unity-webgl/getaway-shootout/index.html",
+    "premium": false,
+    "mobile": false
+  },
+    "Merge Candy": {
+    "name": "Merge Candy",
+    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly93d3cuc29saXRhaXJlLm9yZw==_/merge-the-gems/game.php",
+    "service": "custom",
+    "width": 900,
+    "height": 900,
+    "mobile": false,
+    "premium": false
+  },
+
+    "Knife Hit": {
+    "name": "Knife Hit",
+    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9zdG9yYWdlLnk4LmNvbQ==_/y8-studio/html5/akeemywka/knife_hit_y8/?key=y8&value=default",
+    "service": "custom",
+    "width": 450,
+    "height": 750,
+    "mobile": false,
+    "premium": false
+  },
+     "Lone Wolf Strike": {
+    "name": "Lone Wolf Strike",
+    "service": "custom",
+    "url": "https://g.eduninja.repl.co/unblocker/https:/html5.gamemonetize.com/xlv6xmnkfwj27yes8ly9t73icin4dmda/",
+    "premium": false,
+    "mobile": false
+  },
+    "Color Spinner": {
+    "name": "Color Spinner",
+    "service": "custom",
+    "premium": false,
+    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9zdG9yYWdlLnk4LmNvbQ==_/y8-studio/html5/akeemywka/color_spin_v2/index.html?key=y8&ratio_tolerant=true&value=default",
+    "width": 360,
+    "height": 630,
+    "mobile": false
+  },
+   "Mr Bullet": {
+    "name": "Mr Bullet",
+    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9odG1sNS5nYW1lbW9uZXRpemUuY28=_/2xiv169991w8f8ky01my2ilq0i843t46/",
+    "service": "custom",
+    "width": 960,
+    "height": 630,
+    "mobile": false,
+    "premium": false
+  },
+     "Ambulance Simulator": {
+    "name": "Ambulance Simulator",
+    "service": "custom",
+    "url": "https://g.eduninja.repl.co/unblocker/https:/html5.gamemonetize.com/ratf4yoenbbez953rz49xcb4mdwpukqm/",
+    "premium": false,
+    "mobile": false
+  },
+     "Color Flow": {
+    "name": "Color Flow",
+    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9odG1sNS5nYW1lZGlzdHJpYnV0aW9uLmNvbQ==_/6559b7dfea9d490baca528959cc2890e/?gd_sdk_referrer_url=https%3A%2F%2Fwww.y8.com%2Fgames%2Fcolor_flow_&key=y8&value=default",
+    "service": "custom",
+    "width": 450,
+    "height": 800,
+    "mobile": false,
+    "premium": false
+  },
+   "Rooftop Snipers": {
+    "name": "Rooftop Snipers",
+    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9zdG9yYWdlLnk4LmNvbQ==_/y8-studio/unity/akeemywka/rooftop_snipers/?key=y8&value=default",
+    "service": "custom",
+    "width": 900,
+    "height": 900,
+    "mobile": false,
+    "premium": false
+  },
+    "Lamborghini Drift Simulator": {
+    "name": "Lamborghini Drift Simulator",
+    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly93d3cuYmFza2V0YmFsbGxlZ2VuZHMuZnVu_/gamedata/lamborghini-drift-simulator",
+    "service": "custom",
+    "width": 900,
+    "height": 900,
+    "mobile": false,
+    "premium": false
+  },
+    "There Are No Zombies": {
+    "name":"There Are No Zombies",
+    "service":"custom",
+    "width": 900,
+    "height": 700,    
+"url":"https://g.eduninja.repl.co/unblocker/https:/v6p9d9t4.ssl.hwcdn.net/html/5577399/index.html",
+    "mobile":false,
+    "premium":false
+  },
+  "G-Switch 3": {
+    "name": "G-Switch 3",
+    "service": "html5-games",
+    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9odG1sNS1nYW1lcy5pbw==_/game/g-switch-3/",
+    "premium": false,
+    "mobile": false
+  },
+    "City Minibus Driver": {
+    "name": "City Minibus Driver",
+    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly93d3cuYmFza2V0YmFsbGxlZ2VuZHMuZnVu_/gamedata/city-minibus-driver",
+    "service": "custom",
+    "width": 900,
+    "height": 900,
+    "mobile": false,
+    "premium": false
+  },
+    "Top 10 Soccer Manager": {
+    "name": "Top 10 Soccer Manager",
+    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly93d3cuYmFza2V0YmFsbGxlZ2VuZHMuZnVu_/gamedata/top-10-soccer-managers",
+    "service": "custom",
+    "width": 900,
+    "height": 900,
+    "mobile": false,
+    "premium": false
+  },
+   "Basketball Stars": {
+    "name": "Basketball Stars",
+    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly93d3cuYmFza2V0YmFsbGxlZ2VuZHMuZnVu_/gamedata/basketball-stars",
+    "service": "custom",
+    "width": 900,
+    "height": 900,
+    "mobile": false,
+    "premium": false
+  },
+   "Surviv.io": {
+    "name":"Surviv.io",
+    "service":"custom",
+    "url":"https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9zdXJ2aXYuaW8=_/",
+    "mobile":false,
+    "premium":false
+  },
+      "Stunt Car Challenge 3": {
+    "name": "Stunt Car Challenge 3",
+    "service": "custom",
+    "url": "https://g.eduninja.repl.co/unblocker/https:/html5.gamemonetize.com/t6o1uc5zow2fpjk6u5i2kzh4xmt4teem/",
+    "premium": false,
+    "mobile": false
+  },
+    "Mountain Bike Racer": {
+    "name": "Mountain Bike Racer",
+    "service": "custom",
+    "url": "https://g.eduninja.repl.co/unblocker/https:/www.mathplayground.com/mountain-bike-racer/index.html",
+    "premium": false,
+    "mobile": false
+  },
+  "Slither.io": {
+    "name": "Slither.io",
+    "service": "custom",
+    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cDovL3NsaXRoZXIuaW8=_/",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "premium": false
+  },
+    "xx142-b2.exe Game": {
+    "name": "xx142-b2.exe Game",
+    "service": "custom",
+    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9jYXRjb3VwLnh5eg==_/archive/g/xx142-b2exe/",
+    "width": 900,
+    "height": 900,
+    "mobile": false,
+    "premium": false
+  },
+  "Narwhale.io": {
+    "name": "Narwhale.io",
+    "service": "custom",
+    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cDovL25hcndoYWxlLmlv_/",
+    "premium": false,
+    "mobile": false
+  },
+    "Drift Boss": {
+    "name": "Drift Boss",
+    "service": "custom",
+    "url": "https://g.eduninja.repl.co/unblocker/https:/www.mathplayground.com/drift-boss/index.html",
+    "premium": false,
+    "mobile": false
+  },
+    "Rhino Rink": {
+    "name": "Rhino Rink",
+    "service": "custom",
+    "url": "https://g.eduninja.repl.co/unblocker/https:/www.mathplayground.com/mobile_rhino_rink/index.html",
+    "premium": false,
+    "mobile": false
+  },  
+    "Defly.io": {
+    "name": "Defly.io",
+    "service": "custom",
+    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9kZWZseS5pbw==_/",
+    "premium": false,
+    "mobile": false
+  },
+    "Police Chase": {
+    "name": "Police Chase",
+    "service": "custom",
+    "url": "https://g.eduninja.repl.co/unblocker/https:/html5.gamemonetize.com/9c5voozfp7a4er5xv2vldjoaul5gd0pm/",
+    "premium": false,
+    "mobile": true
+  },
+    "Arena Wars": {
+    "name": "Arena Wars",
+    "service": "custom",
+    "url": "https://g.eduninja.repl.co/unblocker/https:/html5.gamemonetize.com/dylbqp715wpqev18kprel6j4d8zwvy49/",
+    "premium": false,
+    "mobile": false
+  },
+      "Lines": {
+    "name": "Lines",
+    "service": "custom",
+    "url": "https://ergrtg.herokuapp.com/web/_aHR0cHM6Ly9odG1sNS5nYW1lZGlzdHJpYnV0aW9uLmNvbQ==_/318d1f7fb5874c00bc8679b773ec9a67/?gd_sdk_referrer_url=https%3A%2F%2Fwww.y8.com%2Fgames%2Flines_&key=y8&value=default",
+    "width": 800,
+    "height": 450,
+    "premium": false,
+    "mobile": false
+  },
+    "Uno": {
+    "name": "Uno",
+    "service": "custom",
+    "url": "https://g.eduninja.repl.co/unblocker/https:/html5.gamemonetize.co/nzyxeod3knb7uw2b6yry1l8su588dex0/",
+    "width": 490,
+    "height": 800,
+    "mobile": false,
+    "premium": false
+  },
+    "Supercars Zombie Driving 2": {
+    "name": "Supercars Zombie Driving 2",
+    "service": "custom",
+    "url": "https://g.eduninja.repl.co/unblocker/https:/html5.gamemonetize.co/y8beyghin9gz988xxzjbu6fx757k477n/",
+    "width": 490,
+    "height": 800,
+    "mobile": false,
+    "premium": false
+  },
+  "Fruit Ninja": {
+    "name": "Fruit Ninja",
+    "service": "custom",
+    "url": "https://Fruit-Ninja-Game-Demo.numcomx.repl.co",
+    "premium": false,
+    "mobile": true
+  },
+    "Echo Beach": {
+    "name": "Echo Beach",
+    "service": "custom",
+    "url": "https://g.eduninja.repl.co/unblocker/https:/v6p9d9t4.ssl.hwcdn.net/html/4622246/index.html",
+    "width": 1300,
+    "height": 800,
+    "mobile": false,
+    "premium": false
+  },
+     "Snake": {
+    "name":"Snake",
+    "service":"custom",
+    "url":"https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly93d3cuZ29vZ2xlc25ha2UuY29t_/snakedesktop.php",
+    "mobile":true,
+    "premium":false
+  },
+    "Chess": {
+    "name":"Chess",
+    "service":"custom",
+    "url":"https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9jaGVzcy5jb29sbWF0aGdhbWVzLmNvbQ==_/",
+    "mobile": false,
+    "premium": false
+  },
+    "Dune Buggy - Battle Royale": {
+    "name": "Dune Buggy - Battle Royale",
+    "service": "custom",
+    "url": "https://g.eduninja.repl.co/unblocker/https:/html5.gamemonetize.com/lyz5klscniko116xapxhjd4cju9xo3ja/",
+    "premium": false,
+    "mobile": false
+  },
+    "Hexanaut.io": {
+    "name":"Hexanaut.io",
+    "service":"custom",
+    "url":"https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9oZXhhbmF1dC5pbw==_/",
+    "mobile":false,
+    "premium":false
+  },
+    "Cookie Clicker": {
+    "name": "Cookie Clicker",
+    "service": "custom",
+    "url": "https://ozh.github.io/cookieclicker/",
+    "premium": false,
+    "mobile": false
+  },
+    "Chrome Dino": {
+    "name": "Chrome Dino",
+    "service": "custom",
+    "url": "https://t-rex.vercel.app/",
+    "premium": false,
+    "mobile": true
+  },
+    "Cut the Rope 2": {
+    "name": "Cut the Rope 2",
+    "service": "custom",
+    "url": "https://yell0wsuit.github.io/html5-games/games/CutTheRope",
+    "mobile": true,
+    "premium": false
+  },
+     "Giant Rabbit Run (Chungus)": {
+    "name": "Giant Rabbit Run (Chungus)",
+    "service": "custom",
+    "url": "https://g.eduninja.repl.co/unblocker/https:/www.mathplayground.com/giant-rabbit-run/index.html",
+    "premium": false,
+    "mobile": true
+  },
+    "Flappy Bird": {
+    "name": "Flappy Bird",
+    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cDovL3d3dy5mbGFwcHkub3Jn_/",
+    "service": "custom",
+    "width": 400,
+    "height": 900,
+    "mobile": true,
+    "premium": false
+  },
+    "Crossy Road": {
+    "name": "Crossy Road",
+    "service": "custom",
+    "premium": false,
+    "url": "https://yell0wsuit.github.io/html5-games/games/crossy-road/",
+    "width": 900,
+    "height": 900,
+    "mobile": true
+  },
+  "Super Mario": {
+    "name": "Super Mario",
+    "service": "offline",
+    "premium": false,
+    "mobile": false
+  },
+   "S.U.R.F.": {
+    "name": "S.U.R.F.",
+    "service": "custom",
+    "url": "https://g.eduninja.repl.co/unblocker/https:/surf.jackbuehner.com/",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "premium": false
+  },
+ "Russian Car Driver HD": {
+    "name": "Russian Car Driver HD",
+    "service": "custom",
+    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9zdG9yYWdlLnk4LmNvbQ==_/y8-studio/unity/joll/russian_car_driver_hd/?key=9757549&value=118904",
+    "width": 960,
+    "height": 580,
+    "mobile": false,
+    "premium": false
+  },
+   "Crowd City": {
+    "name": "Crowd City",
+    "service": "custom",
+    "url": "https://ergrtg.herokuapp.com/web/_aHR0cHM6Ly93d3cuY3Jvd2RjaXR5LWlvLmNvbQ==_/",
+    "width": 394,
+    "height": 700,
+    "mobile": false,
+    "premium": false
+  },
+     "2048 Cupcakes": {
+    "name": "2048 Cupcakes",
+    "service": "custom",
+    "url": "https://0x0800.github.io/2048-CUPCAKES/",
+    "width": 900,
+    "height": 700,
+    "mobile": true,
+    "premium": false
+  },
+     "Gold Miner": {
+    "name": "Gold Miner",
+    "service": "custom",
+    "width": 800,
+    "height": 600,
+    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9nb2xkbWluZXIuZmJycS5pbw==_/goldminer/index.html?key=y8&ratio_tolerant=true&value=default",
+    "premium": false,
+    "mobile": false
+  },
+    "EvoWars.io": {
+    "name": "EvoWars.io",
+    "service": "custom",
+    "width": 800,
+    "height": 600,
+    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly95OC5ldm93YXJzLmlv_/?v=1.9.2",
+    "premium": false,
+    "mobile": false
+  },
+    "Skribbl.io": {
+    "name":"Skribbl.io",
+    "service":"custom",
+    "url":"https://ergrtg.herokuapp.com/web/_aHR0cHM6Ly9za3JpYmJsLmlv_/",
+    "mobile":false,
+    "premium":false
+  },
+    "Plague Inc": {
+    "name": "Plague Inc",
+    "service": "custom",
+    "width": 1019,
+    "height": 517,
+    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9odG1sNS5nYW1lZGlzdHJpYnV0aW9uLmNvbQ==_/f2a015a45b6443358238a54f8f4a557f/?gd_sdk_referrer_url=https%3A%2F%2Fwww.y8.com%2Fgames%2Fpandemic_simulator&key=y8&value=default",
+    "premium": false,
+    "mobile": false
+  },
+      "Apple Shooter": {
+    "name": "Apple Shooter",
+    "service": "custom",
+    "width": 800,
+    "height": 450,
+    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9odG1sNS5nYW1lZGlzdHJpYnV0aW9uLmNvbQ==_/f85e3e02194545208fa52da0c0992362/?gd_sdk_referrer_url=https%3A%2F%2Fwww.y8.com%2Fgames%2Fapple_shooter&key=y8&ratio_tolerant=true&value=default",
+    "premium": false,
+    "mobile": false
+  },
+     "Little Alchemy 2": {
+    "name": "Little Alchemy 2",
+    "service": "custom",
+    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9saXR0bGVhbGNoZW15Mi5jb20=_/",
+    "width": 900,
+    "height": 700,
+    "mobile": true,
+    "premium": false
+  },
+     "Death Run 3D": {
+    "name": "Death Run 3D",
+    "service": "custom",
+    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9zdG9yYWdlLnk4LmNvbQ==_/y8-studio/unity/joll/death_run_builds/death_run_wasm_v1/index.html?key=y8&ratio_tolerant=true&value=default",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "premium": false
+  },
+ "Doodle Jump": {
+    "name": "Doodle Jump",
+    "service": "offline",
+    "premium": false,
+    "mobile": true
+  },
+    "Agar.io": {
+    "name":"Agar.io PopSplit [Takes 30seconds+ to load!]",
+    "service":"custom",
+    "width": 970,
+    "height": 700,    
+"url":"https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9wb3BzcGxpdC51cw==_/",
+    "mobile":false,
+    "premium":false
+  },
+    "Surviv.io": {
+    "name": "Surviv.io",
+    "service": "custom",
+    "premium": false,
+    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9zdXJ2aXYuaW8=_/",
+    "width": 900,
+    "height": 900,
+    "mobile": false
+  },
+    "Paper.io Animals": {
+    "name": "Paper.io Animals",
+    "service": "custom",
+    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9wYXBlcmFuaW1hbHMuaW8=_/",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "premium": false
+  },
+    "Zombs Royale": {
+    "name": "Zombs Royale",
+    "service": "custom",
+    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly96b21ic3JveWFsZS5pbw==_/",
+    "width": 900,
+    "height": 900,
+    "mobile": false,
+    "premium": false
+  },
+    "Moto X3M 4 Winter": {
+    "name": "Moto X3M 4 Winter",
+    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly93d3cuYmFza2V0YmFsbGxlZ2VuZHMuZnVu_/gamedata/moto-x3m-4-winter",
+    "service": "custom",
+    "width": 900,
+    "height": 900,
+    "mobile": false,
+    "premium": false
+  },
+    "Taming.io": {
+    "name":"Taming.io",
+    "service":"custom",
+    "url":"https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly90YW1pbmcuaW8=_/",
+    "mobile":false,
+    "premium":false
+  },
+      "Copter.io": {
+    "name":"Copter.io",
+    "service":"custom",
+    "url":"https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9jb3B0ZXIuaW8=_/?game-language=en",
+    "mobile":false,
+    "premium":false
+  },
+    "Minecraft - Javascript Edition": {
+    "name": "Minecraft - Javascript Edition",
+    "service": "offline",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "premium": false
+  },
+    "Slither.io": {
+    "name": "Slither.io",
+    "service": "custom",
+    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cDovL3NsaXRoZXIuaW8=_/",
+    "width": 900,
+    "height": 700,
+    "mobile": false,
+    "premium": false
+  },
+    "Ev.io": {
+    "name": "Ev.io",
+    "service": "custom",
+    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9ldi5pbw==_/",
+    "premium": false,
+    "mobile": false
+  },
+   "2048": {
+    "name": "2048",
+    "service": "offline",
+    "premium": false,
+    "mobile": true
+  },
+     "WARdle (MLB)": {
+    "name": "WARdle (MLB)",
+    "service": "custom",
+    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly93YXJkbGUuYXBw_/",
+    "premium": false,
+    "mobile": true
+  },
+    "Poeltl (NBA)": {
+    "name": "Poeltl (NBA)",
+    "service": "custom",
+    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9wb2VsdGwuZHVuay50b3du_/",
+    "premium": false,
+    "mobile": true
+  },
+    "Weddle (NFL) Unlimited": {
+    "name": "Weddle (NFL) Unlimited",
+    "service": "custom",
+    "url": "https://www.weddleunlimited.com/normal",
+    "premium": false,
+    "mobile": true
+  },
+    "MLB Pickle (MLB Wordle)": {
+    "name": "MLB Pickle (MLB Wordle)",
+    "service": "custom",
+    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9tbGJwaWNrbGUuY29t_/",
+    "premium": false,
+    "mobile": true
+  },
+
+    "Wordle (Unlimited)": {
+    "name": "Wordle (Unlimited)",
+    "service": "custom",
+    "url": "https://mikhad.github.io/wordle/#infinite",
+    "premium": false,
+    "mobile": true
+  },
+      "Power Washers!": {
+    "name": "Power Washers!",
+    "service": "custom",
+    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9odG1sNS5nYW1lZGlzdHJpYnV0aW9uLmNvbQ==_/f4a8d58adce64432844d5a14566e530c/?gd_sdk_referrer_url=https%3A%2F%2Fwww.y8.com%2Fgames%2Fpower_wash_3d&key=y8&value=default",
+    "premium": false,
+    "mobile": false
+  },
+    "Vex 4": {
+    "name":"Vex 4",
+    "service":"custom",
+    "width": 970,
+    "height": 700,    
+"url":"https://smileman52.github.io/projects/vex4/index.html",
+    "mobile":false,
+    "premium":false
+  },
+    "HexGL - Racer": {
+    "name": "HexGL - Racer",
+    "service": "custom",
+    "url": "https://jinksmercury09.github.io/projects/HexGL/",
+    "premium": false,
+    "mobile": true
+  },
+    "Shark IO - Hungry Shark": {
+    "name": "Shark IO - Hungry Shark",
+    "service": "custom",
+    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9odG1sNS5nYW1lZGlzdHJpYnV0aW9uLmNvbQ==_/3f2b396cb0394d57b09c1ec98c872e18/?gd_sdk_referrer_url=https%3A%2F%2Fwww.y8.com%2Fgames%2Fshark_io&key=y8&value=default",
+    "premium": false,
+    "mobile": true
+  },
+    "Minecraft Classic (Multiplayer)": {
+    "name":"Minecraft Classic (Multiplayer)",
+    "service":"custom", 
+    "url":"https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9jbGFzc2ljLm1pbmVjcmFmdC5uZXQ=_/?join=hItyH1gQlJvJ6a7r",
+    "mobile":false,
+    "premium":false
+  },
+    "Vex 5": {
+    "name":"Vex 5",
+    "service":"custom",
+    "width": 970,
+    "height": 700,    
+"url":"https://smileman52.github.io/projects/vex5/index.html",
+    "mobile":false,
+    "premium":false
+  },
+    "Awesome Tanks 2": {
+    "name":"[Working] Awesome Tanks 2",
+    "service":"custom",
+    "url":"https://g.eduninja.repl.co/unblocker/https:/red-ball4.com/awesome-tanks-2.play",
+    "mobile":false,
+    "premium":false
+  },
+    "Riddle School 5": {
+    "name":"Riddle School 5",
+    "service":"offline",
+    "width": 860,
+    "height": 600,    
+    "mobile":false,
+    "premium":false
+  },
+     "DogeMiner": {
+    "name": "DogeMiner",
+    "service": "custom",
+    "url": "https://jinksmercury09.github.io/projects/DogeMiner/",
+    "premium": false,
+    "mobile": true
+  },
+  "Retro Bowl": {
+    "name":"Retro Bowl",
+    "service":"custom",
+    "width": 970,
+    "height": 550,    
+"url":"https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9nYW1lMzE2MDA5LmtvbmdnYW1lcy5jb20=_/gamez/0031/6009/live/index.html",
+    "mobile":false,
+    "premium":false
+  },
+    "Papas Freezeria": {
+    "name": "Papas Freezeria",
+    "service": "custom",
+    "url": "https://w8.snokido.com/games/flash/papaseries/0.18/freezeria.html",
+    "premium": false,
+    "mobile": false
+  },
+    "Run 3": {
+    "name": "Run 3",
+    "service": "custom",
+    "url": "https://lekug.github.io/tn6pS9dCf37xAhkJv/index.html",
+    "width": 880,
+    "height": 660,
+    "mobile": false,
+    "premium": false
+  },
+    "Paper.io": {
+    "name": "Paper.io [WORKING]",
+    "service": "custom",
+    "url": "https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9wYXBlci1pby5jb20=_/",
+    "width": 900,
+    "height": 700,
+    "mobile": true,
+    "premium": false
+  },
+   "Slope": {
+    "name": "Slope",
+    "service": "y8",
+    "premium": false,
+    "url": "https://smileman52.github.io/projects/slope/index.html",
+    "width": 900,
+    "height": 640,
+    "mobile": false
+  },
+     "Vex 6": {
+    "name":"Vex 6",
+    "service":"custom",
+    "width": 970,
+    "height": 700,    
+"url":"https://smileman52.github.io/projects/vex6/index.html",
+    "mobile":false,
+    "premium":false
+  },
+    "Agar.io 2": {
+    "name":"Agar.io 2",
+    "service":"custom",
+    "width": 970,
+    "height": 700,    
+"url":"https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9hZ2FyaW8yLm5ldHdvcms=_/",
+    "mobile":false,
+    "premium":false
+  },
+    "Aquapark IO WaterSlide Game": {
+    "name": "Aquapark IO WaterSlide Game",
+    "service": "custom",
+    "url": "https://advanced-channeler.02.gz-associates.com/?t=tam-slippery-water-slides",
+    "premium": false,
+    "mobile": false
+  },
+    "FNAF": {
+    "name":"FNAF",
+    "service":"custom",
+    "width": 970,
+    "height": 550,    
+"url":"https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9kb3J1a3l1bS5naXRodWIuaW8=_/FNAF-Web/",
+    "mobile":false,
+    "premium":false
+  },
+    "JustBuild.LOL 1v1": {
+    "name":"JustBuild.LOL 1v1",
+    "service":"custom",
+    "width": 900,
+    "height": 700,    
+"url":"https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly93d3cuanVzdGJ1aWxkLmxvbA==_/",
+    "mobile":false,
+    "premium":false
+  },
+    "BitLife": {
+    "name":"BitLife  (NEW!)",
+    "service":"custom",
+    "width": 900,
+    "height": 700,    
+"url":"https://g.eduninja.repl.co/unblocker/https:/html5.gamemonetize.co/sunlne8825d1006jux3b1xrl9vda49f1/",
+    "mobile": true,
+    "premium":false
+  },
+    "Temple Run 2": {
+    "name": "Temple Run 2",
+    "service": "offline",
+    "premium": false,
+    "mobile": true
+  },
+    "Subway Surfers": {
+    "name":"Subway Surfers",
+    "service":"offline", 
+    "mobile":true,
+    "premium":false
+  },
+    "Geometry Dash": {
+    "name":"Geometry Dash",
+    "service":"custom",
+    "width": 970,
+    "height": 550,    
+"url":"https://eaec3e2e-7b76-4520-a849-708120fae06a.id.repl.co/web/_aHR0cHM6Ly9zY3JhdGNoLm1pdC5lZHU=_/projects/105500895/embed",
+    "mobile":false,
+    "premium":false
+  }
+}

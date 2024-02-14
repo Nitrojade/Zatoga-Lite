@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+	<title>Zatoga - Settings</title>
+	<link rel="stylesheet" href="/media/style.css" />
+	<meta name="apple-mobile-web-app-status-bar" content="#000000" />
+	<meta name="theme-color" content="#000000" />
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "bv9mrhkewx");
+</script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-73HZZ1MTS7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-73HZZ1MTS7');
+</script>
+</head>
+
+<body>
+	<img class="rotate small" src="/media/icon.png"/>
+    <h1 class="small">Zatoga - Settings</span></h1><br><br>
+  <center>
+
+    <span style="font-size:16px;">Your plan: Zatoga <b><span class="basic online" style="color:orange;">Basic</span><span class="premium hide">Premium</span></b> <span class="offline hide">(Offline)</span> <span class="beta hide">(BETA)</span><span> v3.1</span>
+    <br>
+   <!-- <a href="/app/premium/">Zatoga Premium</a> -->
+    <br><br>
+  <span><a href="/app/logout.html" style="background-color:red;">Logout</a></span><br><br>
+<!-- The user sends us their pin , and we delete their old account -->
+    <h3>Your unique Zatoga pin:</h3>
+<em><span id="pin">Your pin is not avaliable at this moment.</span></em><br><br>
+
+<!-- !!!! In the future, we have to make it so if the user clicks the button below it will send their userid to a form which logs into a spreadsheet so we see the userid and delete the pin. !!!! -->
+
+<a href = "mailto:support@zato.ga?subject = Account Deletion&body = I would like to delete my account and its pin is <insert pin here>." style="background-color:red;" class="-disabledi">Request Account Deletion (through email)</a><!-- The user sends us their pin , and we delete their old account -->
+
+</center>
+<br><br>
+    <a href="/app/" class="home">Go back home</a><br>
+        <center><span style="color:#1E90FF;" onclick="window.location.href='/app/legal/terms-of-service.html'">Terms of Service</span>&nbsp;&bullet;&nbsp;<span style="color:#1E90FF;" onclick="window.location.href='/app/legal/privacy-policy.html'">Privacy Policy</span><br><span>&copy; 2021 Zatoga</span></center>
+    <script src="/media/application.js"></script>
+    <script>
+      resize(422, 539);
+    </script>
+<script>
+      let pin = localStorage.pin;
+      document.getElementById("pin").innerHTML = pin;
+</script>
+    </center>
+  </body>
+</html>
