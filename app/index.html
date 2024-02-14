@@ -677,9 +677,9 @@ for (i = 0; i < coll.length; i++) {
           // Add html for link to variable
           if (game["service"] == "custom") {
             if (game["mobile"]) {
-              gameElems += "<span class='game'><a href='" + game["url"] + "'><span class='playbutton'>▶️ </span>" + game["title"] + "</a></span>";
+              gameElems += "<span class='game'><a onclick='location.href=`/app/games/online.html?game=" + game["title"] + "&url=" + game["url"] + game["width"] + game["height"] + game["height"] + "`'><span class='playbutton'>▶️ </span>" + game["title"] + "</a></span>";
             } else {
-              gameElems += "<span class='game'><a class='internet disabled game' href='" + game["url"] + "'><span class='playbutton'>▶️ </span>" + game["title"] + "</a></span>";
+              gameElems += "<span class='game'><a class='internet disabled game' onclick='location.href=`/app/games/online.html?game=" + game["title"] + "&url=" + game["url"] + game["width"] + game["height"] + game["height"] + "`'><span class='playbutton'>▶️ </span>" + game["title"] + "</a></span>";
             }
           } else if (game["service"] == "premium") {
             latestGameCount++;
