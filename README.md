@@ -10,7 +10,7 @@ A PWA to easily get distracted by:
 -> Zatoga Lite is a snapshot of the Zatoga website as it was at the end of 2021.
 
 ### Hosting:
-* **Fast (recommended): https://lite.zatoga.net
+* **Fast (recommended): https://zlite.zatoga.net
 * https://zatoga-lite.pages.dev
 * Fork and host yourself
 

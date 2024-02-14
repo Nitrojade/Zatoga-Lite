@@ -229,17 +229,6 @@
     "mobile": false
   },
   {
-    "title": "GeoFS Flight Sim",
-    "service": "custom",
-    "width": 900,
-    "height": 700,
-    "mobile": false,
-    "url": "/bounce.html?img=/images/game-images/geofs.webp&url=https://artclass.site/service/hvtrs8%2F-wuw%2Cggo%2Ffq.aoo%2Feemfq.rhr",
-    "thumb": "/images/game-images/geofs.webp",
-    "description": "A high-speed action game rhythm-based platformer.",
-    "premium": false
-  },
-  {
     "title": "Slither.io",
     "service": "custom",
     "width": 970,
