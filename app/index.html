@@ -673,15 +673,15 @@ for (i = 0; i < coll.length; i++) {
           } else {
             game["height"] = "&height=" + game["height"]
           }
-          let gameString = game["name"].toLowerCase().replace(/ /g, "-");
+          let gameString = game["title"].toLowerCase().replace(/ /g, "-");
           // Add html for link to variable
           if(game["service"] == "offline") {
-            gameElems += "<span class='game'><a href='/app/games/archive/" + gameString + "/'><span class='playbutton'>▶️ </span>" + game["name"] + "</a></span>"; 
+            gameElems += "<span class='game'><a href='/app/games/archive/" + gameString + "/'><span class='playbutton'>▶️ </span>" + game["title"] + "</a></span>"; 
           } else if(game["premium"]) {
             latestGameCount++;
-            gameElems += "<span class='game' title='This game requires premium' style='display:block;color:green;'><a class='premium disabled' onclick='if(window.loggedOut){window.loggedOut()} else if(!this.classList.contains(`disabled`)){location.href=`/app/games/online.html?game=" + game["name"] + "&url=" + game["url"] + game["width"] + game["height"] + game["height"] + "`}else{location.href=`/app/premium/`}'><span class='playbutton'>▶️<span class='online basic hide'></span> </span>" + game["name"] + "</a></span>";
+            gameElems += "<span class='game' title='This game requires premium' style='display:block;color:green;'><a class='premium disabled' onclick='if(window.loggedOut){window.loggedOut()} else if(!this.classList.contains(`disabled`)){location.href=`/app/games/online.html?game=" + game["title"] + "&url=" + game["url"] + game["width"] + game["height"] + game["height"] + "`}else{location.href=`/app/premium/`}'><span class='playbutton'>▶️<span class='online basic hide'></span> </span>" + game["name"] + "</a></span>";
           } else {
-            gameElems += "<span class='game' title='This game requires internet' style='display:block;color:green;'><a class='internet disabled game' href='/app/games/online.html?game=" + game["name"] + "&url=" + game["url"] + game["width"] + game["height"] + "'><span class='playbutton'>▶️ </span>" + game["name"] + "</a></span>";
+            gameElems += "<span class='game' title='This game requires internet' style='display:block;color:green;'><a class='internet disabled game' href='/app/games/online.html?game=" + game["title"] + "&url=" + game["url"] + game["width"] + game["height"] + "'><span class='playbutton'>▶️ </span>" + game["name"] + "</a></span>";
           }
         }
         latestGameCount = 0;
