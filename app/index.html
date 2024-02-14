@@ -683,7 +683,7 @@ for (i = 0; i < coll.length; i++) {
             }
           } else if (game["service"] == "premium") {
             latestGameCount++;
-            gameElems += "<span class='game' title='This game requires premium' style='display:block;color:green;'><a class='premium disabled' onclick='if(window.loggedOut){window.loggedOut()} else if(!this.classList.contains(`disabled`)){location.href=`/app/games/online.html?game=" + game["title"] + "&url=" + game["url"] + game["width"] + game["height"] + game["height"] + "`}else{location.href=`/app/premium/`}'><span class='playbutton'>▶️<span class='online basic hide'></span> </span>" + game["title"] + "</a></span>";
+            gameElems += "<span class='game' title='This game requires premium' style='display:block;color:green;'><a class='premium disabledOOO' onclick='if(window.loggedOut){window.loggedOut()} else if(!this.classList.contains(`disabled`)){location.href=`/app/games/online.html?game=" + game["title"] + "&url=" + game["url"] + game["width"] + game["height"] + game["height"] + "`}else{location.href=`/app/premium/`}'><span class='playbutton'>▶️<span class='online basic hide'></span> </span>" + game["title"] + "</a></span>";
           }
         }
     
