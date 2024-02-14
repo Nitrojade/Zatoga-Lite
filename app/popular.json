@@ -3,7 +3,7 @@
     "title": "Subway Surfers",
     "service": "custom",
     "mobile": true,
-    "url": "/games/subway-surfers/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/subway-surfers/index.html",
     "thumb": "/images/game-images/subways.webp",
     "description": "An endless runner game where you dodge different oncoming trains and collect coins.",
     "premium": false
@@ -13,7 +13,7 @@
     "service": "custom",
     "width": 900,
     "height": 700,
-    "url": "/games/1v1lol/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/1v1lol/index.html",
     "mobile": false,
     "thumb": "/images/game-images/1v1.webp",
     "description": "A  competitive online third-person shooter game in which you must strategically construct your way across the battlefield.",
@@ -47,7 +47,7 @@
     "service": "custom",
     "width": 900,
     "height": 700,
-    "url": "/games/vex8/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/vex8/index.html",
     "mobile": false,
     "thumb": "/images/game-images/vex8.webp",
     "description": "Vex 8 is a challenging platformer game where you navigate through various obstacles and traps. Test your skills and reflexes as you try to reach the end of each level.",
@@ -91,7 +91,7 @@
     "service": "custom",
     "width": 500,
     "height": 700,
-    "url": "/games/bitlife/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/bitlife/index.html",
     "mobile": false,
     "thumb": "/images/game-images/bitlife.webp",
     "description": "BitLife is a fascinating life simulator that challenges you to make the right choices for your life. ",
@@ -101,7 +101,7 @@
     "title": "Slope",
     "service": "y8",
     "premium": false,
-    "url": "/games/slope/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/slope/index.html",
     "width": 900,
     "height": 640,
     "thumb": "/images/game-images/slope.webp",
@@ -113,7 +113,7 @@
     "service": "custom",
     "width": 900,
     "height": 700,
-    "url": "/games/jetpack-joyride/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/jetpack-joyride/index.html",
     "mobile": false,
     "thumb": "/images/game-images/jetpackjoyride.webp",
     "description": "Jetpack Joyride is an endless runner where you fly a bullet-powered jetpack. Keep going for as long as you can, and pick up coins and survive!",
@@ -122,7 +122,7 @@
   {
     "title": "BlockPost",
     "service": "custom",
-    "url": "/games/blockpost/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/blockpost/index.html",
     "premium": false,
     "thumb": "/images/game-images/blockpost.webp",
     "description": "A top-tier battle royale game. Collect as many weapons and survive until you are the last person! Or try out the many different amazing modes!",
@@ -151,7 +151,7 @@
   {
     "title": "Basketbros.io",
     "service": "custom",
-    "url": "/games/basketbros-io/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/basketbros-io/index.html",
     "premium": false,
     "thumb": "/images/game-images/basketbros.webp",
     "description": "Fun, fast-paced 1 on 1 basketball game with lots of action. Pick from a variety of characters and let the play begin!",
@@ -160,7 +160,7 @@
   {
     "title": "Rocket League",
     "service": "custom",
-    "url": "/games/Rocket-League/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/Rocket-League/index.html",
     "premium": false,
     "thumb": "/images/game-images/rocketleague.webp",
     "description": "A high-powered hybrid of arcade-style soccer and vehicular mayhem with easy-to-understand controls and fluid, physics-driven competition.",
@@ -182,7 +182,7 @@
     "service": "custom",
     "width": 900,
     "height": 700,
-    "url": "/games/minecraft-18/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/minecraft-18/index.html",
     "mobile": false,
     "thumb": "/images/game-images/minecraftJS.webp",
     "description": "A online  version of the popular game Minecraft with server - connecting capabilities!",
@@ -203,7 +203,7 @@
     "title": "Temple Run 2",
     "service": "custom",
     "premium": false,
-    "url": "/games/temple-run-2/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/temple-run-2/index.html",
     "thumb": "/images/game-images/temple-run.webp",
     "description": "An endless runner game where you run from a demon and try and collect coins to buy powerups.",
     "mobile": true
@@ -213,7 +213,7 @@
     "service": "custom",
     "width": 900,
     "height": 700,
-    "url": "/games/just-fall/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/just-fall/index.html",
     "mobile": false,
     "thumb": "/images/game-images/justfall.webp",
     "description": "JustFall.LOL is a fun arcade game to become the last Penguin survivor in a fragile hexagonal platform.",
@@ -222,7 +222,7 @@
   {
     "title": "Cookie Clicker",
     "service": "custom",
-    "url": "/games/cookie-clicker/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/cookie-clicker/index.html",
     "premium": false,
     "thumb": "/images/game-images/cookieclicker.webp",
     "description": "The classic and world-famous clicker game that changed the industry forever. Click the cookies!",
@@ -280,7 +280,7 @@
   {
     "title": "Bloons TD 2",
     "service": "custom",
-    "url": "/games/bloonstd2/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/bloonstd2/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/bloonstd2/bloonstd2.png",
     "description": "Bloons Tower Defense 2 is a tower defense game where the goal is to keep pesky balloons from flying out of your range using darts, pins, and even bombs.",
@@ -289,7 +289,7 @@
   {
     "title": "Bloons TD",
     "service": "custom",
-    "url": "/games/bloonstd/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/bloonstd/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/bloonstd/bloonstd.jpg",
     "description": "Bloons Tower Defense is a tower defense game where the goal is to keep pesky balloons from flying out of your range using darts, pins, and even bombs.",
@@ -309,7 +309,7 @@
   {
     "title": "N-gon",
     "service": "custom",
-    "url": "/games/n-gon/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/n-gon/index.html",
     "premium": false,
     "thumb": "/images/game-images/n-gon.webp",
     "description": "N-gon is a physics-based single player 2-D platformer shooter with hundreds of different power ups. You move with the keyboard and aim with the mouse.",
@@ -319,7 +319,7 @@
     "title": "Idle Breakout",
     "service": "custom",
     "premium": false,
-    "url": "/games/idle-breakout/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/idle-breakout/index.html",
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/idle-breakout/img/thumbnail.png",
     "description": "An idle version of the famous classic Atari Breakout.",
     "mobile": true
@@ -329,7 +329,7 @@
     "service": "custom",
     "width": 970,
     "height": 700,
-    "url": "/games/vex7/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/vex7/index.html",
     "mobile": false,
     "thumb": "/images/game-images/vex7.webp",
     "description": "The seventh part of the series. An addictive stickman platformer game where your objective is to climb up the many different levels and beat the game.",
@@ -371,7 +371,7 @@
   {
     "title": "Paper.io 2",
     "service": "custom",
-    "url": "/games/paperio2/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/paperio2/index.html",
     "width": 900,
     "height": 700,
     "mobile": false,
@@ -382,7 +382,7 @@
   {
     "title": "G-Switch 3",
     "service": "custom",
-    "url": "/games/g-switch3/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/g-switch3/index.html",
     "width": 900,
     "height": 700,
     "premium": false,
@@ -417,7 +417,7 @@
     "service": "custom",
     "width": 970,
     "height": 700,
-    "url": "/games/vex6/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/vex6/index.html",
     "mobile": false,
     "thumb": "/images/game-images/vex6.webp",
     "description": "The sixth part of the series. An addictive stickman platformer game where your objective is to climb up the many different levels and beat the game.",
@@ -427,7 +427,7 @@
     "title": "Moto X3M",
     "service": "custom",
     "premium": false,
-    "url": "/games/motox3m/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/motox3m/index.html",
     "width": 900,
     "height": 700,
     "thumb": "/images/game-images/motox3m.webp",
@@ -437,7 +437,7 @@
   {
     "title": "HexGL - Racer",
     "service": "custom",
-    "url": "/games/HexGL/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/HexGL/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/HexGL/Hexgl-image-1.jpg",
     "description": "An enjoyable futuristic-themed racing game where you try and finish as fast as possible!",
@@ -458,7 +458,7 @@
     "title": "Stick Merge",
     "service": "custom",
     "premium": false,
-    "url": "/games/stick-merge/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/stick-merge/index.html",
     "width": 900,
     "height": 700,
     "thumb": "/images/game-images/stickmerge.webp",
@@ -478,7 +478,7 @@
     "title": "Webretro",
     "service": "custom",
     "premium": false,
-    "url": "/games/webretro/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/webretro/index.html",
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/webretro/assets/icons/icon204.png",
     "description": "A cross-platform frontend for emulators, game engines, video games, media players and other applications.",
     "mobile": true
@@ -489,7 +489,7 @@
     "width": 860,
     "height": 600,
     "mobile": false,
-    "url": "/games/riddletransfer2/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/riddletransfer2/index.html",
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/riddletransfer2/riddletransfer2.png",
     "description": "Take control of Phil's epic quest to escape his captors, a group of aliens trying to kill him! You must search the area and find items to help you on your quest",
     "premium": false
@@ -500,7 +500,7 @@
     "width": 860,
     "height": 600,
     "mobile": false,
-    "url": "/games/riddletransfer/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/riddletransfer/index.html",
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/riddletransfer/riddletransfer.png",
     "description": "Take control of Phil's epic quest to escape his captors, a group of aliens trying to kill him! You must search the area and find items to help you on your quest",
     "premium": false
@@ -511,7 +511,7 @@
     "width": 860,
     "height": 600,
     "mobile": false,
-    "url": "/games/riddleschool5/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/riddleschool5/index.html",
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/riddleschool5/riddleschool5.png",
     "description": "Take control of Phil's epic quest to escape his captors, a group of aliens trying to kill him! You must search the area and find items to help you on your quest",
     "premium": false
@@ -522,7 +522,7 @@
     "width": 860,
     "height": 600,
     "mobile": false,
-    "url": "/games/riddleschool4/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/riddleschool4/index.html",
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/riddleschool4/riddleschool4.png",
     "description": "Take control of Phil's epic quest to escape his captors, a group of aliens trying to kill him! You must search the area and find items to help you on your quest",
     "premium": false
@@ -533,7 +533,7 @@
     "width": 860,
     "height": 600,
     "mobile": false,
-    "url": "/games/riddleschool3/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/riddleschool3/index.html",
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/riddleschool3/riddleschool3.png",
     "description": "Take control of Phil's epic quest to escape his captors, a group of aliens trying to kill him! You must search the area and find items to help you on your quest",
     "premium": false
@@ -544,7 +544,7 @@
     "width": 860,
     "height": 600,
     "mobile": false,
-    "url": "/games/riddleschool2/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/riddleschool2/index.html",
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/riddleschool2/riddleschool2.png",
     "description": "Take control of Phil's epic quest to escape his captors, a group of aliens trying to kill him! You must search the area and find items to help you on your quest",
     "premium": false
@@ -555,7 +555,7 @@
     "width": 860,
     "height": 600,
     "mobile": false,
-    "url": "/games/riddleschool/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/riddleschool/index.html",
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/riddleschool/riddleschool.png",
     "description": "Take control of Phil's epic quest to escape his captors, a group of aliens trying to kill him! You must search the area and find items to help you on your quest",
     "premium": false
@@ -563,7 +563,7 @@
   {
     "title": "Papas Burgeria",
     "service": "custom",
-    "url": "/games/papasburgeria/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/papasburgeria/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/papasburgeria/splash.jpg",
     "description": "Addictive resturaunt managment game.",
@@ -572,7 +572,7 @@
   {
     "title": "Papas Freezeria",
     "service": "custom",
-    "url": "/games/papaspizzaria/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/papaspizzaria/index.html",
     "premium": false,
     "thumb": "/images/game-images/papasfreezeria.webp",
     "description": "Addictive resturaunt managment game.",
@@ -581,7 +581,7 @@
   {
     "title": "Papas Scooperia",
     "service": "custom",
-    "url": "/games/scooperia/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/scooperia/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/scooperia/scoop.png",
     "description": "Addictive resturaunt managment game.",
@@ -590,7 +590,7 @@
   {
     "title": "Ruffle Emulator",
     "service": "custom",
-    "url": "/games/ruffle/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/ruffle/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/ruffle/splash.png",
     "description": "Run flash games and apps with the Ruffle emulator.",
@@ -600,7 +600,7 @@
     "title": "Elastic Man",
     "service": "custom",
     "premium": false,
-    "url": "/games/elasticman/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/elasticman/index.html",
     "width": 900,
     "height": 700,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/elasticman/elasticman.jpg",
@@ -641,7 +641,7 @@
   {
     "title": "DogeMiner",
     "service": "custom",
-    "url": "/games/DogeMiner/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/DogeMiner/index.html",
     "premium": false,
     "mobile": true,
     "thumb": "/images/game-images/dogeminer.webp",
@@ -650,7 +650,7 @@
   {
     "title": "Twitch Tetris",
     "service": "custom",
-    "url": "/games/twitch-tetris/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/twitch-tetris/index.html",
     "mobile": false,
     "thumb": "/images/game-images/tetris.webp",
     "description": "Tetris challenges players to strategically fit falling blocks together to form complete lines and has become a beloved classic in the world of video games. ",
@@ -659,7 +659,7 @@
   {
     "title": "Bonk.io Remix",
     "service": "custom",
-    "url": "/games/bonkio/bonkio.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/bonkio/bonkio.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/bonkio/image.png",
     "description": "A bonk.io fan remix!",
@@ -677,7 +677,7 @@
   {
     "title": "Aquapark WaterSlides",
     "service": "custom",
-    "url": "/games/aquapark-slides/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/aquapark-slides/index.html",
     "premium": false,
     "thumb": "/images/game-images/aquapark.webp",
     "description": "A racing game where you race your fellow players down a waterslide.",
@@ -721,7 +721,7 @@
     "service": "custom",
     "width": 900,
     "height": 700,
-    "url": "/games/among-us/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/among-us/index.html",
     "mobile": false,
     "thumb": "/images/game-images/amonguss.webp",
     "description": "Among Us Singleplayer is a game where between four and 10 players are dropped onto an alien spaceship. Each player is designated a private role as a “crewmate” or “impostor.",
@@ -742,7 +742,7 @@
     "service": "custom",
     "width": 900,
     "height": 700,
-    "url": "/games/madalin-stunt-cars-2/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/madalin-stunt-cars-2/index.html",
     "mobile": false,
     "thumb": "https://imagecdn.app/v1/images/https://frivcm.b-cdn.net/wp-content/thumbs/madalin-stunt-cars-2.jpg",
     "description": "Driving a car in a Madalin Stunt Cars 2 unblocked game brings more than just a boring ride around town. Prepare for the craziest ride of your life!",
@@ -752,7 +752,7 @@
     "title": "Bad Ice Cream",
     "service": "custom",
     "mobile": true,
-    "url": "/games/bad-ice-cream/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/bad-ice-cream/index.html",
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/bad-ice-cream/bad-ice-cream.png",
     "description": "Control a mischievous ice cream character and navigate through mazes while avoiding enemies.",
     "premium": false
@@ -761,7 +761,7 @@
     "title": "Bacon May Die",
     "service": "custom",
     "mobile": true,
-    "url": "/games/bacon-may-die/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/bacon-may-die/index.html",
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/bacon-may-die/splash.png",
     "description": "Engage in epic battles as a skilled bacon warrior fighting against other food foes.",
     "premium": false
@@ -770,7 +770,7 @@
     "title": "Backrooms 2D",
     "service": "custom",
     "mobile": true,
-    "url": "/games/backrooms2d/backrooms2d.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/backrooms2d/backrooms2d.html",
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/backrooms2d/BF18A6F3-4A1B-4AF7-B383-B9A359A1DBDF.jpeg",
     "description": "A 2D version of the eerie Backrooms game, offering a different perspective on the environment.",
     "premium": false
@@ -779,7 +779,7 @@
     "title": "Backrooms",
     "service": "custom",
     "mobile": true,
-    "url": "/games/backrooms/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/backrooms/index.html",
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/backrooms/img/splash.jpg",
     "description": "An atmospheric exploration game set in the mysterious and unsettling Backrooms.",
     "premium": false
@@ -788,7 +788,7 @@
     "title": "100 Player Pong",
     "service": "custom",
     "mobile": true,
-    "url": "/games/100ng/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/100ng/index.html",
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/100ng/100ng.jpg",
     "description": "A multiplayer Pong game with a hundred players competing simultaneously.",
     "premium": false
@@ -806,7 +806,7 @@
     "title": "10 Minutes till Dawn",
     "service": "custom",
     "mobile": true,
-    "url": "/games/10-minutes-till-dawn/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/10-minutes-till-dawn/index.html",
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/10-minutes-till-dawn/splash.png",
     "description": "A suspenseful game where you have only 10 minutes to escape from a haunted mansion.",
     "premium": false
@@ -815,7 +815,7 @@
     "title": "Number One",
     "service": "custom",
     "mobile": true,
-    "url": "/games/1/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/1/index.html",
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/1/meta/apple-touch-icon.png",
     "description": "A puzzle game where you arrange numbers in ascending order.",
     "premium": false
@@ -824,7 +824,7 @@
     "title": "Idle Dice",
     "service": "custom",
     "mobile": true,
-    "url": "/games/idledice/Idle Dice.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/idledice/Idle Dice.html",
     "thumb": "https://th.bing.com/th/id/R.f9c2fa93298b70b98aa98d8d07949118?rik=hm8WZTbjUplL6w",
     "description": "A dice-themed idle game where you earn points by rolling dice.",
     "premium": false
@@ -833,7 +833,7 @@
     "title": "Swarm Simulator",
     "service": "custom",
     "mobile": true,
-    "url": "/games/swarmsimulator/Swarm Simulator.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/swarmsimulator/Swarm Simulator.html",
     "thumb": "https://th.bing.com/th/id/R.34b8dcf339812cfdcf3a251f3eea89d0?rik=cAcNBpca%2bWUojA",
     "description": "A simulation game where you build and manage a growing swarm of insects.",
     "premium": false
@@ -842,7 +842,7 @@
     "title": "Snow Rider 3D",
     "service": "custom",
     "mobile": true,
-    "url": "/games/snowrider3d/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/snowrider3d/index.html",
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/snowrider3d/images/logo.png",
     "description": "Navigate challenging snowy slopes on your snowboard in this thrilling 3D game.",
     "premium": false
@@ -852,7 +852,7 @@
     "service": "custom",
     "width": 970,
     "height": 700,
-    "url": "/games/vex5/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/vex5/index.html",
     "mobile": false,
     "thumb": "/images/game-images/vex5.webp",
     "description": "The fifth part of the series. A super fun stickman platformer game where your objective is to climb up the many different levels and beat the game",
@@ -861,7 +861,7 @@
   {
     "title": "Minecraft Classic (Multiplayer)",
     "service": "custom",
-    "url": "/games/minecraft-classic/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/minecraft-classic/index.html",
     "mobile": false,
     "thumb": "/images/game-images/minecraftclassic.webp",
     "description": "Want to play multiplayer online Minecraft in school? This game has very similar mechanics to real Minecraft, and you can invite friends to play with you!",
@@ -869,7 +869,7 @@
   },
   {
     "title": "Rooftop Snipers",
-    "url": "/games/rooftop-snipers/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/rooftop-snipers/index.html",
     "service": "custom",
     "width": 900,
     "height": 900,
@@ -881,7 +881,7 @@
   {
     "title": "Drift Boss",
     "service": "custom",
-    "url": "/games/drift-boss/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/drift-boss/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/drift-boss/splash.png",
     "description": "A high-action car drifting game requiring super-fast reaction speeds. Don't crash!",
@@ -890,7 +890,7 @@
   {
     "title": "xx142-b2exe",
     "service": "custom",
-    "url": "/games/xx142-b2exe/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/xx142-b2exe/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/xx142-b2exe/splash.png",
     "description": "Play this game to find out what it is!",
@@ -899,7 +899,7 @@
   {
     "title": "super otto pets",
     "service": "custom",
-    "url": "/games/superautopets/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/superautopets/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/superautopets/image.png",
     "description": "Play this game to find out what it is!",
@@ -908,7 +908,7 @@
   {
     "title": "station meltdown",
     "service": "custom",
-    "url": "/games/stationmeltdown/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/stationmeltdown/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/stationmeltdown/image.png",
     "description": "Play this game to find out what it is!",
@@ -917,7 +917,7 @@
   {
     "title": "piclient",
     "service": "custom",
-    "url": "/games/piclient/piclient.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/piclient/piclient.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/piclient/B969467B-2495-4872-A739-B6ECA873FF5A.jpeg",
     "description": "Play this game to find out what it is!",
@@ -926,7 +926,7 @@
   {
     "title": "mcje (IE ONLY!)",
     "service": "custom",
-    "url": "/games/mcje/Mine.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/mcje/Mine.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/mcje/C1B5E635-A242-4D0F-8524-DE4B5164F534.jpeg",
     "description": "Play this game to find out what it is!",
@@ -935,7 +935,7 @@
   {
     "title": "kirka",
     "service": "custom",
-    "url": "/games/kirkaio/kirka.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/kirkaio/kirka.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/kirkaio/C0DADB28-2750-4DF9-9499-4BB61119877D.jpeg",
     "description": "Play this game to find out what it is!",
@@ -944,7 +944,7 @@
   {
     "title": "highrise hop",
     "service": "custom",
-    "url": "/games/highrisehop/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/highrisehop/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/highrisehop/assets/gfx/logo.png",
     "description": "Play this game to find out what it is!",
@@ -953,7 +953,7 @@
   {
     "title": "circlO",
     "service": "custom",
-    "url": "/games/circlo/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/circlo/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/circlo/img/download.png",
     "description": "Play this game to find out what it is!",
@@ -962,7 +962,7 @@
   {
     "title": "checkers",
     "service": "custom",
-    "url": "/games/checkers/checkers.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/checkers/checkers.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/checkers/image.png",
     "description": "Play this game to find out what it is!",
@@ -971,7 +971,7 @@
   {
     "title": "bus and subway",
     "service": "custom",
-    "url": "/games/bus and subway/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/bus and subway/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/bus and subway/img.jpg",
     "description": "Play this game to find out what it is!",
@@ -991,7 +991,7 @@
   {
     "title": "Zig Zag",
     "service": "custom",
-    "url": "/games/zigzag/zigzag.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/zigzag/zigzag.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/zigzag/4EEE71BF-A06E-478D-B1E0-F67600291BDC.jpeg",
     "description": "Play this game to find out what it is!",
@@ -1000,7 +1000,7 @@
   {
     "title": "You Are Jeff Bezos",
     "service": "custom",
-    "url": "/games/you-are-bezos/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/you-are-bezos/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/you-are-bezos/img/banner.png",
     "description": "Play this game to find out what it is!",
@@ -1009,7 +1009,7 @@
   {
     "title": "Yoshi's Fabrication Station",
     "service": "custom",
-    "url": "/games/yoshifabrication/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/yoshifabrication/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/yoshifabrication/icons/icon-512.png",
     "description": "Play this game to find out what it is!",
@@ -1018,7 +1018,7 @@
   {
     "title": "Yohoho",
     "service": "custom",
-    "url": "/games/yohoho/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/yohoho/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/yohoho/yohoho.png",
     "description": "Play this game to find out what it is!",
@@ -1027,7 +1027,7 @@
   {
     "title": "X Trial Racing",
     "service": "custom",
-    "url": "/games/x-trial-racing/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/x-trial-racing/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/x-trial-racing/splash.png",
     "description": "Play this game to find out what it is!",
@@ -1036,7 +1036,7 @@
   {
     "title": "World's Hardest Game 2",
     "service": "custom",
-    "url": "/games/worlds-hardest-game-2/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/worlds-hardest-game-2/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/worlds-hardest-game-2/the-worlds-hardest-game-2.jpg",
     "description": "Play this game to find out what it is!",
@@ -1045,7 +1045,7 @@
   {
     "title": "World's Hardest Game",
     "service": "custom",
-    "url": "/games/worlds-hardest-game/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/worlds-hardest-game/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/worlds-hardest-game/images/splash.jpg",
     "description": "Play this game to find out what it is!",
@@ -1054,7 +1054,7 @@
   {
     "title": "Wordle",
     "service": "custom",
-    "url": "/games/wordle/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/wordle/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/wordle/img/logo_512x512.png",
     "description": "Play this game to find out what it is!",
@@ -1063,7 +1063,7 @@
   {
     "title": "Wolfenstein 3D",
     "service": "custom",
-    "url": "/games/wolf3d/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/wolf3d/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/wolf3d/art/wolf3d.png",
     "description": "Play this game to find out what it is!",
@@ -1072,7 +1072,7 @@
   {
     "title": "Win the Whitehouse",
     "service": "custom",
-    "url": "/games/win-the-whitehouse/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/win-the-whitehouse/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/win-the-whitehouse/splash.png",
     "description": "Play this game to find out what it is!",
@@ -1081,7 +1081,7 @@
   {
     "title": "WebGL Fluid Sim",
     "service": "custom",
-    "url": "/games/webgl-fluid-simulation/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/webgl-fluid-simulation/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/webgl-fluid-simulation/logo.png",
     "description": "Play this game to find out what it is!",
@@ -1090,7 +1090,7 @@
   {
     "title": "Weave Silk",
     "service": "custom",
-    "url": "/games/weavesilk/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/weavesilk/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/weavesilk/thumb.png",
     "description": "Play this game to find out what it is!",
@@ -1099,7 +1099,7 @@
   {
     "title": "Waterworks!",
     "service": "custom",
-    "url": "/games/waterworks/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/waterworks/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/waterworks/square.png",
     "description": "Play this game to find out what it is!",
@@ -1108,7 +1108,7 @@
   {
     "title": "Wall Smash",
     "service": "custom",
-    "url": "/games/wallsmash/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/wallsmash/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/wallsmash/thumb.png",
     "description": "Play this game to find out what it is!",
@@ -1117,7 +1117,7 @@
   {
     "title": "Volley Random",
     "service": "custom",
-    "url": "/games/volley-random/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/volley-random/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/volley-random/splash.png",
     "description": "Play this game to find out what it is!",
@@ -1126,7 +1126,7 @@
   {
     "title": "VELOCE",
     "service": "custom",
-    "url": "/games/veloce/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/veloce/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/veloce/qN6zkD.png",
     "description": "Play this game to find out what it is!",
@@ -1135,7 +1135,7 @@
   {
     "title": "Unfair Mario",
     "service": "custom",
-    "url": "/games/unfairmario/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/unfairmario/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/unfairmario/sus.jpg",
     "description": "Play this game to find out what it is!",
@@ -1144,7 +1144,7 @@
   {
     "title": "Tunnel Rush",
     "service": "custom",
-    "url": "/games/tunnel-rush/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/tunnel-rush/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/tunnel-rush/img/tunnel.jpg",
     "description": "Play this game to find out what it is!",
@@ -1153,7 +1153,7 @@
   {
     "title": "Tube Jumpers",
     "service": "custom",
-    "url": "/games/tube-jumpers/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/tube-jumpers/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/tube-jumpers/img/shark.jpg",
     "description": "Play this game to find out what it is!",
@@ -1162,7 +1162,7 @@
   {
     "title": "Trimps",
     "service": "custom",
-    "url": "/games/Trimps/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/Trimps/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/Trimps/trimp.jpg",
     "description": "Play this game to find out what it is!",
@@ -1171,7 +1171,7 @@
   {
     "title": "Townscaper",
     "service": "custom",
-    "url": "/games/townscaper/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/townscaper/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/townscaper/img/cover.jpg",
     "description": "Play this game to find out what it is!",
@@ -1180,7 +1180,7 @@
   {
     "title": "Toss The Turtle",
     "service": "custom",
-    "url": "/games/tosstheturtle/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/tosstheturtle/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/tosstheturtle/tosstheturtle.png",
     "description": "Play this game to find out what it is!",
@@ -1189,7 +1189,7 @@
   {
     "title": "Tiny Islands",
     "service": "custom",
-    "url": "/games/tiny-islands/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/tiny-islands/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/tiny-islands/splash.png",
     "description": "Play this game to find out what it is!",
@@ -1198,7 +1198,7 @@
   {
     "title": "Throw Rocks at Shit",
     "service": "custom",
-    "url": "/games/throwrocks/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/throwrocks/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/throwrocks/card.png",
     "description": "Play this game to find out what it is!",
@@ -1207,7 +1207,7 @@
   {
     "title": "This Is The Only Level",
     "service": "custom",
-    "url": "/games/thisistheonlylevel/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/thisistheonlylevel/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/thisistheonlylevel/thisistheonlylevel.png",
     "description": "Play this game to find out what it is!",
@@ -1216,7 +1216,7 @@
   {
     "title": "There Is No Game",
     "service": "custom",
-    "url": "/games/there-is-no-game/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/there-is-no-game/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/there-is-no-game/logo.png",
     "description": "Play this game to find out what it is!",
@@ -1225,7 +1225,7 @@
   {
     "title": "The Hotel",
     "service": "custom",
-    "url": "/games/the-hotel/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/the-hotel/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/the-hotel/splash.png",
     "description": "Play this game to find out what it is!",
@@ -1234,7 +1234,7 @@
   {
     "title": "The Heist",
     "service": "custom",
-    "url": "/games/theheist/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/theheist/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/theheist/theheist.jpg",
     "description": "Play this game to find out what it is!",
@@ -1243,7 +1243,7 @@
   {
     "title": "The Final Earth 2",
     "service": "custom",
-    "url": "/games/the-final-earth-2/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/the-final-earth-2/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/the-final-earth-2/thumb.png",
     "description": "Play this game to find out what it is!",
@@ -1252,7 +1252,7 @@
   {
     "title": "The Final Earth",
     "service": "custom",
-    "url": "/games/the-final-earth/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/the-final-earth/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/the-final-earth/images.png",
     "description": "Play this game to find out what it is!",
@@ -1261,7 +1261,7 @@
   {
     "title": "The Battle",
     "service": "custom",
-    "url": "/games/thebattle/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/thebattle/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/thebattle/thebattle.png",
     "description": "Play this game to find out what it is!",
@@ -1270,7 +1270,7 @@
   {
     "title": "Tanuki Sunset",
     "service": "custom",
-    "url": "/games/tanuki-sunset/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/tanuki-sunset/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/tanuki-sunset/img/cover.png",
     "description": "Play this game to find out what it is!",
@@ -1279,7 +1279,7 @@
   {
     "title": "Tank Trouble 2",
     "service": "custom",
-    "url": "/games/tank-trouble-2/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/tank-trouble-2/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/tank-trouble-2/tank.jpeg",
     "description": "Play this game to find out what it is!",
@@ -1288,7 +1288,7 @@
   {
     "title": "Tactical Weapon Pack 2",
     "service": "custom",
-    "url": "/games/tactical-weapon-pack-2/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/tactical-weapon-pack-2/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/tactical-weapon-pack-2/splash.jpg",
     "description": "Play this game to find out what it is!",
@@ -1297,7 +1297,7 @@
   {
     "title": "Tactical Assassin 2",
     "service": "custom",
-    "url": "/games/tacticalassasin2/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/tacticalassasin2/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/tacticalassasin2/tacticalassassin2.png",
     "description": "Play this game to find out what it is!",
@@ -1306,7 +1306,7 @@
   {
     "title": "Table Tennis Ultimate",
     "service": "custom",
-    "url": "/games/cnpingpong/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/cnpingpong/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/cnpingpong/tabletennisultimate.png",
     "description": "Play this game to find out what it is!",
@@ -1315,7 +1315,7 @@
   {
     "title": "TV Static",
     "service": "custom",
-    "url": "/games/tv-static/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/tv-static/index.html",
     "premium": false,
     "thumb": "/images/game-images/static.webp",
     "description": "Play this game to find out what it is!",
@@ -1324,7 +1324,7 @@
   {
     "title": "Synesthesia",
     "service": "custom",
-    "url": "/games/synesthesia/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/synesthesia/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/synesthesia/index.splash.png",
     "description": "Play this game to find out what it is!",
@@ -1333,7 +1333,7 @@
   {
     "title": "Swerve",
     "service": "custom",
-    "url": "/games/swerve/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/swerve/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/swerve/img/favicon.jpg",
     "description": "Play this game to find out what it is!",
@@ -1342,7 +1342,7 @@
   {
     "title": "Sushi unROLL",
     "service": "custom",
-    "url": "/games/sushi-unroll/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/sushi-unroll/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/sushi-unroll/favicon.png",
     "description": "Play this game to find out what it is!",
@@ -1351,7 +1351,7 @@
   {
     "title": "Superhot",
     "service": "custom",
-    "url": "/games/superhot/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/superhot/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/superhot/hot.jpg",
     "description": "Play this game to find out what it is!",
@@ -1360,7 +1360,7 @@
   {
     "title": "Super Mario Constuct",
     "service": "custom",
-    "url": "/games/supermarioconstruct/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/supermarioconstruct/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/supermarioconstruct/media/icons/icon-128.png",
     "description": "Play this game to find out what it is!",
@@ -1369,7 +1369,7 @@
   {
     "title": "Super Mario 64",
     "service": "custom",
-    "url": "/games/sm64/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/sm64/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/sm64/logo.png",
     "description": "Play this game to find out what it is!",
@@ -1378,7 +1378,7 @@
   {
     "title": "Super Fowlist",
     "service": "custom",
-    "url": "/games/superfowlist/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/superfowlist/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/superfowlist/fowlist.png",
     "description": "Play this game to find out what it is!",
@@ -1387,7 +1387,7 @@
   {
     "title": "Subway Surfers New York",
     "service": "custom",
-    "url": "/games/subway-surfers-ny/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/subway-surfers-ny/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/subway-surfers-ny/NewYorkIcon.png",
     "description": "Play this game to find out what it is!",
@@ -1396,7 +1396,7 @@
   {
     "title": "Storm The House 2",
     "service": "custom",
-    "url": "/games/stormthehouse2/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/stormthehouse2/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/stormthehouse2/stormthehouse2.jpg",
     "description": "Play this game to find out what it is!",
@@ -1405,7 +1405,7 @@
   {
     "title": "Stickman Survival",
     "service": "custom",
-    "url": "/games/Stickman-Survival/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/Stickman-Survival/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/Stickman-Survival/Icon.png",
     "description": "Play this game to find out what it is!",
@@ -1414,7 +1414,7 @@
   {
     "title": "Stickman Golf",
     "service": "custom",
-    "url": "/games/stickman-golf/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/stickman-golf/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/stickman-golf/splash.png",
     "description": "Play this game to find out what it is!",
@@ -1423,7 +1423,7 @@
   {
     "title": "Stickman Boost",
     "service": "custom",
-    "url": "/games/stickman-boost/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/stickman-boost/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/stickman-boost/base/img1.jpg",
     "description": "Play this game to find out what it is!",
@@ -1432,7 +1432,7 @@
   {
     "title": "Stick War",
     "service": "custom",
-    "url": "/games/stickwar/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/stickwar/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/stickwar/stickwar.jpg",
     "description": "Play this game to find out what it is!",
@@ -1441,7 +1441,7 @@
   {
     "title": "Stick Duel Battle",
     "service": "custom",
-    "url": "/games/stick-duel-battle/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/stick-duel-battle/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/stick-duel-battle/512x512.jpg",
     "description": "Play this game to find out what it is!",
@@ -1450,7 +1450,7 @@
   {
     "title": "Stick Archers",
     "service": "custom",
-    "url": "/games/stick-archers/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/stick-archers/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/stick-archers/splash.jpg",
     "description": "Play this game to find out what it is!",
@@ -1459,7 +1459,7 @@
   {
     "title": "Stealing The Diamond",
     "service": "custom",
-    "url": "/games/stealingthediamond/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/stealingthediamond/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/stealingthediamond/stealingthediamond.jpg",
     "description": "Play this game to find out what it is!",
@@ -1468,7 +1468,7 @@
   {
     "title": "Station 141",
     "service": "custom",
-    "url": "/games/station-141/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/station-141/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/station-141/75wxYs.png",
     "description": "Play this game to find out what it is!",
@@ -1477,7 +1477,7 @@
   {
     "title": "Starve.io",
     "service": "custom",
-    "url": "/games/starve/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/starve/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/starve/img/favicon.png",
     "description": "Play this game to find out what it is!",
@@ -1486,7 +1486,7 @@
   {
     "title": "Stack Bump 3D",
     "service": "custom",
-    "url": "/games/stack-bump-3d/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/stack-bump-3d/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/stack-bump-3d/thumbnail.jpg",
     "description": "Play this game to find out what it is!",
@@ -1495,7 +1495,7 @@
   {
     "title": "Stack",
     "service": "custom",
-    "url": "/games/stack/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/stack/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/stack/stack.png",
     "description": "Play this game to find out what it is!",
@@ -1504,7 +1504,7 @@
   {
     "title": "Spelunky",
     "service": "custom",
-    "url": "/games/spelunky/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/spelunky/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/spelunky/assets/icon.png",
     "description": "Play this game to find out what it is!",
@@ -1513,7 +1513,7 @@
   {
     "title": "Space Garden",
     "service": "custom",
-    "url": "/games/spacegarden/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/spacegarden/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/spacegarden/spl.png",
     "description": "Play this game to find out what it is!",
@@ -1522,7 +1522,7 @@
   {
     "title": "Space Company",
     "service": "custom",
-    "url": "/games/space-company/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/space-company/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/space-company/Icons/SpaceCompanyFavicon.png",
     "description": "Play this game to find out what it is!",
@@ -1531,7 +1531,7 @@
   {
     "title": "Soundboard",
     "service": "custom",
-    "url": "/games/soundboard/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/soundboard/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/soundboard/img/mlg-favicon.png",
     "description": "Play this game to find out what it is!",
@@ -1540,7 +1540,7 @@
   {
     "title": "Sort The Court",
     "service": "custom",
-    "url": "/games/sort-the-court/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/sort-the-court/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/sort-the-court/img/splash.png",
     "description": "Play this game to find out what it is!",
@@ -1549,7 +1549,7 @@
   {
     "title": "Solitare",
     "service": "custom",
-    "url": "/games/solitaire/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/solitaire/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/solitaire/screen-shot.png",
     "description": "Play this game to find out what it is!",
@@ -1558,7 +1558,7 @@
   {
     "title": "Soilder Legend",
     "service": "custom",
-    "url": "/games/soldier-legend/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/soldier-legend/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/soldier-legend/images/splash.jpeg",
     "description": "Play this game to find out what it is!",
@@ -1567,7 +1567,7 @@
   {
     "title": "Soccer Skills Euro Cup",
     "service": "custom",
-    "url": "/games/soccer-skills/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/soccer-skills/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/soccer-skills/splash.png",
     "description": "Play this game to find out what it is!",
@@ -1576,7 +1576,7 @@
   {
     "title": "Soccer Random",
     "service": "custom",
-    "url": "/games/soccer-random/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/soccer-random/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/soccer-random/unnamed.png",
     "description": "Play this game to find out what it is!",
@@ -1585,7 +1585,7 @@
   {
     "title": "Snowbattle",
     "service": "custom",
-    "url": "/games/snowbattle/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/snowbattle/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/snowbattle/img/logo.png",
     "description": "Play this game to find out what it is!",
@@ -1594,7 +1594,7 @@
   {
     "title": "Smoking Barrels",
     "service": "custom",
-    "url": "/games/smokingbarrels/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/smokingbarrels/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/smokingbarrels/smokingbarrels.jpg",
     "description": "Play this game to find out what it is!",
@@ -1603,7 +1603,7 @@
   {
     "title": "Smash Carts",
     "service": "custom",
-    "url": "/games/smashkarts/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/smashkarts/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/smashkarts/images/icon-512.png",
     "description": "Play this game to find out what it is!",
@@ -1612,7 +1612,7 @@
   {
     "title": "Slope Ball",
     "service": "custom",
-    "url": "/games/slope-ball/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/slope-ball/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/slope-ball/splash.png",
     "description": "Play this game to find out what it is!",
@@ -1621,7 +1621,7 @@
   {
     "title": "Slope 2",
     "service": "custom",
-    "url": "/games/slope-2/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/slope-2/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/slope-2/slope-2-logo.png",
     "description": "Play this game to find out what it is!",
@@ -1630,7 +1630,7 @@
   {
     "title": "Slime Rush TD",
     "service": "custom",
-    "url": "/games/slime-rush-td/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/slime-rush-td/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/slime-rush-td/splash.png",
     "description": "Play this game to find out what it is!",
@@ -1639,7 +1639,7 @@
   {
     "title": "Sleeping Beauty",
     "service": "custom",
-    "url": "/games/sleepingbeauty/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/sleepingbeauty/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/sleepingbeauty/splash.png",
     "description": "Play this game to find out what it is!",
@@ -1648,7 +1648,7 @@
   {
     "title": "Sky Car Stunt",
     "service": "custom",
-    "url": "/games/sky-car-stunt/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/sky-car-stunt/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/sky-car-stunt/512x512.jpg",
     "description": "Play this game to find out what it is!",
@@ -1657,7 +1657,7 @@
   {
     "title": "Shotgun Showdown",
     "service": "custom",
-    "url": "/games/shogunshowdown/shogunshowdown.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/shogunshowdown/shogunshowdown.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/shogunshowdown/19C0D9BB-86C1-4A65-B374-638BD25EE0FC.png",
     "description": "Play this game to find out what it is!",
@@ -1666,7 +1666,7 @@
   {
     "title": "Shot in the Dark",
     "service": "custom",
-    "url": "/games/shotinthedark/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/shotinthedark/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/shotinthedark/shot.png",
     "description": "Play this game to find out what it is!",
@@ -1675,7 +1675,7 @@
   {
     "title": "Scratcharia",
     "service": "custom",
-    "url": "/games/scratcharia/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/scratcharia/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/scratcharia/splash.png",
     "description": "Play this game to find out what it is!",
@@ -1684,7 +1684,7 @@
   {
     "title": "Santy is Home",
     "service": "custom",
-    "url": "/games/santy-is-home/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/santy-is-home/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/santy-is-home/splash.png",
     "description": "Play this game to find out what it is!",
@@ -1693,7 +1693,7 @@
   {
     "title": "Sandboxels",
     "service": "custom",
-    "url": "/games/sandboxels/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/sandboxels/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/sandboxels/sandboxels.jpg",
     "description": "Play this game to find out what it is!",
@@ -1702,7 +1702,7 @@
   {
     "title": "Sand Game",
     "service": "custom",
-    "url": "/games/sand-game/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/sand-game/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/sand-game/sand.png",
     "description": "Play this game to find out what it is!",
@@ -1711,7 +1711,7 @@
   {
     "title": "SHUTTLEDECK",
     "service": "custom",
-    "url": "/games/shuttledeck/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/shuttledeck/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/shuttledeck/splash.png",
     "description": "Play this game to find out what it is!",
@@ -1720,7 +1720,7 @@
   {
     "title": "Run 2",
     "service": "custom",
-    "url": "/games/Run 2/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/Run 2/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/Run 2/run-2-logo.jpg",
     "description": "Play this game to find out what it is!",
@@ -1729,7 +1729,7 @@
   {
     "title": "Run",
     "service": "custom",
-    "url": "/games/run/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/run/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/run/run.png",
     "description": "Play this game to find out what it is!",
@@ -1738,7 +1738,7 @@
   {
     "title": "Rolly Vortex",
     "service": "custom",
-    "url": "/games/rolly-vortex/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/rolly-vortex/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/rolly-vortex/icon-256.png",
     "description": "Play this game to find out what it is!",
@@ -1747,7 +1747,7 @@
   {
     "title": "Rolling Forests",
     "service": "custom",
-    "url": "/games/rolling-forests/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/rolling-forests/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/rolling-forests/icon.png",
     "description": "Play this game to find out what it is!",
@@ -1756,7 +1756,7 @@
   {
     "title": "Robux Clicker",
     "service": "custom",
-    "url": "/games/robuxclicker/robuxclicker.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/robuxclicker/robuxclicker.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/robuxclicker/1517CE7D-1708-489E-9C51-E52887A13855.jpeg",
     "description": "Play this game to find out what it is!",
@@ -1765,7 +1765,7 @@
   {
     "title": "Resent Client (Eaglercraft)",
     "service": "custom",
-    "url": "/games/resent-client/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/resent-client/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/resent-client/splash.jpg",
     "description": "Play this game to find out what it is!",
@@ -1774,7 +1774,7 @@
   {
     "title": "Rabbit Samurai 2",
     "service": "custom",
-    "url": "/games/rabbit-samurai2/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/rabbit-samurai2/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/rabbit-samurai2/splash.png",
     "description": "Play this game to find out what it is!",
@@ -1783,7 +1783,7 @@
   {
     "title": "Rabbit Samurai",
     "service": "custom",
-    "url": "/games/rabbit-samurai/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/rabbit-samurai/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/rabbit-samurai/splash.png",
     "description": "Play this game to find out what it is!",
@@ -1792,7 +1792,7 @@
   {
     "title": "Push Your Luck",
     "service": "custom",
-    "url": "/games/push-your-luck/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/push-your-luck/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/push-your-luck/assets/img/push.png",
     "description": "Play this game to find out what it is!",
@@ -1801,7 +1801,7 @@
   {
     "title": "Push The Square",
     "service": "custom",
-    "url": "/games/push-the-square/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/push-the-square/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/push-the-square/img/splash.png",
     "description": "Play this game to find out what it is!",
@@ -1810,7 +1810,7 @@
   {
     "title": "Protektor",
     "service": "custom",
-    "url": "/games/protektor/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/protektor/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/protektor/splash.jpg",
     "description": "Play this game to find out what it is!",
@@ -1819,7 +1819,7 @@
   {
     "title": "Precision Client (Eaglercraft)",
     "service": "custom",
-    "url": "/games/precision-client/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/precision-client/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/precision-client/logo.png",
     "description": "Play this game to find out what it is!",
@@ -1828,7 +1828,7 @@
   {
     "title": "Portal (Flash)",
     "service": "custom",
-    "url": "/games/portalflash/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/portalflash/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/portalflash/portaltheflashversion.jpg",
     "description": "Play this game to find out what it is!",
@@ -1837,7 +1837,7 @@
   {
     "title": "PolyBranch",
     "service": "custom",
-    "url": "/games/polybranch/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/polybranch/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/polybranch/img/pic1.png",
     "description": "Play this game to find out what it is!",
@@ -1846,7 +1846,7 @@
   {
     "title": "Plants VS Zombies",
     "service": "custom",
-    "url": "/games/plants%20vs%20zombies%201/plants%20vs%20zombies.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/plants%20vs%20zombies%201/plants%20vs%20zombies.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/plants%20vs%20zombies%201/image_proxy.png",
     "description": "Play this game to find out what it is!",
@@ -1855,7 +1855,7 @@
   {
     "title": "Planet Life",
     "service": "custom",
-    "url": "/games/planetlife/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/planetlife/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/planetlife/images/super-planetlife.gif",
     "description": "Play this game to find out what it is!",
@@ -1864,7 +1864,7 @@
   {
     "title": "Pixel Gun Survival",
     "service": "custom",
-    "url": "/games/pixel-gun-survival/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/pixel-gun-survival/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/pixel-gun-survival/512x512.png",
     "description": "Play this game to find out what it is!",
@@ -1874,7 +1874,7 @@
     "title": "Particle Clicker",
     "service": "custom",
     "mobile": true,
-    "url": "/games/particleclicker/particle clicker OG.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/particleclicker/particle clicker OG.html",
     "thumb": "https://th.bing.com/th/id/R.1568817c88d99dd57ea441dfac403e6d?rik=1Yjz5t3yJ3BR4Q&pid=ImgRaw&r=0",
     "description": "A clicking game where you conduct particle physics research by clicking particles.",
     "premium": false
@@ -1882,7 +1882,7 @@
   {
     "title": "Papery Planes",
     "service": "custom",
-    "url": "/games/papery-planes/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/papery-planes/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/papery-planes/splash.jpg",
     "description": "Play this game to find out what it is!",
@@ -1891,7 +1891,7 @@
   {
     "title": "Pandemic 2",
     "service": "custom",
-    "url": "/games/pandemic2/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/pandemic2/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/pandemic2/pandemic2.png",
     "description": "Play this game to find out what it is!",
@@ -1900,7 +1900,7 @@
   {
     "title": "POPCAT CLASSIC",
     "service": "custom",
-    "url": "/games/popcat-classic/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/popcat-classic/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/popcat-classic/splash.png",
     "description": "Play this game to find out what it is!",
@@ -1909,7 +1909,7 @@
   {
     "title": "Overwatch",
     "service": "custom",
-    "url": "/games/overwatch/overwatch.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/overwatch/overwatch.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/overwatch/98FBAD0A-F63A-46B5-81E7-0D3074D23365.jpeg",
     "description": "Play this game to find out what it is!",
@@ -1918,7 +1918,7 @@
   {
     "title": "OvO",
     "service": "custom",
-    "url": "/games/ovo/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/ovo/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/ovo/ovo.png",
     "description": "Play this game to find out what it is!",
@@ -1927,7 +1927,7 @@
   {
     "title": "Om Nom Bounce",
     "service": "custom",
-    "url": "/games/om-bounce/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/om-bounce/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/om-bounce/assets/icon.jpeg",
     "description": "Play this game to find out what it is!",
@@ -1936,7 +1936,7 @@
   {
     "title": "Offline Paradise",
     "service": "custom",
-    "url": "/games/OfflineParadise/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/OfflineParadise/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/OfflineParadise/assets/icon.jpeg",
     "description": "Play this game to find out what it is!",
@@ -1945,7 +1945,7 @@
   {
     "title": "Noob Steve Parkour",
     "service": "custom",
-    "url": "/games/noob-steve-parkour/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/noob-steve-parkour/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/noob-steve-parkour/512x512.jpg",
     "description": "Play this game to find out what it is!",
@@ -1954,7 +1954,7 @@
   {
     "title": "Ninja vs Evil Corp",
     "service": "custom",
-    "url": "/games/ninjavsevilcorp/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/ninjavsevilcorp/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/ninjavsevilcorp/splash.png",
     "description": "Play this game to find out what it is!",
@@ -1963,7 +1963,7 @@
   {
     "title": "Ninja",
     "service": "custom",
-    "url": "/games/ninja/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/ninja/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/ninja/logo1.png",
     "description": "Play this game to find out what it is!",
@@ -1972,7 +1972,7 @@
   {
     "title": "Neon Square Resurgence",
     "service": "custom",
-    "url": "/games/nsresurgence/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/nsresurgence/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/nsresurgence/neon.png",
     "description": "Play this game to find out what it is!",
@@ -1981,7 +1981,7 @@
   {
     "title": "NS-Shaft",
     "service": "custom",
-    "url": "/games/ns-shaft/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/ns-shaft/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/ns-shaft/favicon.png",
     "description": "Play this game to find out what it is!",
@@ -1990,7 +1990,7 @@
   {
     "title": "My Rusty Submarine",
     "service": "custom",
-    "url": "/games/my-rusty-submarine/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/my-rusty-submarine/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/my-rusty-submarine/splash.png",
     "description": "Play this game to find out what it is!",
@@ -1999,7 +1999,7 @@
   {
     "title": "MotoX3M Winter",
     "service": "custom",
-    "url": "/games/motox3m-winter/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/motox3m-winter/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/motox3m-winter/download.jpeg",
     "description": "Play this game to find out what it is!",
@@ -2008,7 +2008,7 @@
   {
     "title": "MotoX3M Spooky",
     "service": "custom",
-    "url": "/games/motox3m-spooky/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/motox3m-spooky/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/motox3m-spooky/splash.jpeg",
     "description": "Play this game to find out what it is!",
@@ -2017,7 +2017,7 @@
   {
     "title": "MotoX3M Pool",
     "service": "custom",
-    "url": "/games/motox3m-pool/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/motox3m-pool/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/motox3m-pool/splash.jpg",
     "description": "Play this game to find out what it is!",
@@ -2026,7 +2026,7 @@
   {
     "title": "MotoX3M 2",
     "service": "custom",
-    "url": "/games/motox3m2/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/motox3m2/index.html",
     "premium": false,
     "thumb": "https://th.bing.com/th/id/R.2ff52121a32903fa458fba69f1c06577?rik=n6kCpzxhWQCpiA",
     "description": "Play this game to find out what it is!",
@@ -2035,7 +2035,7 @@
   {
     "title": "Monster Tracks",
     "service": "custom",
-    "url": "/games/monster-tracks/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/monster-tracks/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/monster-tracks/thumb.jpg",
     "description": "Play this game to find out what it is!",
@@ -2044,7 +2044,7 @@
   {
     "title": "Missiles",
     "service": "custom",
-    "url": "/games/missiles/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/missiles/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/missiles/miss.png",
     "description": "Play this game to find out what it is!",
@@ -2053,7 +2053,7 @@
   {
     "title": "Mini-putt",
     "service": "custom",
-    "url": "/games/miniputt/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/miniputt/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/miniputt/miniputt.png",
     "description": "Play this game to find out what it is!",
@@ -2062,7 +2062,7 @@
   {
     "title": "Minesweeper",
     "service": "custom",
-    "url": "/games/minesweeper/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/minesweeper/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/minesweeper/img/minesweeper.png",
     "description": "Play this game to find out what it is!",
@@ -2071,7 +2071,7 @@
   {
     "title": "Minecraft Classic Hacks",
     "service": "custom",
-    "url": "/games/minecraftbeta/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/minecraftbeta/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/minecraftbeta/bg_main.png",
     "description": "Play this game to find out what it is!",
@@ -2080,7 +2080,7 @@
   {
     "title": "Mine Blocks",
     "service": "custom",
-    "url": "/games/mineblocks/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/mineblocks/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/mineblocks/splash.png",
     "description": "Play this game to find out what it is!",
@@ -2089,7 +2089,7 @@
   {
     "title": "Mindustry Classic",
     "service": "custom",
-    "url": "/games/mindustry/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/mindustry/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/mindustry/splash.png",
     "description": "Play this game to find out what it is!",
@@ -2098,7 +2098,7 @@
   {
     "title": "Merge Round Racers",
     "service": "custom",
-    "url": "/games/merge-round-racers/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/merge-round-racers/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/merge-round-racers/splash.png",
     "description": "Play this game to find out what it is!",
@@ -2107,7 +2107,7 @@
   {
     "title": "Meme 2048",
     "service": "custom",
-    "url": "/games/meme2048/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/meme2048/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/meme2048/img/rickroll.gif",
     "description": "Play this game to find out what it is!",
@@ -2116,7 +2116,7 @@
   {
     "title": "Matrix Rampage",
     "service": "custom",
-    "url": "/games/matrixrampage/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/matrixrampage/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/matrixrampage/matrixrampage.jpg",
     "description": "Play this game to find out what it is!",
@@ -2125,7 +2125,7 @@
   {
     "title": "Marvin Spectrum",
     "service": "custom",
-    "url": "/games/marvinspectrum/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/marvinspectrum/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/marvinspectrum/marvinspectrum.png",
     "description": "Play this game to find out what it is!",
@@ -2134,7 +2134,7 @@
   {
     "title": "Mario",
     "service": "custom",
-    "url": "/games/mario/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/mario/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/mario/Theme/Mario.gif",
     "description": "Play this game to find out what it is!",
@@ -2143,7 +2143,7 @@
   {
     "title": "Madalin Stunt Cars 3",
     "service": "custom",
-    "url": "/games/madalin-stunt-cars-3/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/madalin-stunt-cars-3/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/madalin-stunt-cars-3/img/index.jpg",
     "description": "Play this game to find out what it is!",
@@ -2152,7 +2152,7 @@
   {
     "title": "Line rider",
     "service": "custom",
-    "url": "/games/linerider/linerider.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/linerider/linerider.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/linerider/6954B825-C61C-41E0-BFD9-7EA4FC6D0FE1.jpeg",
     "description": "Play this game to find out what it is!",
@@ -2161,7 +2161,7 @@
   {
     "title": "Level 13",
     "service": "custom",
-    "url": "/games/level13/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/level13/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/level13/thumb.png",
     "description": "Play this game to find out what it is!",
@@ -2170,7 +2170,7 @@
   {
     "title": "Learn to fly 2",
     "service": "custom",
-    "url": "/games/learntofly2/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/learntofly2/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/learntofly2/learn-to-fly-2.jpg",
     "description": "Play this game to find out what it is!",
@@ -2179,7 +2179,7 @@
   {
     "title": "Learn To Fly IDLE",
     "service": "custom",
-    "url": "/games/ltf-idle/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/ltf-idle/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/ltf-idle/thumbnail.jpg",
     "description": "Play this game to find out what it is!",
@@ -2188,7 +2188,7 @@
   {
     "title": "Learn To Fly 3",
     "service": "custom",
-    "url": "/games/ltf3/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/ltf3/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/ltf3/logo.png",
     "description": "Play this game to find out what it is!",
@@ -2197,7 +2197,7 @@
   {
     "title": "Learn To Fly",
     "service": "custom",
-    "url": "/games/learntofly/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/learntofly/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/learntofly/learntofly.png",
     "description": "Play this game to find out what it is!",
@@ -2206,7 +2206,7 @@
   {
     "title": "Krunker",
     "service": "custom",
-    "url": "/games/krunker/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/krunker/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/krunker/img/krunker-io.jpg",
     "description": "Play this game to find out what it is!",
@@ -2215,7 +2215,7 @@
   {
     "title": "Knife Master",
     "service": "custom",
-    "url": "/games/knife-master/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/knife-master/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/knife-master/512x512.jpg",
     "description": "Play this game to find out what it is!",
@@ -2224,7 +2224,7 @@
   {
     "title": "Kitten Cannon",
     "service": "custom",
-    "url": "/games/kittencannon/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/kittencannon/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/kittencannon/kittencannon.png",
     "description": "Play this game to find out what it is!",
@@ -2233,7 +2233,7 @@
   {
     "title": "Kitchen gun game",
     "service": "custom",
-    "url": "/games/kitchen-gun-game/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/kitchen-gun-game/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/kitchen-gun-game/splash.png",
     "description": "Play this game to find out what it is!",
@@ -2242,7 +2242,7 @@
   {
     "title": "Just One Boss",
     "service": "custom",
-    "url": "/games/just-one-boss/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/just-one-boss/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/just-one-boss/pv1Gr5.png",
     "description": "Play this game to find out what it is!",
@@ -2251,7 +2251,7 @@
   {
     "title": "Iron Dash",
     "service": "custom",
-    "url": "/games/iron dash/Iron Dash.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/iron dash/Iron Dash.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/iron dash/9FF39FCC-64B1-491C-97FC-A34357F9583A.jpeg",
     "description": "Play this game to find out what it is!",
@@ -2260,7 +2260,7 @@
   {
     "title": "Interactive Buddy",
     "service": "custom",
-    "url": "/games/interactivebuddy/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/interactivebuddy/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/interactivebuddy/interactivebuddy.jpg",
     "description": "Play this game to find out what it is!",
@@ -2269,7 +2269,7 @@
   {
     "title": "Impossible Quiz",
     "service": "custom",
-    "url": "/games/impossiblequiz/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/impossiblequiz/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/impossiblequiz/impossiblequiz.png",
     "description": "Play this game to find out what it is!",
@@ -2278,7 +2278,7 @@
   {
     "title": "Idle Shark",
     "service": "custom",
-    "url": "/games/idle-shark/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/idle-shark/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/idle-shark/img/sharkgame.png",
     "description": "Play this game to find out what it is!",
@@ -2287,7 +2287,7 @@
   {
     "title": "Ice Age Baby 2",
     "service": "custom",
-    "url": "/games/iceagebaby2/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/iceagebaby2/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/iceagebaby2/pinky.jpg",
     "description": "Play this game to find out what it is!",
@@ -2296,7 +2296,7 @@
   {
     "title": "Ice Age Baby",
     "service": "custom",
-    "url": "/games/iceagebaby/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/iceagebaby/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/iceagebaby/thumb.png",
     "description": "Play this game to find out what it is!",
@@ -2305,7 +2305,7 @@
   {
     "title": "Hungry Lamu",
     "service": "custom",
-    "url": "/games/hungry-lamu/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/hungry-lamu/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/hungry-lamu/splash.png",
     "description": "Play this game to find out what it is!",
@@ -2314,7 +2314,7 @@
   {
     "title": "Hover Bot Arena",
     "service": "custom",
-    "url": "/games/hba/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/hba/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/hba/hoverbotarena.JPG",
     "description": "Play this game to find out what it is!",
@@ -2323,7 +2323,7 @@
   {
     "title": "Hill Climb Racing (Scratch)",
     "service": "custom",
-    "url": "/games/hill-climb-racing/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/hill-climb-racing/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/hill-climb-racing/splash.jpeg",
     "description": "Play this game to find out what it is!",
@@ -2332,7 +2332,7 @@
   {
     "title": "Hextris",
     "service": "custom",
-    "url": "/games/hextris/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/hextris/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/hextris/images/hextris-logo.png",
     "description": "Play this game to find out what it is!",
@@ -2341,7 +2341,7 @@
   {
     "title": "Hex Empire",
     "service": "custom",
-    "url": "/games/hexempire/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/hexempire/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/hexempire/hexempire.jpg",
     "description": "Play this game to find out what it is!",
@@ -2350,7 +2350,7 @@
   {
     "title": "Helicopter",
     "service": "custom",
-    "url": "/games/helicopter/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/helicopter/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/helicopter/helicopter.png",
     "description": "Play this game to find out what it is!",
@@ -2368,7 +2368,7 @@
   {
     "title": "Happy Hop",
     "service": "custom",
-    "url": "/games/happy-hop/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/happy-hop/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/happy-hop/splash.png",
     "description": "Play this game to find out what it is!",
@@ -2377,7 +2377,7 @@
   {
     "title": "Handshakes",
     "service": "custom",
-    "url": "/games/handshakes/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/handshakes/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/handshakes/splaher.png",
     "description": "Play this game to find out what it is!",
@@ -2386,7 +2386,7 @@
   {
     "title": "Hacker Typer",
     "service": "custom",
-    "url": "/games/hackertype/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/hackertype/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/hackertype/logo192.png",
     "description": "Play this game to find out what it is!",
@@ -2395,7 +2395,7 @@
   {
     "title": "Grind Craft",
     "service": "custom",
-    "url": "/games/grindcraft/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/grindcraft/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/grindcraft/img/splash.png",
     "description": "Play this game to find out what it is!",
@@ -2404,7 +2404,7 @@
   {
     "title": "Grey Box Testing",
     "service": "custom",
-    "url": "/games/greybox/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/greybox/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/greybox/ico.png",
     "description": "Play this game to find out what it is!",
@@ -2413,7 +2413,7 @@
   {
     "title": "Gravity Soccer",
     "service": "custom",
-    "url": "/games/gravity-soccer/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/gravity-soccer/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/gravity-soccer/splash.png",
     "description": "Play this game to find out what it is!",
@@ -2422,7 +2422,7 @@
   {
     "title": "Google Snake",
     "service": "custom",
-    "url": "/games/google-snake/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/google-snake/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/google-snake/img/snake.png",
     "description": "Play this game to find out what it is!",
@@ -2431,7 +2431,7 @@
   {
     "title": "Google Feud",
     "service": "custom",
-    "url": "/games/google-feud/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/google-feud/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/google-feud/splash.png",
     "description": "Play this game to find out what it is!",
@@ -2440,7 +2440,7 @@
   {
     "title": "Go Ball",
     "service": "custom",
-    "url": "/games/go-ball/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/go-ball/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/go-ball/game.jpg",
     "description": "Play this game to find out what it is!",
@@ -2449,7 +2449,7 @@
   {
     "title": "Glass City",
     "service": "custom",
-    "url": "/games/glass-city/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/glass-city/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/glass-city/image.png",
     "description": "Play this game to find out what it is!",
@@ -2458,7 +2458,7 @@
   {
     "title": "Gimme the Airpod",
     "service": "custom",
-    "url": "/games/gimme-the-airpod/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/gimme-the-airpod/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/gimme-the-airpod/img/logo.png",
     "description": "Play this game to find out what it is!",
@@ -2467,7 +2467,7 @@
   {
     "title": "Getaway Shootout",
     "service": "custom",
-    "url": "/games/getaway-shootout/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/getaway-shootout/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/getaway-shootout/img/images.jpg",
     "description": "Play this game to find out what it is!",
@@ -2476,7 +2476,7 @@
   {
     "title": "George and the Printer",
     "service": "custom",
-    "url": "/games/georgeandtheprinter/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/georgeandtheprinter/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/georgeandtheprinter/img/SnDTEn.png",
     "description": "Play this game to find out what it is!",
@@ -2485,7 +2485,7 @@
   {
     "title": "Geometry Dash Lite",
     "service": "custom",
-    "url": "/games/geodashlite/geodashlite.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/geodashlite/geodashlite.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/geodashlite/geodashlite.png",
     "description": "Play this game to find out what it is!",
@@ -2494,7 +2494,7 @@
   {
     "title": "Geometry Dash (Scratch)",
     "service": "custom",
-    "url": "/games/geodash/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/geodash/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/geodash/geoscratchicon.png",
     "description": "Play this game to find out what it is!",
@@ -2503,7 +2503,7 @@
   {
     "title": "Generic Fishing Game",
     "service": "custom",
-    "url": "/games/generic-fishing-game/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/generic-fishing-game/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/generic-fishing-game/splash.png",
     "description": "Play this game to find out what it is!",
@@ -2512,7 +2512,7 @@
   {
     "title": "Game Inside a Game Inside a Game...",
     "service": "custom",
-    "url": "/games/game-inside/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/game-inside/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/game-inside/img/display.png",
     "description": "Play this game to find out what it is!",
@@ -2521,7 +2521,7 @@
   {
     "title": "GOODNIGHT",
     "service": "custom",
-    "url": "/games/goodnight/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/goodnight/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/goodnight/goodnight.jpg",
     "description": "Play this game to find out what it is!",
@@ -2530,7 +2530,7 @@
   {
     "title": "Frying Nemo",
     "service": "custom",
-    "url": "/games/frying-nemo/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/frying-nemo/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/frying-nemo/splash.png",
     "description": "Play this game to find out what it is!",
@@ -2539,7 +2539,7 @@
   {
     "title": "Froggy's Battle",
     "service": "custom",
-    "url": "/games/froggys-battle/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/froggys-battle/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/froggys-battle/splash.png",
     "description": "Play this game to find out what it is!",
@@ -2548,7 +2548,7 @@
   {
     "title": "Friday Night Funkin'",
     "service": "custom",
-    "url": "/games/fridaynightfunkin/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/fridaynightfunkin/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/fridaynightfunkin/fnf-icon.jpg",
     "description": "Play this game to find out what it is!",
@@ -2557,7 +2557,7 @@
   {
     "title": "Flippy Fish",
     "service": "custom",
-    "url": "/games/flippy-fish/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/flippy-fish/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/flippy-fish/2022_10_28_0jt_Kleki.png",
     "description": "Play this game to find out what it is!",
@@ -2566,7 +2566,7 @@
   {
     "title": "Fleeing The Complex",
     "service": "custom",
-    "url": "/games/fleeingthecomplex/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/fleeingthecomplex/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/fleeingthecomplex/a.png",
     "description": "Play this game to find out what it is!",
@@ -2575,7 +2575,7 @@
   {
     "title": "Flash Tetris",
     "service": "custom",
-    "url": "/games/flashtetris/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/flashtetris/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/flashtetris/flashtetris.png",
     "description": "Play this game to find out what it is!",
@@ -2584,7 +2584,7 @@
   {
     "title": "Flappy Plane",
     "service": "custom",
-    "url": "/games/flappy plane/Flappy Plane.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/flappy plane/Flappy Plane.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/flappy plane/E3A4179E-B8E4-4358-BDAD-45AA7637D4D7.jpeg",
     "description": "Play this game to find out what it is!",
@@ -2593,7 +2593,7 @@
   {
     "title": "Flappy 2048",
     "service": "custom",
-    "url": "/games/flappy-2048/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/flappy-2048/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/flappy-2048/meta/apple-touch-icon.png",
     "description": "Play this game to find out what it is!",
@@ -2602,7 +2602,7 @@
   {
     "title": "Five Nights at Winston's",
     "service": "custom",
-    "url": "/games/fnaw/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/fnaw/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/fnaw/splash.png",
     "description": "Play this game to find out what it is!",
@@ -2611,7 +2611,7 @@
   {
     "title": "Fireboy and Watergirl",
     "service": "custom",
-    "url": "/games/fireboywatergirlforesttemple/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/fireboywatergirlforesttemple/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/fireboywatergirlforesttemple/logo.jpeg",
     "description": "Play this game to find out what it is!",
@@ -2620,7 +2620,7 @@
   {
     "title": "Fantasy Dash",
     "service": "custom",
-    "url": "/games/fantasy-dash/Fantasy Dash.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/fantasy-dash/Fantasy Dash.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/fantasy-dash/DF24D85A-B7B5-4CF0-8194-DB6CD89C6975.jpeg",
     "description": "Play this game to find out what it is!",
@@ -2629,7 +2629,7 @@
   {
     "title": "Fancy Pants Adventures",
     "service": "custom",
-    "url": "/games/fancypantsadventures/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/fancypantsadventures/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/fancypantsadventures/fancypantsadventure.png",
     "description": "Play this game to find out what it is!",
@@ -2638,7 +2638,7 @@
   {
     "title": "Fake Virus",
     "service": "custom",
-    "url": "/games/fake-virus/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/fake-virus/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/fake-virus/icon.png",
     "description": "Play this game to find out what it is!",
@@ -2647,7 +2647,7 @@
   {
     "title": "Fair Squares",
     "service": "custom",
-    "url": "/games/fairsquares/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/fairsquares/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/fairsquares/index.apple-touch-icon.png",
     "description": "Play this game to find out what it is!",
@@ -2656,7 +2656,7 @@
   {
     "title": "Factory Balls Forever",
     "service": "custom",
-    "url": "/games/factoryballs/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/factoryballs/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/factoryballs/images/splash.png",
     "description": "Play this game to find out what it is!",
@@ -2665,7 +2665,7 @@
   {
     "title": "Exo",
     "service": "custom",
-    "url": "/games/exo/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/exo/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/exo/img/small.jpg",
     "description": "Play this game to find out what it is!",
@@ -2674,7 +2674,7 @@
   {
     "title": "Evolution",
     "service": "custom",
-    "url": "/games/evolution/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/evolution/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/evolution/splash.png",
     "description": "Play this game to find out what it is!",
@@ -2683,7 +2683,7 @@
   {
     "title": "Evil Glitch",
     "service": "custom",
-    "url": "/games/evil-glitch/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/evil-glitch/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/evil-glitch/evil.png",
     "description": "Play this game to find out what it is!",
@@ -2692,7 +2692,7 @@
   {
     "title": "Escaping The Prison",
     "service": "custom",
-    "url": "/games/escapingtheprison/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/escapingtheprison/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/escapingtheprison/escapingtheprison.jpg",
     "description": "Play this game to find out what it is!",
@@ -2701,7 +2701,7 @@
   {
     "title": "Endless War 3",
     "service": "custom",
-    "url": "/games/endlesswar3/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/endlesswar3/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/endlesswar3/endlesswar3.png",
     "description": "Play this game to find out what it is!",
@@ -2710,7 +2710,7 @@
   {
     "title": "Eggycar",
     "service": "custom",
-    "url": "/games/eggycar/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/eggycar/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/eggycar/favicon.ico",
     "description": "Play this game to find out what it is!",
@@ -2719,7 +2719,7 @@
   {
     "title": "Eel Slap",
     "service": "custom",
-    "url": "/games/eel-slap/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/eel-slap/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/eel-slap/eel-slap.png",
     "description": "Play this game to find out what it is!",
@@ -2728,7 +2728,7 @@
   {
     "title": "Edge Not Found",
     "service": "custom",
-    "url": "/games/edgenotfound/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/edgenotfound/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/edgenotfound/edge.png",
     "description": "Play this game to find out what it is!",
@@ -2737,7 +2737,7 @@
   {
     "title": "Edge Let's Surf",
     "service": "custom",
-    "url": "/games/edge-surf/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/edge-surf/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/edge-surf/splash.png",
     "description": "Play this game to find out what it is!",
@@ -2746,7 +2746,7 @@
   {
     "title": "Eaglercraft 1.5",
     "service": "custom",
-    "url": "/games/minecraft-15/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/minecraft-15/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/minecraft-15/splash.jpeg",
     "description": "Play this game to find out what it is!",
@@ -2755,7 +2755,7 @@
   {
     "title": "Dumb Ways to Die",
     "service": "custom",
-    "url": "/games/dumbwaystodie/dumbwaystodie.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/dumbwaystodie/dumbwaystodie.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/dumbwaystodie/image.png",
     "description": "Play this game to find out what it is!",
@@ -2764,7 +2764,7 @@
   {
     "title": "Duke Nukem 2",
     "service": "custom",
-    "url": "/games/duke-nukem-2/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/duke-nukem-2/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/duke-nukem-2/splash.jpg",
     "description": "Play this game to find out what it is!",
@@ -2773,7 +2773,7 @@
   {
     "title": "Duck Life 4",
     "service": "custom",
-    "url": "/games/ducklife4/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/ducklife4/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/ducklife4/splash.jpg",
     "description": "Play this game to find out what it is!",
@@ -2782,7 +2782,7 @@
   {
     "title": "Duck Life 3",
     "service": "custom",
-    "url": "/games/ducklife3/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/ducklife3/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/ducklife3/duck.png",
     "description": "Play this game to find out what it is!",
@@ -2791,7 +2791,7 @@
   {
     "title": "Duck Life 2",
     "service": "custom",
-    "url": "/games/ducklife2/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/ducklife2/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/ducklife2/ducklife2.png",
     "description": "Play this game to find out what it is!",
@@ -2800,7 +2800,7 @@
   {
     "title": "Duck Life",
     "service": "custom",
-    "url": "/games/ducklife1/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/ducklife1/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/ducklife1/ducklife.png",
     "description": "Play this game to find out what it is!",
@@ -2809,7 +2809,7 @@
   {
     "title": "Drive Mad",
     "service": "custom",
-    "url": "/games/drive-mad/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/drive-mad/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/drive-mad/logo.jpg",
     "description": "Play this game to find out what it is!",
@@ -2818,7 +2818,7 @@
   {
     "title": "Drift Hunters",
     "service": "custom",
-    "url": "/games/drift-hunters/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/drift-hunters/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/drift-hunters/drift-hunters.png",
     "description": "Play this game to find out what it is!",
@@ -2827,7 +2827,7 @@
   {
     "title": "Draw the Hill",
     "service": "custom",
-    "url": "/games/draw-the-hill/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/draw-the-hill/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/draw-the-hill/icons/icon-512.png",
     "description": "Play this game to find out what it is!",
@@ -2836,7 +2836,7 @@
   {
     "title": "Dragons vs Bricks",
     "service": "custom",
-    "url": "/games/dragon-vs-bricks/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/dragon-vs-bricks/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/dragon-vs-bricks/icon.jpg",
     "description": "Play this game to find out what it is!",
@@ -2845,7 +2845,7 @@
   {
     "title": "Double Wires",
     "service": "custom",
-    "url": "/games/doublewires/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/doublewires/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/doublewires/doublewires.png",
     "description": "Play this game to find out what it is!",
@@ -2854,7 +2854,7 @@
   {
     "title": "Doomori",
     "service": "custom",
-    "url": "/games/DOOMORI/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/DOOMORI/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/DOOMORI/splash.png",
     "description": "Play this game to find out what it is!",
@@ -2863,7 +2863,7 @@
   {
     "title": "Doom",
     "service": "custom",
-    "url": "/games/doom/doom.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/doom/doom.html",
     "premium": false,
     "thumb": "/images/game-images/doomgame.webp",
     "description": "Play this game to find out what it is!",
@@ -2881,7 +2881,7 @@
   {
     "title": "Doge 2048",
     "service": "custom",
-    "url": "/games/doge2048/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/doge2048/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/doge2048/meta/apple-touch-icon.png",
     "description": "Play this game to find out what it is!",
@@ -2890,7 +2890,7 @@
   {
     "title": "Dodge",
     "service": "custom",
-    "url": "/games/dodge/dodge.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/dodge/dodge.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/dodge/CEB64188-C91B-4FEE-95C1-3ACF6A8CA009.jpeg",
     "description": "Play this game to find out what it is!",
@@ -2899,7 +2899,7 @@
   {
     "title": "Doctor Acorn 2",
     "service": "custom",
-    "url": "/games/doctor-acorn2/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/doctor-acorn2/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/doctor-acorn2/splash.jpg",
     "description": "Play this game to find out what it is!",
@@ -2908,7 +2908,7 @@
   {
     "title": "Defend the Tank",
     "service": "custom",
-    "url": "/games/defend-the-tank/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/defend-the-tank/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/defend-the-tank/images/splash.jpg",
     "description": "Play this game to find out what it is!",
@@ -2917,7 +2917,7 @@
   {
     "title": "Deepest Sword",
     "service": "custom",
-    "url": "/games/deepest-sword/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/deepest-sword/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/deepest-sword/splash.jpg",
     "description": "Play this game to find out what it is!",
@@ -2926,7 +2926,7 @@
   {
     "title": "Death Run 3D",
     "service": "custom",
-    "url": "/games/death-run-3d/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/death-run-3d/index.html",
     "premium": false,
     "thumb": "/images/game-images/deathrun3d.webp",
     "description": "In this game, your task is to avoid the blocks by dodging or moving them! Gaps between blocks are very short, so swift responses are the only way to success.",
@@ -2935,7 +2935,7 @@
   {
     "title": "Deal or No Deal",
     "service": "custom",
-    "url": "/games/deal-or-no-deal/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/deal-or-no-deal/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/deal-or-no-deal/index.jpg",
     "description": "Play this game to find out what it is!",
@@ -2944,7 +2944,7 @@
   {
     "title": "Dante",
     "service": "custom",
-    "url": "/games/dante/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/dante/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/dante/splash.png",
     "description": "Play this game to find out what it is!",
@@ -2953,7 +2953,7 @@
   {
     "title": "Cut the Rope Time Travel",
     "service": "custom",
-    "url": "/games/ctr-tr/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/ctr-tr/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/ctr-tr/logo.png",
     "description": "Play this game to find out what it is!",
@@ -2971,7 +2971,7 @@
   {
     "title": "Cut the Rope Holiday",
     "service": "custom",
-    "url": "/games/ctr-holiday/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/ctr-holiday/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/ctr-holiday/Holiday_Gift.webp",
     "description": "Play this game to find out what it is!",
@@ -2980,7 +2980,7 @@
   {
     "title": "Cut the Rope",
     "service": "custom",
-    "url": "/games/ctr/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/ctr/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/ctr/logo.png",
     "description": "Play this game to find out what it is!",
@@ -2989,7 +2989,7 @@
   {
     "title": "Cupcake 2048",
     "service": "custom",
-    "url": "/games/cupcake2048/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/cupcake2048/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/cupcake2048/favicon.png",
     "description": "Play this game to find out what it is!",
@@ -2998,7 +2998,7 @@
   {
     "title": "Cubefield",
     "service": "custom",
-    "url": "/games/cubefield/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/cubefield/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/cubefield/assets/unnamed.png",
     "description": "Play this game to find out what it is!",
@@ -3007,7 +3007,7 @@
   {
     "title": "Creative Kill Chamber",
     "service": "custom",
-    "url": "/games/creativekillchamber/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/creativekillchamber/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/creativekillchamber/creativekillchamber.jpg",
     "description": "Play this game to find out what it is!",
@@ -3016,7 +3016,7 @@
   {
     "title": "CraftMine",
     "service": "custom",
-    "url": "/games/craftmine/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/craftmine/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/craftmine/images/craftmine.png",
     "description": "Play this game to find out what it is!",
@@ -3025,7 +3025,7 @@
   {
     "title": "Core Ball",
     "service": "custom",
-    "url": "/games/core-ball/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/core-ball/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/core-ball/pr_source.png",
     "description": "Play this game to find out what it is!",
@@ -3034,7 +3034,7 @@
   {
     "title": "Connect 3",
     "service": "custom",
-    "url": "/games/connect3/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/connect3/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/connect3/connect3.png",
     "description": "Play this game to find out what it is!",
@@ -3043,7 +3043,7 @@
   {
     "title": "Cluster Rush",
     "service": "custom",
-    "url": "/games/cluster-rush/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/cluster-rush/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/cluster-rush/splash.png",
     "description": "Play this game to find out what it is!",
@@ -3052,7 +3052,7 @@
   {
     "title": "Chill Radio",
     "service": "custom",
-    "url": "/games/chill-radio/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/chill-radio/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/chill-radio/img/icon.png",
     "description": "Play this game to find out what it is!",
@@ -3061,7 +3061,7 @@
   {
     "title": "Champion Island",
     "service": "custom",
-    "url": "/games/champion-island/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/champion-island/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/champion-island/splash.png",
     "description": "Play this game to find out what it is!",
@@ -3070,7 +3070,7 @@
   {
     "title": "Champion Archer",
     "service": "custom",
-    "url": "/games/championarcher/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/championarcher/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/championarcher/championarcher.png",
     "description": "Play this game to find out what it is!",
@@ -3079,7 +3079,7 @@
   {
     "title": "Cell Machine",
     "service": "custom",
-    "url": "/games/cell-machine/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/cell-machine/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/cell-machine/img/te9nDu.png",
     "description": "Play this game to find out what it is!",
@@ -3088,7 +3088,7 @@
   {
     "title": "Cars Simulator",
     "service": "custom",
-    "url": "/games/cars-simulator/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/cars-simulator/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/cars-simulator/splash.png",
     "description": "Play this game to find out what it is!",
@@ -3097,7 +3097,7 @@
   {
     "title": "Canyon Defense",
     "service": "custom",
-    "url": "/games/canyondefense/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/canyondefense/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/canyondefense/canyondefense.png",
     "description": "Play this game to find out what it is!",
@@ -3106,7 +3106,7 @@
   {
     "title": "Cannon Basketball 4",
     "service": "custom",
-    "url": "/games/cannon-basketball-4/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/cannon-basketball-4/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/cannon-basketball-4/img/splash.png",
     "description": "Play this game to find out what it is!",
@@ -3115,7 +3115,7 @@
   {
     "title": "CS:GO Clicker",
     "service": "custom",
-    "url": "/games/csgo-clicker/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/csgo-clicker/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/csgo-clicker/images/vanguard.png",
     "description": "Play this game to find out what it is!",
@@ -3124,7 +3124,7 @@
   {
     "title": "CMM Client",
     "service": "custom",
-    "url": "/games/CMM Client/CMM Client.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/CMM Client/CMM Client.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/CMM Client/EC4B216C-B637-41A3-A3D9-79D4048DD7A3.jpeg",
     "description": "Play this game to find out what it is!",
@@ -3133,7 +3133,7 @@
   {
     "title": "Burger and Frights",
     "service": "custom",
-    "url": "/games/burger-and-frights/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/burger-and-frights/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/burger-and-frights/splash.png",
     "description": "Play this game to find out what it is!",
@@ -3142,7 +3142,7 @@
   {
     "title": "Breaking the Bank",
     "service": "custom",
-    "url": "/games/breakingthebank/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/breakingthebank/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/breakingthebank/breakingthebank.png",
     "description": "Play this game to find out what it is!",
@@ -3151,7 +3151,7 @@
   {
     "title": "Boxing Random",
     "service": "custom",
-    "url": "/games/boxing-random/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/boxing-random/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/boxing-random/512x512.jpg",
     "description": "Play this game to find out what it is!",
@@ -3160,7 +3160,7 @@
   {
     "title": "Box Head",
     "service": "custom",
-    "url": "/games/boxhead2play/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/boxhead2play/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/boxhead2play/boxhead2play.jpg",
     "description": "Play this game to find out what it is!",
@@ -3169,7 +3169,7 @@
   {
     "title": "Bob the Robber 2",
     "service": "custom",
-    "url": "/games/bobtherobber2/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/bobtherobber2/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/bobtherobber2/splash.jpeg",
     "description": "Play this game to find out what it is!",
@@ -3178,7 +3178,7 @@
   {
     "title": "Bloxors",
     "service": "custom",
-    "url": "/games/bloxors/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/bloxors/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/bloxors/block.png",
     "description": "Play this game to find out what it is!",
@@ -3187,7 +3187,7 @@
   {
     "title": "Bloons TD 5",
     "service": "custom",
-    "url": "/games/btd5/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/btd5/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/btd5/BT5_Deluxe_logo.png",
     "description": "Play this game to find out what it is!",
@@ -3196,7 +3196,7 @@
   {
     "title": "Black Knight",
     "service": "custom",
-    "url": "/games/blackknight/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/blackknight/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/blackknight/blackknight.png",
     "description": "Play this game to find out what it is!",
@@ -3205,7 +3205,7 @@
   {
     "title": "Black Hole Square",
     "service": "custom",
-    "url": "/games/blacholesquare/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/blacholesquare/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/blacholesquare/icon.png",
     "description": "Play this game to find out what it is!",
@@ -3214,7 +3214,7 @@
   {
     "title": "Big Tower Tiny Square",
     "service": "custom",
-    "url": "/games/btts/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/btts/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/btts/images.png",
     "description": "Play this game to find out what it is!",
@@ -3223,7 +3223,7 @@
   {
     "title": "Big Red Button",
     "service": "custom",
-    "url": "/games/bigredbutton/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/bigredbutton/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/bigredbutton/bigredbutton.png",
     "description": "Play this game to find out what it is!",
@@ -3232,7 +3232,7 @@
   {
     "title": "Big NEON Tower Tiny Square",
     "service": "custom",
-    "url": "/games/bntts/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/bntts/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/bntts/icons/icon-256.png",
     "description": "Play this game to find out what it is!",
@@ -3241,7 +3241,7 @@
   {
     "title": "Battle for Gondor",
     "service": "custom",
-    "url": "/games/battleforgondor/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/battleforgondor/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/battleforgondor/battleforgondor.JPG",
     "description": "Play this game to find out what it is!",
@@ -3250,7 +3250,7 @@
   {
     "title": "Basketball Stars",
     "service": "custom",
-    "url": "/games/basketball-stars/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/basketball-stars/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/basketball-stars/assets/images/basketball-stars.png",
     "description": "Play this game to find out what it is!",
@@ -3259,7 +3259,7 @@
   {
     "title": "Basket Random",
     "service": "custom",
-    "url": "/games/basket-random/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/basket-random/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/basket-random/splash.jpeg",
     "description": "Play this game to find out what it is!",
@@ -3268,7 +3268,7 @@
   {
     "title": "Ballistic Chickens",
     "service": "custom",
-    "url": "/games/ballistic-chickens/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/ballistic-chickens/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/ballistic-chickens/logo.png",
     "description": "Play this game to find out what it is!",
@@ -3277,7 +3277,7 @@
   {
     "title": "Ball Dodge",
     "service": "custom",
-    "url": "/games/balldodge/balldodge.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/balldodge/balldodge.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/balldodge/2BD297A6-93B9-40CF-9735-70B50A9BADF6.jpeg",
     "description": "Play this game to find out what it is!",
@@ -3286,7 +3286,7 @@
   {
     "title": "Baldi's Basics",
     "service": "custom",
-    "url": "/games/baldis-basics/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/baldis-basics/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/baldis-basics/splash.png",
     "description": "Play this game to find out what it is!",
@@ -3295,7 +3295,7 @@
   {
     "title": "Bad Ice Cream 3",
     "service": "custom",
-    "url": "/games/bad-ice-cream-3/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/bad-ice-cream-3/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/bad-ice-cream-3/bad-ice-cream-3.png",
     "description": "Play this game to find out what it is!",
@@ -3304,7 +3304,7 @@
   {
     "title": "Bad Ice Cream 2",
     "service": "custom",
-    "url": "/games/bad-ice-cream-2/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/bad-ice-cream-2/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/bad-ice-cream-2/bad-ice-cream-2.png",
     "description": "Play this game to find out what it is!",
@@ -3322,7 +3322,7 @@
   {
     "title": "Avalanche",
     "service": "custom",
-    "url": "/games/avalanche/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/avalanche/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/avalanche/avalanche.png",
     "description": "Play this game to find out what it is!",
@@ -3331,7 +3331,7 @@
   {
     "title": "Astray",
     "service": "custom",
-    "url": "/games/astray/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/astray/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/astray/splash.png",
     "description": "Play this game to find out what it is!",
@@ -3340,7 +3340,7 @@
   {
     "title": "Angry Sharks",
     "service": "custom",
-    "url": "/games/angry-sharks/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/angry-sharks/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/angry-sharks/assets/favicon/icon-512x512.png",
     "description": "Play this game to find out what it is!",
@@ -3349,7 +3349,7 @@
   {
     "title": "Amidst the Clouds",
     "service": "custom",
-    "url": "/games/amidst-the-clouds/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/amidst-the-clouds/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/amidst-the-clouds/splash.png",
     "description": "Play this game to find out what it is!",
@@ -3358,7 +3358,7 @@
   {
     "title": "Amazing rope police",
     "service": "custom",
-    "url": "/games/amazing-rope-police/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/amazing-rope-police/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/amazing-rope-police/splash.jpeg",
     "description": "Play this game to find out what it is!",
@@ -3367,7 +3367,7 @@
   {
     "title": "Alien Hominid",
     "service": "custom",
-    "url": "/games/alienhominid/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/alienhominid/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/alienhominid/alienhominid.jpg",
     "description": "Play this game to find out what it is!",
@@ -3376,7 +3376,7 @@
   {
     "title": "Age of Conflict",
     "service": "custom",
-    "url": "/games/ages-of-conflict/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/ages-of-conflict/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/ages-of-conflict/splash.jpg",
     "description": "Play this game to find out what it is!",
@@ -3385,7 +3385,7 @@
   {
     "title": "Adventure Drivers",
     "service": "custom",
-    "url": "/games/adventure-drivers/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/adventure-drivers/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/adventure-drivers/splash.png",
     "description": "Play this game to find out what it is!",
@@ -3394,7 +3394,7 @@
   {
     "title": "Adrenaline Challenge",
     "service": "custom",
-    "url": "/games/adrenalinechallenge/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/adrenalinechallenge/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/adrenalinechallenge/adrenalinechallenge.jpg",
     "description": "Play this game to find out what it is!",
@@ -3403,7 +3403,7 @@
   {
     "title": "Achievement Unlocked",
     "service": "custom",
-    "url": "/games/achievementunlocked/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/achievementunlocked/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/achievementunlocked/achievementunlocked.png",
     "description": "Play this game to find out what it is!",
@@ -3412,7 +3412,7 @@
   {
     "title": "A Dark Room",
     "service": "custom",
-    "url": "/games/adarkroom/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/adarkroom/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/adarkroom/splash.png",
     "description": "Play this game to find out what it is!",
@@ -3421,7 +3421,7 @@
   {
     "title": "A Dance of Fire and Ice",
     "service": "custom",
-    "url": "/games/a-dance-of-fire-and-ice/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/a-dance-of-fire-and-ice/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/a-dance-of-fire-and-ice/splash.png",
     "description": "Play this game to find out what it is!",
@@ -3430,7 +3430,7 @@
   {
     "title": "99balls",
     "service": "custom",
-    "url": "/games/99balls/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/99balls/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/99balls/99-balls-evo.jpg",
     "description": "Play this game to find out what it is!",
@@ -3439,7 +3439,7 @@
   {
     "title": "9007199254740992",
     "service": "custom",
-    "url": "/games/9007199254740992/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/9007199254740992/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/9007199254740992/logo-4.png",
     "description": "Play this game to find out what it is!",
@@ -3448,7 +3448,7 @@
   {
     "title": "2048 Multitask",
     "service": "custom",
-    "url": "/games/2048-multitask/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/2048-multitask/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/2048-multitask/splash.png",
     "description": "Play this game to find out what it is!",
@@ -3457,7 +3457,7 @@
   {
     "title": "1v1.space",
     "service": "custom",
-    "url": "/games/1v1space/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/1v1space/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/1v1space/splash.png",
     "description": "Play this game to find out what it is!",
@@ -4151,7 +4151,7 @@
   {
     "title": "Surviv.io",
     "service": "custom",
-    "url": "/games/surviv/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/surviv/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/surviv/img/favicon.png",
     "description": "A high-powered hybrid of arcade-style soccer and vehicular mayhem with easy-to-understand controls and fluid, physics-driven competition.",
@@ -4160,7 +4160,7 @@
   {
     "title": "Doodle Jump",
     "service": "custom",
-    "url": "/games/doodle-jump/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/doodle-jump/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/doodle-jump/doodle.png",
     "description": "Play this game to find out what it is!",
@@ -4275,7 +4275,7 @@
   {
     "title": "Tiny Fishing",
     "service": "custom",
-    "url": "/games/tiny-fishing/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/tiny-fishing/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/tiny-fishing/thumb.png",
     "description": "Play this game to find out what it is!",
@@ -4303,7 +4303,7 @@
   {
     "title": "Crossy Road",
     "service": "custom",
-    "url": "/games/crossyroad/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/crossyroad/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/crossyroad/crossyroad.png",
     "description": "Play this game to find out what it is!",
@@ -4321,7 +4321,7 @@
   {
     "title": "Flappy Bird",
     "service": "custom",
-    "url": "/games/flappy-bird/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/flappy-bird/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/flappy-bird/assets/thumb.png",
     "description": "Play this game to find out what it is!",
@@ -4348,7 +4348,7 @@
   {
     "title": "Chrome Dino",
     "service": "custom",
-    "url": "/games/chrome-dino/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/chrome-dino/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/chrome-dino/icons/icon-256.png",
     "description": "Play this game to find out what it is!",
@@ -4357,7 +4357,7 @@
   {
     "title": "Chess",
     "service": "custom",
-    "url": "/games/chess/chess.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/chess/chess.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/chess/84391856-3910-4B44-AF7E-ACF1056658C2.jpeg",
     "description": "Play this game to find out what it is!",
@@ -4375,7 +4375,7 @@
   {
     "title": "Fruit Ninja",
     "service": "custom",
-    "url": "/games/fruitninja/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/fruitninja/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/fruitninja/FruitNinjaTeaser.jpg",
     "description": "Play this game to find out what it is!",
@@ -4466,7 +4466,7 @@
   {
     "title": "2048",
     "service": "custom",
-    "url": "/games/2048/index.html",
+    "url": "https://raw.githack.com/TamoghnaK13/Zatoga-Assets/main/2048/index.html",
     "premium": false,
     "thumb": "https://storage.googleapis.com/zatoga-assets/games/2048/thumb.png",
     "description": "Play this game to find out what it is!",
