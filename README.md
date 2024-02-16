@@ -8,6 +8,7 @@ A PWA to easily get distracted by:
 * Playing an entire collection of more advanced online games which have been proxied
 
 -> Zatoga Lite is a snapshot of the Zatoga website as it was at the end of 2021.
+Zatoga: https://zatoga.net
 
 ### Hosting:
 * **Fast (recommended): https://zlite.zatoga.net
